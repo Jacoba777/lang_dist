@@ -1,0 +1,208 @@
+English	Dutch	German	Yiddish	Norwegian	Icelandic	Swedish	Danish	French	Italian	Spanish	Romanian	Catalan	Neopolitan	Sicilian	Korean	Border
+aɪ	ɪk	ɪç	ɪχ	jæɪ̯	jɛɣ	jɑː(ɡ)	jɑ̈(j)	ʒə	ˈi.o	ˈʝo	jew	ˈʒɔ	ˈi	ˈi.ʊ	nɑ	x
+juː	jɛi	duː	dʊ	dʉː	θu	dʉː	ˈd̥u	ty	ˈtu	ˈtu	tu	ˈtu	ˈtu	tu	nʌ	x
+ˈhiː	hɛi	eːr	ɛʁ	han	ˈhanː	hanː	han	il	ˈluj	ˈel	jel	ˈeʎ	ˈissə	ˈiɖɖu	k⁽ʰɯ̽	x
+wiː	ʋɛi	viːɐ̯	mɪʁ	ʋiː	vɪð	viː	vi	nu	ˈnoj	noˈsotɾos	noj	noˈzal.tɾəs	ˈnujə		uɾi	x
+juː	ˈjʏli	iːɐ̯		ˈdeːɾə	θɪð	niː	i	vu	ˈvoj	boˈsotɾos	voj	voˈzal.tɾəs	ˈvujə		nʌhɰi	x
+ðeɪ	zɛiː	ziː	zɛɪ̯	diː	θeiːr	dɔm	di	il	ˈlo.ro	ˈeʝos	ˈjej	ˈeʎs	ˈllɔːrə	ˈiɖɖi	k⁽ʰɯ̽dɯ̽l	x
+ðɪs	ˈdeːzə	ˈdiːzər	dɛr		ˈθɛsːɪ		ˈd̥ɛnə	sə.si	ˈkwe.sto	ˈeste	aˈt͡ʃes.ta	əˈkəst	ˈkistə	ˈki.ʃt̪u	i	x
+ðæt	di	de	ˈjɛnəʁ	ˈdɛn	ˈhɪnː	dɛnː	dɛnˀ	sə.la	ˈkwel.lo	ˈese	aˈt͡ʃe.la	əˈkəʎ	ˈkillə	ˈkiɖɖu	k⁽ʰɯ̽	x
+hɪə	hiːr	hiːr	dɔ	hæːr	çɛːr	hæːr		i.si	ˈkwi	aˈki	aˈit͡ʃʲ	əˈsi	ˈkka	ˈkka	jʌgi	x
+ðɛə	daːr	daː	dɔʁt	dæːr	θaːr	dɛːr	ˈdɛːˀr	la	ˈli	aˈi	aˈko.lo	əˈʎa		ˈɖɖa	k⁽ʰʌgi	x
+huː	ʋi	veːr	vɛr	vɛm	kʰvɛːr		vɛmˀ	ki	ki	ˈkjen	ˈt͡ʃi.ne	ˈki		ku	nugu	x
+wɒt	ʋɑt	vas	vɔs	ʋɑː	kʰvaːð	vɑːd	vað	kwa	ˈke	ˈke	t͡ʃe	ˈkə			muʌ̹t̚	x
+wɛə	ʋaːr	voː	vʊ	ʋʊɾ	kʰvaːr	vɑːr	vɒˀ	u	ˈdo.ve	ˈdonde	ˈun.de	ˈon		ˈun.nɪ	ʌdi	x
+wɛn	ʋɑˈneːr	van	vɛn	nɔɾ	ˈkʰvɛːnair	-æːr	vɒˈnɒːˀ	kã	ˈkwan.do	ˈkwando	kɨnd	ˈkwan	ˈkwannə	ˈkwan.nʊ	ˈɘːnd͡ʑe̞	x
+haʊ	hu	viː	vɪ		ˈkʰvɛ(r)dnɪ(ɣ)	hʉːr	ʋʌˈd̥an	kɔ.mã	ˈko.me	ˈkomo	ˈkum	ˈkɔm			ʌ̹t͈ʌ̹kʰe̞	x
+nɒt	nit	nɪçt	nit	²ɪkːə	ˈɛhcɪ	²ɪntɛ	ˈeɡə	nə pɑ	non	ˈno	nu	ˈno			ɑn	x
+ɔːl	ɑl	ˈalə	ˈaɫə		ˈatlʏr	ˈalˌa	alə	tu	ˈtut.to	ˈtodo	tot	ˈtot	ˈtuttə		modɯn	x
+ˈmɛni	veːl	ˈfiːlə		ˈmɑŋə	ˈmarkʏr		ˈmɑŋə	bo.ku	ˈtan.to	ˈmut͡ʃo	mult͡sʲ	ˈmolt	asˈsaːjə	asˈsaj	maːnɯn	x
+sʌm	ˈɛŋkələ	ˈaɪ̯nɪɡə	ˈɛtləχə	ˈnuːə		ˈnoːˌ(ɡ)ra	ˈnoən	kelk	alˈku.ni	alˈɡuno	ˈniʃ.te	əlˈɡun			ʌt͈ʌn	x
+fjuː	ˈʋɛinəx	ˈveːnɪç	ˈvɛɪ̯nɪk		fauːr	foː	ˈfɔˀ	pø	ˈpɔ.ko	ˈpoko	puˈt͡sin	ˈpɔk	ˈpɔːkə	ˈpikːa	t͡ɕogɯm	x
+ˈʌðə	ˈandər	ˈandərər	ˈandəʁ	ˈɑːˌɑn	ˈanːar		ˈanən	otʁ	ˈal.tro	ˈotɾo	alt	ˈal.tɾə	ˈaːtə	ˈaɯʈɹʊ	tɑɾɯ̽n	x
+wʌn	eːn	aɪ̯ns	ɛɪ̯ns	eːn	eitn	ɛt	en	œ̃	un	ˈuno	ˈu.nu	ˈun	ˈunə		hɑnɑ	x
+tuː	tʋeː	t͡svaɪ̯	t͡svɛɪ̯	tuː	t̪v̥ei̯ːr̥	tvoː	ˈtˢoˀ	dø	ˈdu.e	ˈdos	doj	ˈdos	ˈddujə		tuːɭ	x
+θriː	dri	dʁaɪ̯	draɪ̯	tɾeː	θriːr	treː	ˈtˢʁ̥ɛˀ	tʁwɑ	ˈtre	ˈtɾes	ˈtrej	ˈtɾəs	ˈtre	ʈɽi	sʰe̞t̚	x
+fɔː	viːr	fiːr	fɪr	ˈfiːɾə	ˈfjouːrɪr	ˈfyːˌra	fiːrə	katʁ	ˈkwat.tro	ˈkwatɾo	ˈpa.tru	ˈkwa.tɾə	ˈkwatt(ə)		ne̞t̚	x
+faɪv	vɛif	fʏnf	fɪnf	fɛm	fɪmː	fɛm	ˈfɛmˀ	sɛ̃k	ˈt͡ʃin.kwe	ˈθinko	t͡ʃint͡ʃʲ	ˈsiŋk			ta̠sʰʌ̹t̚	x
+bɪg	ɣroːt	ɡʁoːs	ɡrɔɪ̯s	stuːɾ	stouːr	stuːr	stoːˀr	ɡʁã	ˈɡran.de	ˈɡɾande	ˈma.re	ˈɡɾan	ˈɡrwossə	ˈɾanni	kʰɯdɑ	x
+lɒŋ	lɑŋ	laŋ	ɫaŋ(ɡ)		ˈlaŋkʏr		lanɡ	lõ	ˈlun.ɡo	ˈlaɾɡo	luŋɡ	ˈʎaɾk	ˈlwoŋɡə	ˈlɔnɡʊ	kildɑ	x
+waɪd	breːt	bʁaɪ̯t	brɛɪ̯t		ˈpreiːðʏr	-eːd	breːˀð	laʁʒ	ˈlar.ɡo	ˈant͡ʃo	larɡ	ˈam.plə			nʌ̹ɭt͈a̠	x
+θɪk	dɪk	dɪk			ˈθɪhkʏr	ɕɔk	tyk	epɛ	ˈspes.so	ˈɡɾweso	ɡros	ɡɾuˈʃut			tuk͈ʌ̹p̚t͈a̠	x
+ˈhɛvi	zʋaːr	ʃveːɐ̯	ʃvɛʁ		ˈθuŋkʏr	tɵŋ	ˈtˢɔŋˀ	luʁ	peˈzan.te	peˈsado	ɡrew	pəˈzat	pəˈsantɐ		muɡʌ̹p̚t͈a̠	x
+smɔːl	klɛin	klaɪ̯n	ˈkɫɛɪ̯n	²liːtən	ˈliːtɪtl	²liːtɛn	lilə	pəti	ˈpik.ko.lo	peˈkeɲo	mik	pəˈtit	pittʃəˈɾillə	ˈni.kʊ	t͡ɕa̠k̚t͈a̠	x
+ʃɔːt	kɔrt	kʊʁt͡s	kʊʁt͡s	kɔʈ	ˈstʏhtʏr	kɔrt	kɔrt	kuʁ	ˈkor.to	ˈkoɾto	skurt	ˈkuɾt	ˈkurtə		t͡ɕ͈a̠ɭt͈a̠	x
+ˈnærəʊ	smɑl	ɛŋ		tɾɑŋ	mjouːr		snɛvər	etʁwa	ˈstret.to	esˈtɾet͡ʃo	strɨmt	əsˈtɾət	ˈʃtrində		t͡ɕo̞p̚t͈a̠	x
+θɪn	dʏn	dʏn	dɪn		ˈθʏnːʏr		tˢønˀ	mɛ̃s	sotˈti.le	delˈɡado	subˈt͡si.re	ˈpɾim			ja̠ɭt͈a̠	x
+ˈwʊmən	vrɔu	fʁaʊ̯	frɔj	²kʋɪnːə	ˈkʰɔna	²kvɪnːˌa	ˈkvenə	fam	ˈdɔn.na	muˈxeɾ	fe.ˈme.je	ˈdɔ.nə	ˈfemmənə		kje̞d͡ʑip̚	x
+mæn	mɑn	man		mɑnː	kʰartl	man	manˀ	ɔm	ˈwɔ.mo	baˈɾon	bərˈbat	ˈɔ.mə	ˈɔmmə	ˈɔmu	sʰa̠na̠i	x
+ˈpɜːsən	mɛns	mɛnʃ	mɛnt͡ʃ	ˈmɛnː(ə)skə	ˈmaðʏr	mɛnːɪɧa	mɛnəskə	ɔm	perˈso.na	ˈombɾe	om	uˈma		ˈɔmu	sʰa̠ɾa̠m	x
+ʧaɪld	kɪnt	kɪnt	kɪnd	bɑːɳ	ˈpartn̥	bɑːrn	barn	ɑ̃fɑ̃	bamˈbi.no	ˈniɲo	koˈpil	ˈnən		ˌpit.t͡ʃɪˈɾi.ɖɖʊ	a̠i	x
+waɪf	vrɔu	fʁaʊ̯	vaɪ̯b		ˈeiːjɪn.kʰɔːna	frʉː		fam	ˈmoʎ.ʎe	esˈposa	soˈt͡sije	muˈʎe	muʎˈʎɛ.rə	mʊɟˈɟɛ.ɾɪ	a̠ne̞	x
+ˈhʌzbənd	mɑn	man		mɑnː	ˈeiːjɪn.maːðʏr	man	manˀ	maʁi	maˈri.to	esˈposo	sot͡s	məˈɾit	maˈriːtə	maˈɾi.tu	t͡ɕia̠bi	x
+ˈmʌðə	ˈmudər	ˈmʊtər	ˈmʊtəʁ		ˈmouːðɪr	muːr	moːɐ̯	mɛʁ	ˈma.dre	ˈmadɾe	ˈma.mə	ˈma.ɾə		ˈma.tɹɪ	ʌ̹mʌ̹ni	x
+ˈfɑːðə	ˈvaːdər	ˈfaːtər	ˈfɔtəʁ		ˈfaːðɪr	fɑːr	fɑː	pɛʁ	ˈpa.dre	ˈpadɾe	ˈta.tə	ˈpa.ɾə		ˈpa.tɹɪ	a̠bʌ̹d͡ʑi	x
+ˈænɪməl	diːr	tiːr	ˈχaɪ̯ə	dyːr	tiːr	ˈjʉːr	dyːˀɐ̯	animal	a.niˈma.le	aniˈmal	a.niˈmal	ə.niˈmal		aɾˈma.lu	t͡ɕimsʰɯŋ	x
+fɪʃ	vɪs	fɪʃ	fɪʃ	fɪsk	ˈfɪskʏr	fɪsk	ˈfesk	pwasõ	ˈpeʃ.ʃe	ˈpeθ	ˈpeʃ.te	ˈpeʃ	ˈpeːʃə	ˈpiʃʃɪ	muɭk͈o̞ɡi	x
+bɜːd	ˈvoːɣəl	ˈfoːɡəl	ˈfɔɪ̯ɡl̩	fʉːl	fʏkl	ˈfoːɡəl	fuːˀl	wazo	utˈt͡ʃɛl.lo	ˈpaxaɾo		oˈseʎ	awˈt͡ʃiə̯ɫːɐ	aˈɕjɛɖɖu	sʰe̞	x
+dɒg	hont	hʊnt	hʊnt	hʉnː	ˈhʏntʏr	hɵnd	hunˀ	ʃjɛ̃	ˈka.ne	ˈpero	ˈkɨj.ne	ˈɡos		ˈka.nɪ	ke̞ː	x
+laʊs	lœys	laʊ̯s			luːs	-ʉːs		pu	piˈdɔk.kjo	ˈpjoxo		ˈpoʎ			i	x
+sneɪk	slɑŋ	ˈʃlaŋə	ʃlaŋ(ɡ)		ˈstlauŋka	ˈʊrm	ˈslɑŋə	sɛʁpɑ̃	serˈpɛn.te	seɾˈpjente	ˈʃarpe	ˈseɾp			pe̞ːm	x
+wɜːm	ʋɔrm	vʊrm			ˈɔrmʏr		oːˀrm	vɛʁ	ˈvɛr.me	ɡuˈsano		ˈkuk			pʌ̹ɭɭe̞	x
+triː	boːm	baʊ̯m	bɔɪ̯m	tɾeː	tʰrjɛː	trɛː(d)	trɛːˀ	aʁbʁ	ˈal.be.ro	ˈaɾbol	ˈaɾ.bo.re	ˈa.bɾə			na̠mu	x
+ˈfɒrɪst	ʋɔut	fɔrst		skuːɡ	ˈskouːʏr	skuːɡ	ˈsɡ̊ɒwˀ	fɔʁɛ	foˈrɛ.sta	ˈboske	pəˈdu.re	ˈbɔsk			sʰup̚	x
+stɪk	stɔk	ʃtɔk			ˈstaːvʏr		kɛp	bɑtɔ̃	baˈsto.ne	ˈpalo		bəsˈto		vaˈstu.nɪ	ma̠k̚t͈e̞ɡi	x
+fruːt	frœyt	frʊxt	fʁʊχt		ˈauːvœxstʏr	ˈfrɵkt	froɡt	fʁɥi	ˈfrut.ta	ˈfɾuta		ˈfɾujt			jʌ̹ɭme̞	x
+siːd	zaːt	ˈzaːmən	ˈzɔɪ̯mn̩		fraiː	frøː	frœː	ɡʁɛn	ˈse.me	seˈmiʝa	səˈmɨntsə	ʎəˈvo			ɕ͈i	x
+liːf	blɑt	blat	bɫat	blaːd	ˈløyv.plaːð	løːv	blad	fœj	ˈfɔʎ.ʎa	ˈoxa	ˈfrun.zə	ˈfu.ʎə		ˈfɔɡɡja	ip̚	x
+ruːt	ˈʋɔrtəl	ˈvʊʁt͡sl̩			rouːt	ruːt	ˈʁoˀð	ʁasin	raˈdi.t͡ʃe	raˈiθ		əˈrɛl			p͈uɾi	x
+bɑːk	sxɔrs	ˈbɔrkə			ˈpœr̥kʏr		bark	ekɔʁs	korˈtet.t͡ʃa	koɾˈteθa	ˈsko̯ar.t͡sə	əsˈkɔɾ.sə			na̠muk͈ʌ̹p̚t͡ɕ͈iɭ	x
+ˈflaʊə	blum	ˈbluːmə	bɫʊm		plouːm	blʊ.ma	ˈb̥lʌmˀsd̥	flœʁ	ˈfjo.re	ˈfloɾ	ˈflo̯a.re	ˈflɔ	ˈʃoːrə		k͈o̞t̚	x
+grɑːs	ɣrɑs	ɡʁaːs	ɡʁɔz		kraːs			ɛʁb	ˈɛr.ba	ˈʝeɾba	ˈjar.bə	ˈeɾ.bə	ˈɛvəɾə		pʰuɭ	x
+rəʊp	tɔuw	ˈlaɪ̯nə			ˈreiːpɪ	ˈreːp		kɔʁd	ˈkɔr.da	ˈkweɾda		ˈkɔɾ.də		ˈkɔɾ.da	pa̠t̚t͡ɕ͈uɭ	x
+skɪn	hœyt	haʊt	heɪt		huːð	hʉːd	-end	po	ˈpɛl.le	ˈpjel	ˈpjele	ˈpeʎ			sʰa̠ɭɡa̠t̚	x
+miːt	vleːs	flaɪ̯ʃ	fɫɛɪ̯ʃ	çœt	kʰjœːt	ɕœtː	køð	vjɑ̃d	ˈkar.ne	ˈkaɾne	ˈkarne	ˈkaɾn		ˈkaɾnɪ	ko̞ɡi	x
+blʌd	blut	bluːt	bɫʊt	bluː	plouːð	bluːd	ˈb̥loˀð	sɑ̃	ˈsan.ɡwe	ˈsanɡɾe	ˈsɨn.d͡ʒe	ˈsaŋk		ˈsaŋɡu	pʰi	x
+bəʊn	beːn	ˈknɔχn	bɛɪ̯n		ˈpeiːn	ˈbeːn	beːˀn	ɔs	ˈɔs.so	ˈw̝eso	os	ˈɔs	ˈwoss(ə)		p͈jʌ̹	x
+fæt	vɛt	fɛt			ˈfɪːta	fɛt	ˈfed̥	ɡʁɛs	ˈɡras.so	ˈɡɾasa		ˈɡɾeʃ		ˈɾassu	kiɾɯm	x
+ɛg	ɛi	aɪ̯	ɛɪ̯	ɛɡ	ˈɛkː	ɛɡː	ɛːˀɡ	œf	ˈwɔ.vo	ˈw̝ebo	ow	ˈɔw	ˈuːovə	ˈɔu	a̠ɭ	x
+hɔːn	ˈhoːrn	hɔrn		huːrn	hɔrtn		hoɐ̯ˀn	kɔʁn	ˈkɔr.no	ˈkweɾno	korn	ˈkɔɾn			p͈uɭ	x
+teɪl	staːrt	ʃvan	ɛk		ˈhaːlɪ	svans	haːlə	kø	ˈko.da	ˈkola	ˈko̯adə	ˈku.ə			k͈o̞ɾi	x
+ˈfɛðə	veːr	ˈfeːdəʁ			fjœːðʏr		fjeˀɐ̯	plym	ˈpen.na	ˈpluma				ˈpinna	kit̚tʰʌ̹ɭ	x
+hɛə	haːr	haːr	hɔʁ		hauːr	hoːr	hɔːˀr	ʃəvø	kaˈpel.lo	ˈpelo	-ər	ˈpɛl	kaˈpillə		tʰʌ̹ɭ	x
+hɛd	hoːft	haʊ̯pt	kɔp	ˈhoːð̩	hœːvʏθ	²hʉːvɵd	ˈhoːəð	tɛt	ˈtɛ.sta	kaˈbeθa	ˈkap	ˈkap	ˈkapə		mʌ̹ɾi	x
+ɪər	oːr	oːr	ˈɔɪ.əʁ		ˈeira	²øːra	øːrə	ɔʁɛj	oˈrek.kjo	oˈɾexa	uˈre.ke	oˈɾə.ʎə			kɥi	x
+aɪ	oːx	ˈaʊ̯ɡə	ɔɪ̯ɡ	ˈœ̂ʏ̯ə	ˈøyːɣa	ˈøːˌɡa	ɔjə	œj	ˈɔk.kjo	ˈoxo	okʲ	ˈuʎ	ˈwoccə	ˈɔk.kju	nun	x
+nəʊz	nøːs	ˈnaːzə	nɔz		nɛːv	ˈnɛːsˌa	ˈnɛːsə	ne	ˈna.zo	naˈɾiθ	-as	ˈnas		ˈnasu	kʰo̞	x
+maʊθ	mɔnt	mʊnt	mɔɪ̯ɫ		ˈmʏnːʏr	mɵn	monˀ	buʃ	ˈbok.ka	ˈboka	ˈɡu.rə	ˈbo.kə	ˈvokkə	ˈvukka	ip̚	x
+tuːθ	tɑnt	t͡saːn	tsɔn		tʰœnː	ˈtand	tan	dɑ̃	ˈdɛn.te	ˈdjente	ˈdinte	ˈdent			i	x
+tʌŋ	tɔŋ	ˈtsʊŋə	tsʊŋ(ɡ)		ˈtʰuŋka	²tɵŋa	ˈtˢɔŋə	lɑ̃ɡ	ˈlin.ɡwa	ˈlenɡwa	ˈlim.bə	ˈʎən.ɡwə	ˈleŋɡwə		çjʌ̹	x
+ˈfɪŋgəneɪl	ˈvɪŋərˈnaːɣəl	ˈfɪŋərˌnaːɡəl		næɪl	nœkl	ˈnɑːɡɛl		ɔ̃ɡl	ˈun.ɡja	ˈuɲa	ˈuŋ.ɡje	ˈun.ɡlə	ˈoɲɲə		sʰo̞ntʰo̞p̚	x
+fʊt	vut	fuːs	fʊs		ˈfouːtʏr	fuːt	ˈfoˀð	pje	ˈpjɛ.de	ˈpje	piˈt͡ʃor	ˈpɛw	ˈpɛːɾə	ˈpɛ.di	pa̠ɭ	x
+lɛg	beːn	baɪ̯n	fʊs		ˈlɛkːʏr	ˈbeːn	beːˀn	ʒɑ̃b	ˈɡam.ba	ˈpjeɾna	piˈt͡ʃor	ˈka.mə		ˈjam.ma	ta̠ɾi	x
+niː	kni	kniː	knɪ		n̥jɛː	knɛː		ʒənu	d͡ʒiˈnɔk.kjo	roˈdiʝa	dʒeˈnunkʲ	ʒəˈnoʎ	rəˈnucc		muɾɯp̚	x
+hænd	hɑnt	hant	hant		hœnt	hand	hɔnˀ	mɛ̃	ˈma.no	ˈmano	ˈmɨ.nə	ˈma			sʰo̞n	x
+wɪŋ	ˈvløːɣəl	ˈfɪtɪç			ˈvaiŋkʏr	ˈvɪŋˌɛ		ɛl	ˈa.la	ˈala	aˈri.pə	ˈa.lə	ˈʃel.lə		na̠ɭɡe̞	x
+ˈbɛli	bœyk	baʊ̯x	bɔɪχ		ˈmaijɪ	²mɑːɡɛ	maːvə	vɑ̃tʁ	ˈpan.t͡ʃa	baˈriɡa	ˈbur.tə	ˈpaɲ.ʃə		ˈpãntsa	pe̞	x
+gʌts	ˈdɑrmə	ˈaɪ̯nɡəvaɪ̯də			ˈɪnː.ɪplɪ		tarm	ɑ̃tʁɑj	in.teˈsti.no	ˈtɾipas		buˈdeʎs			t͡ɕʰaŋd͡ʑa	x
+nɛk	nɛk	hals	haɫd͡z	hals	hauls		hals	ku	ˈkɔl.lo	ˈkweʝo	ɡɨt	ˈkɔʎ	ˈkuollə		mo̞k̚	x
+bæk	rʏx	ˈʁʏkn̩			paːk	rʏɡ	ˈʁœɡ̊	do	ˈskjɛ.na	esˈpalda	ˈspate	əsˈkə.nə			tɯŋ	x
+brɛst	bɔrst	bʁʊst			prjoust		brøsd	sɛ̃	ˈpɛt.to	ˈpet͡ʃo	pjept	ˈpit		ˈpɛt̪t̪u	ka̠sʰɯm	x
+hɑːt	hɑrt	hɛrts	haʁt͡s	¹jɛrtɛ	ˈçar̥ta	ˈjɛrˌta	jɛrtə	kœʁ	ˈkwɔ.re	koɾaˈθon	ˈinimə	ˈkɔr	ˈkɔːrə	ˈkɔri	jʌ̹mtʰo̞ŋ	x
+ˈlɪvə	ˈleːvər	ˈleːbɐ			ˈlɪːvʏr		ˈlewˀɐ	fwɑ	ˈfe.ɡa.to	ˈiɡado		ˈfe.d͡ʒə			kan	x
+drɪŋk	ˈdrɪŋkə	ˈtʁɪŋkən			ˈtrɛhka	²drɪkːa	ˈd̥ʁɛɡ̊ə	bwɑʁ	ˈbe.re	beˈbeɾ	be̯a	ˈbəw.ɾə			mʌ̹k̚t͈a̠	x
+iːt	ˈeːtə	ˈɛsən	ɛsn̩	ˈspiːsə	ˈpɔrða	ˈɛːˌta	spiːsə	mɑ̃ʒe	manˈd͡ʒa.re	koˈmeɾ	mɨnˈka	məɲˈʒa			mʌ̹k̚t͈a̠	x
+baɪt	ˈbɛitə	ˈbaɪ̯sən	ˈbaɪ̯sn̩		ˈpiːta		ˈb̥iːðə	mɔʁdʁ	ˈmɔr.de.re	moɾˈdeɾ	muʃˈka	mo.səˈɡa			muɭda̠	x
+sʌk	ˈzœyɣə	ˈlʊ.t͡ʃn̩			ˈsjuːa		sutɘ	syse	sukˈkja.re	t͡ʃuˈpaɾ	ˈsu.d͡ʒe	ʃuˈkla			p͈a̠ɭda̠	x
+spɪt	ˈspywə	ˈʃpaɪ̯ən			ˈscɪr̥pa		spøtɘ	kʁaʃe	spuˈta.re	eskuˈpiɾ		əs.kuˈpi			pe̞t̚t͈a̠	x
+ˈvɒmɪt	ˈbraːkə	ˈbʁɛçən			ˈaiːla	²krɛːˌkas	ˈkʰasd̥ə	vɔmiʁ	vo.miˈta.re	bomiˈtaɾ	boˈrɨ	vo.miˈta			ke̞uda̠	x
+bləʊ	ˈblaːzə	ˈblaːzn̩		bloːse	ˈplauːsa		blɛːsə	sufle	sofˈfja.re	soˈplaɾ	suˈfla	buˈfa			puɭda̠	x
+briːð	ˈaːdəmə	ˈaːtmən			ˈanta		ɔnə	ʁɛspiʁe	re.spiˈra.re	respiˈɾaɾ		rəs.piˈɾa			ʃʰɥida̠	x
+lɑːf	ˈlɑxə	ˈlaxən	ˈɫaχn̩		ˈl̥aiːja		leˀ	ʁiʁ	ˈri.de.re	reˈiɾ	ˈrɨ.de	ˈriw.ɾə		ˈʐiː.dɪ.ɾɪ	ut̚t͈a̠	x
+siː	zin	ˈzeː.ən	zɛn	seː	ˈsjauː	seː	ˈseˀ	vwaʁ	veˈde.re	ˈbeɾ	veˈde̯a	ˈvəw.ɾə			podɑ	x
+hɪə	ˈhoːrə	ˈhøːrən			ˈheiːra	²høːra	ˈhøːʁə	ɑ̃tɑ̃dʁ	senˈti.re	oˈiɾ		sənˈti			tɯt̚t͈a̠	x
+nəʊ	ˈʋeːtə	ˈkɛnən	vɪsn̩	²ʋiːtɛ	ˈvɪːta	²veːta	viːðə	savwaʁ	saˈpe.re	saˈbeɾ	ˈʃti	səˈbə		sa.ˈpi.ɾɪ	ɑlda	x
+θɪŋk	ˈdɛŋkə	ˈdɛŋkən			ˈhʏxsa	-²ɛŋka	tɛnkə	pɑ̃se	penˈsa.re	penˈsaɾ	ku.d͡ʒeˈta	pənˈsa			he̞a̠ɾida̠	x
+smɛl	ˈrœykə	ˈʁiːçn̩	ˈʃmɛkn̩		ˈlɪxta		loɡtɘ	sɑ̃tiʁ	o.doˈra.re	oˈleɾ	mi.roˈsi	o.loˈɾa			ma̠t̚t͈a̠	x
+fɪə	ˈvreːzə	ˈfʏʁçtən			ˈouhtast	²vɑːra	ˈfʁ̥œɡ̊d̥ə	kʁɛ̃dʁ	teˈme.re	teˈmeɾ	ˈte.me	ˈte.mə			tuɾjʌ̹p̚t͈a̠	x
+sliːp	ˈslaːpə	ˈʃlaːfn̩	ˈʃɫɔfn̩		ˈsɔːva	²soːva	sɔvə	dɔʁmiʁ	dorˈmi.re	doɾˈmiɾ	dorˈmi	duɾˈmi		ˈdɔɾ.mɪ.ɾɪ	t͡ɕ⁽ʰ⁾ada	x
+lɪv	ˈleːvə	ˈleːbən	ˈɫɛbn̩		ˈlɪːva	²leːva	ˈleːʋə	vivʁ	ˈvi.ve.re	biˈbiɾ	trəˈi	ˈviw.ɾə			s⁽ʰ⁾ɑldɑ	x
+daɪ	ˈstɛrvə	ˈʃtɛrbən	ˈʃtaʁbn̩		ˈteiːja	døː	ˈd̥øˀ	muʁiʁ	moˈri.re	moˈɾiɾ	muˈri	muˈɾi			t͡ɕuk̚t͈a̠	x
+kɪl	ˈdoːdə	ˈtøːtən	ˈtɛjtn̩		ˈtrɛːpa	²døːda	ˈd̥ʁɛːb̥ə	tɥe	utˈt͡ʃi.de.re	maˈtaɾ	uˈtʃi.de	məˈta	atˈt͡ʃiːrərə		t͡ɕuɡida̠	x
+faɪt	ˈvɛxtə	ˈfɛçtən			ˈriːvast		kɛmbə	səbatʁ	komˈbat.te.re	peleˈaɾ		ʎujˈta			ta̠tʰuda̠	x
+hʌnt	ˈjaːɣə	ˈjaːɡən	ˈjɔɡŋ̩		ˈveiːða	ˈjɑːˌɡa	ˈjaːɣə	ʃase	katˈt͡ʃa.re	kaˈθaɾ		kəˈsa			sʰa̠ɲja̠ŋ	x
+hɪt	slaːn	ˈʃlaːɡn̩	ˈʃɫɔɡŋ̩		ˈpɛrja	sloː	slɔːˀ	fʁape	kolˈpi.re	ɡolpeˈaɾ		kol.pəˈʒa	ˈvattərə		t͡ɕʰida̠	x
+kʌt	ˈknɪpə	ˈʃnaɪ̯dn̩	ˈʃnaɪ̯dn̩		ˈscɛːra	ˈɧæːˌra	skɛːrə	kupe	taʎˈʎa.re	koɾˈtaɾ		təˈʎa			pe̞da̠	x
+splɪt	ˈsplɛitə	ˈʃpaltn̩	ˈtɛɪ̯ɫn̩		ˈkʰljuːva	deːla	spletə	fɑ̃dʁ	diˈvi.de.re	paɾˈtiɾ		pəɾˈti	ˈʃpartərə		ka̠ɾɯda̠	x
+stæb	ˈsteːkə	ˈʃtɛçn̩	ˈʃtɛχn̩		ˈstiŋka		ˈsd̥eɡ̊ə	pwaɲaʁde	puɲ.ɲaˈla.re	apuɲaˈlaɾ		ə.pu.ɲəˈla		t̪aɡ.ˈɡjaː.ɾɪ	t͡ɕ͈iɾɯda̠	x
+skræʧ	ˈkrɑbə	ˈkʁat͡sn̩			ˈkʰlouːra		krasɘ	ɡʁate	ɡrafˈfja.re	aɾaˈɲaɾ		rəsˈpa			kɯk̚t͈a̠	x
+dɪg	ˈɣraːvə	ˈɡʁaːbən		ˈɡrɑːʋ	ˈkraːva		ɡraːvə	kʁøze	skaˈva.re	kaˈbaɾ		kəˈva			pʰa̠da̠	x
+swɪm	ˈzʋɛmə	ˈʃvɪmən	ˈʃvɪmən	ˈsʋœmːə	ˈsɪnta	²sɪma	svœmə	naʒe	nwoˈta.re	naˈdaɾ		nəˈda			he̞ʌ̹mt͡ɕʰida̠	x
+flaɪ	ˈvliɣə	ˈfliːɡn̩		flyː	ˈfljuːa	ˈflyːˌɡa	flyːvə	vɔle	voˈla.re	boˈlaɾ	zbuˈra	voˈla			na̠ɭda̠	x
+wɔːk	ˈloːpə	ˈɡeːən	ɡɛɪ̯n	ɡoː	ˈkauŋka	ɡoː	ˈɡ̊ɔˀ	maʁʃe	kam.miˈna.re	kamiˈnaɾ	ˈmer.d͡ʒe	kə.miˈna		ka.miˈna.ɾi	kʌ̹t̚t͈a̠	x
+kʌm	ˈkoːmə	ˈkɔmən	ˈkʊmən		ˈkʰɔːma	²kɔma	ˈkʰʌmə	vəniʁ	veˈni.re	beˈniɾ	veˈni	vəˈni			o̞da̠	x
+laɪ	ˈlɪɣə	ˈliːɡən		ˈlêɡe	ˈlɪcːa		ˈlɛɡ̊ə	setɑ̃dʁ		eˈt͡ʃaɾse	zəˈtʃe̯a	ˈʒɛw.ɾə		kuɾˈkaɾisi	nup̚t͈a̠	x
+sɪt	ˈzɪtə	ˈzɪtsn̩	ˈzɪt͡sn̩		ˈsɪːtja	²sɪta	ˈsɛd̥ə	saswaʁ		senˈtaɾse	a.ʃeˈza	ˈsɛw.ɾə			a̠nt͈a̠	x
+stænd	staːn	ˈʃteː.ən	ʃtɛɪ̯n		ˈstanta	stoː	ˈsd̥ɔˀ	sələve		lebanˈtaɾse	skuˈla	əsˈta			sʰʌ̹da̠	x
+tɜːn	ˈdraːjə	ˈdʁeː					drajə	tuʁne	d͡ʒiˈra.re	xiˈɾaɾ	ɨn.ˈto̯ar.t͡ʃe	ʒiˈɾa			to̞ɭda̠	x
+fɔːl	ˈvɑlə	ˈfaln̩	ˈfaɫn̩		ˈtɛhta	²falːa	ˈfalə	tɔ̃be	kaˈde.re	kaˈeɾ	kəˈde̯a	ˈkaw.ɾə			t͈ʌ̹ɾʌ̹d͡ʑida̠	x
+gɪv	ˈɣeːvə	ɡeːb	ˈɡɛ.bn̩	jiː	ˈcɛːva	jeː	ˈɡ̊iˀ	dɔne	ˈda.re		da	doˈna			t͡ɕuda̠	x
+həʊld	ˈhɔudə	ˈhaltn̩	ˈhaɫtn̩		ˈhalta	ˈhɔ̂lːä	ˈhʌlə	təniʁ	teˈne.re	teˈneɾ		təˈni			t͡ɕa̠p̚t͈a̠	x
+skwiːz	ˈknɛipə	ˈkvɛtʃən	kvɛtʃn̩		ˈkʰreista		ˈpʰʁ̥asə	seʁe	ˈsprɛ.me.re	apɾeˈtaɾ		ˈpɾe.mə			t͡ɕ͈a̠da̠	x
+rʌb	ˈʋrɛivə	ˈʁaɪ̯bnˌ			ˈnʏtːa		ɡniːðɘ	fʁɔte	stro.fiˈna.re	fɾoˈtaɾ	freˈka	fɾəˈɡa		ʃɹɪˈkaɾɪ	mund͡ʑiɾɯda̠	x
+wɒʃ	ˈʋɑsə	ˈvaʃən	ˈvaʃn̩		θvɔː	ˈtvɛtːˌa		lave	laˈva.re	laˈbaɾ	spəˈla	rənˈta		laˈva.ɾɪ	ɕ͈it̚t͈a̠	x
+waɪp	ˈveɣə	ˈvɪʃn̩			ˈθʏr̥ka		ˈʋesɡ̊ə	esɥije	aʃ.ʃuˈɡa.re	limˈpjaɾ		ə.ʃuˈɡa			ta̠k̚t͈a̠	x
+pʊl	ˈtrɛkə	ˈt͡siːən			ˈtʰɔːɣa	drɑː	trɛkə	tiʁe	tiˈra.re		ˈtra.d͡ʒe	əs.tiˈɾa			k͈ɯ̽ldɑ	x
+pʊʃ	ˈdywə	ˈdʁʏkn̩	ˈʃtʊ.pm̩		ˈiːta		skɔbɘ	puse	ˈspin.d͡ʒe.re	empuˈxaɾ	ɨmˈpin.d͡ʒe	əmˈpə.ɲə			mildɑ	x
+θrəʊ	ˈʋɛrpə	ˈvɛrfən			ˈkʰasta		ˈkʰasd̥ə	ʒəte	lanˈt͡ʃa.re	tiˈɾaɾ		ʎənˈsa		jɪt̪.ˈtaː.ɾɪ	tʌ̹nd͡ʑida̠	x
+taɪ	ˈvɑstmaːkə	ˈbɪndən			ˈpɪnta		ˈb̥enə	lje	leˈɡa.re	aˈtaɾ		ʎiˈɡa			mεdɑ	x
+səʊ	ˈnaːjə	ˈnɛːən	ˈnɛɪ̯ən		ˈsøyːma		syː	kudʁ	kuˈt͡ʃi.re	koˈseɾ	ˈko̯a.se	kuˈzi	ˈkoːsərə		kip̚t͈a̠	x
+kaʊnt	ˈtɛlə	ˈʁɛçnən			ˈtʰɛlja			kɔ̃te	konˈta.re	konˈtaɾ	nu.mə.ˈra	komˈta			s⁽ʰ⁾edɑ	x
+seɪ	ˈzɛɣə	zaːɡən	ˈzɔ.ɡŋ̩	siː	ˈseiːja	ˈsɛjːa	ˈsiːə	diʁ	ˈdi.re	deˈθiɾ	ˈzi.t͡ʃe	ˈdi	ˈriːt͡ʃərə		ma̠ɾɦa̠da̠	x
+sɪŋ	ˈzɪŋə	ˈzɪŋən	ˈzɪn.ɡn̩		ˈsiɲca	²ɧɵŋa	ˈsønɡə	ʃɑ̃te	kanˈta.re	kanˈtaɾ	kɨnˈta	kənˈta			puɾɯda̠	x
+pleɪ	ˈspeːlə	ˈʃpiːlən	ˈʃpɪɫn̩		ˈleiːka	ˈleːˌka	spelə	ʒwe	d͡ʒoˈka.re	xuˈɡaɾ	ʒu.ˈka	ʒuˈɡa		juˈkaːɾɪ	no̞ɭda̠	x
+fləʊt	ˈdrɛivə	ˈʃveːbən			ˈfljouːta	²flyːta	flyːðə	flɔte	ɡal.ledˈd͡ʒa.re	floˈtaɾ	pluˈti	floˈta			t͈ɯda̠	x
+fləʊ	ˈvlujə	ˈfliːsn̩			ˈstreiːma	²flyːta	flyːðə	kule	fluˈi.re	fluˈiɾ		fluˈi			xɯɾɯda̠	x
+friːz	ˈvrizə	ˈfriːrən			ˈfrjouːsa		fryːsə	ʒəle	d͡ʒeˈla.re			ʒəˈla			ʌldɑ	x
+swɛl	ˈzʋɛlə	ˈʃvɛlən			ˈθruhtna			ɡɔ̃fle	ɡonˈfja.re	inˈt͡ʃaɾse	umˈfla	imˈfla			put̚t͈a̠	x
+sʌn	zɔn	ˈzɔnə	zʊn	suːl	souːl	suːl	soːl	sɔlɛj	ˈso.le	ˈsol	ˈso̯a.re	ˈsɔl	ˈsolə	ˈsulɪ	hε	x
+muːn	maːn	moːnt	ləˈvɔnə	ˈmoːnə	tʰʏŋl̥	ˈmoːˌnɛ	mɔːnə	lyn	ˈlu.na	ˈluna	ˈlu.nə	ˈʎu.nə	ˈluna	ˈluna	tɑl	x
+stɑː	stɛr	ʃtɛʁn	ˈʃtɛʁən	ˈstjɛrnɛ	ˈstjartna	ˈɧɛːrˌna	stjɛrnə	etwal	ˈstel.la	esˈtɾeʝa	ste̯a	əsˈtɛl			pjʌ̹ɭ	x
+ˈwɔːtə	ˈʋaːtər	ˈva.sər	ˈvasəʁ	ʋɑnː	vaʰtn̥	ˈvatːɛn	ˈvanˀ	o	ˈak.kwa	ˈaɡwa	ˈa.pə	ˈaj.ɡwə		ˈakkwa	muɭ	x
+reɪn	ˈreːɣən	ˈreːɡən	rɛɡn̩	reɡn	ˈrɪkniŋk	rɛŋn	ˈʁɑɪ̯ˀn	plɥi	ˈpjɔd.d͡ʒa	ˈʝubja	ˈplo̯a.je	ˈplu.ʒə			pi	x
+ˈrɪvə	riˈviːr	flʊs	taɪ̯χ	ɛlʋ	auː	fluːd	ˈfloːð	ʁivjɛʁ	ˈfju.me	ˈrio	ˈrɨw	ˈriw	ˈʃummə		kaŋ	x
+leɪk	meːr	zeː			vaʰtn̥	ɧøː	søːˀ	lak	ˈla.ɡo	ˈlaɡo		ˈʎak			ɸʷo̞sʰu	x
+siː	zeː	meːɐ̯			sjouːr	hɑːv	haw	mɛʁ	ˈma.re	ˈmaɾ	ˈma.re	ˈmar	ˈmarə	ˈma.ɾɪ	pa̠da̠	x
+sɔːlt	zɔut	zalt͡s	zaɫt͡s		sal̥t	salt	salˀd	sɛl	ˈsa.le	ˈsal	ˈsa.re	ˈsal			sʰo̞ɡɯm	x
+stəʊn	steːn	ʃtaɪn	ʃtɛɪ̯n	stæɪn	steitn	steːn	steːn	pjɛʁ	ˈsas.so	ˈpjedɾa	ˈpja.trə	ˈpe.dɾə	ˈprɛːtə		to̞ɭ	x
+sænd	zɑnt	zant	zamd	sɑn	ˈsantʏr		san	sabl	ˈsab.bja	aˈɾena	niˈsip				mo̞ɾe̞	x
+dʌst	stɔf	ʃtaʊ̯p			rɪːk	dam	støːˀv	pusjɛʁ	ˈpol.ve.re	ˈpolbo	praf	ˈpols			mʌ̹nd͡ʑi	x
+ɜːθ	ˈaːrdə	ˈeːrdə	ɛʁd	juːr	jœrð	juːrd	ˈjoɐ̯ˀ	tɛʁ	ˈtɛr.ra	ˈtjera	pəˈmɨnt	ˈtɛ.rə	ˈmunnə		xɯk̚	x
+klaʊd	ʋɔlk	ˈvɔlkə	ˈvɔlkn̩		sciː	moːln	ˈskyˀ	nɥaʒ	ˈnu.vo.la	ˈnube	nor	ˈnu.vol			kuɾɯm	x
+fɒg	mɪst	ˈneːbəl			ˈθɔːka		ˈtɔːwə	bʁujaʁ	ˈneb.bja	ˈnjebla	ˈt͡ʃe̯a.t͡sə	ˈbɔj.ɾə			a̠nɡe̞	x
+skaɪ	lʏxt	ˈhɪml̩	ˈhɪmɫ̩		ˈhɪːmɪnː		heməl	sjɛl	ˈt͡ʃɛ.lo	ˈθjelo	t͡ʃer	ˈsɛl	t͡ʃjeːlə	ˈʃɛ.lu	ha̠nɯɭ	x
+wɪnd	ʋɪnt	vɪnt	vɪnt	ʋin	ˈvɪntʏr	vɪnd	ʋend	vɑ̃	ˈvɛn.to	ˈbjento		ˈvent	ˈvjendə	ˈvɛntu	pa̠ɾa̠m	x
+snəʊ	sneːw	ʃneː	ʃnɛɪ̯		stnjouːr	snøː	sneːˀ	nɛʒ	ˈne.ve	ˈnjebe	zəˈpadə	ˈnew			nun	x
+aɪs	ɛis	aɪ̯s	aɪ̯z		iːs	iːs	ˈiːˀs	ɡlas	ˈɡjat.t͡ʃo	ˈʝelo		ˈʒɛl			ʌ̹ɾɯm	x
+sməʊk	roːk	ʁaʊ̯x		rœʏ̯k	ˈreiːkʏr	røːk	røj	fyme	ˈfu.mo	ˈumo		ˈfum			jʌ̹nɡi	x
+ˈfaɪər	vʏːr	ˈfɔʏ̯ər	ˈfaɪ̯ər		ˈɛltʏr	ˈɛld	ilˀ	fø	ˈfwɔ.ko	ˈfweɡo	fok	ˈfɔk	ˈfu͡oko	ˈfɔ.ku	puɭ	x
+æʃ	ɑs	ˈaʃə			ˈaska			sɑ̃dʁ	ˈt͡ʃe.ne.re	θeˈniθas		ˈsɛn.dɾə			t͡ɕe̞	x
+bɜːn	ˈbrɑndə	ˈbʁɛnən	ˈbʁɛnən		ˈprɛnːa	²brɪnːa	ˈb̥ʁanə	bʁyle	bruˈt͡ʃa.re	keˈmaɾ	ˈar.de	kɾəˈma			tʰɑdɑ	x
+rəʊd	ʋɛx	ˈʃtʁäːsə			ˈkaːta	vɛːɡ	ˈʋɑjˀ	ʁut	ˈstra.da	kaˈmino	ˈdrum	kə.rəˈte.ɾə		ˈʂɽata	kiɭ	x
+ˈmaʊntɪn	bɛrx	bɛrk		fjɛl	fjatl	bɛrj	bjɛrɣ	mɔ̃taɲ	monˈtaɲ.ɲa	monˈtaɲa	ˈmun.te	munˈta.ɲə	munˈdaɲɲə		sʰa̠n	x
+rɛd	roːt	roːt	rɔɪ̯t	ɾøː	ˈrøyːðʏr	røːd	ˈʁœˀð	ʁuʒ	ˈros.so	ˈroxo	ˈro.ʃu	vəɾˈməʎ	ˈruss(ə)	ˈʐus.sʊ	puk̚t͈a̠	x
+griːn	ɣrun	ɡʁyːn	ɡʁɪn	ɡrœn	ˈkraɪ̯tn̩	ˈɡrøːn	ɡrœnˀ	vɛʁ	ˈver.de	ˈbeɾde	ˈver.de	ˈvɛɾt			pʰuɾɯda̠	x
+ˈjɛləʊ	ɣeːl	ɡɛlp		ɡʉːɽ	ˈkʏːlʏr	ɡʉːl	ɡuːˀl	ʒon	ˈd͡ʒal.lo	amaˈɾiʝo	ˈɡal.ben	ˈɡɾɔk			nuɾɯda̠	x
+waɪt	ʋɪt	vaɪ̯s	vaɪ̯s	ʋiːt	ˈxʷiːtʏr	ˈviːt	ˈviːˀð	blɑ̃	ˈbjan.ko	ˈblanko	alb	ˈblaŋk			çida̠	x
+blæk	zʋɑrt	ʃvarts	ʃvart͡s	suʈ	ˈsvar̥tʏr	¹svart	ˈsoɐ̯d̥	nwaʁ	ˈne.ro	ˈneɡɾo	ˈne.ɡru	ˈnə.ɡɾə	ˈniːrə		kʌ̹mt͈a̠	x
+naɪt	nɑxt	naxt	naχt	natː	nouʰt	natː	nad̥	nɥi	ˈnɔt.te	ˈnot͡ʃe	ˈno̯ap.te	ˈnit	ˈnɔttə		pa̠m	x
+deɪ	dɑx	taːk	tɔɡ	dɑːɡ	ˈtaːɣʏr	dɑː(ɡ)	daːˀɣ	ʒuʁ	ˈd͡ʒor.no	ˈdia	ˈzi	ˈdi.ə	ˈjwornə	ˈjɔɾ.nu	na̠t̚	x
+jɪə	jaːr	jaːr	jɔr	oːɾ	auːr	ˈoːr		ɑ̃	ˈan.no	ˈaɲo	an	ˈaɲ	ˈannə	ˈan.nu	he̞	x
+wɔːm	ʋɑrm	varm			l̥iːr	varm		ʃo	ˈkal.do	kaˈljente	kald	kəˈlent			tʌ̹p̚t͈a̠	x
+kəʊld	kɔut	kalt	kaɫt		ˈkʰaltʏr	kal	kɒl	fʁwa	ˈfred.do	ˈfɾio	ˈret͡ʃe	ˈfɾət		ˈfrid̪.d̪ʊ	t͡ɕʰup̚t͈a̠	x
+fʊl	vɔl	f	fʊɫ	fʉl	ˈfʏtɬʏr	fɵl	fulˀ	plɛ̃	ˈpjɛ.no	ˈʝeno	plin	ˈplə		ˈkinu	t͡ɕʰa̠da̠	x
+njuː	niːw	nɔʏ̯	naɪ̯		niːr	nyː	nyː	nuvo	ˈnwɔ.vo	ˈnwebo	now	ˈnɔw	ˈnwoːvə	ˈnɔː.vu̞	sʰe̞	x
+əʊld	ɔut	alt	aɫt		ˈkaːmatl	²ɡamːal	ɡaməl	vjø	ˈvɛk.kjo	ˈbjexo	vekʲ	ˈveʎ	ˈvjeccə		je̞t̚	x
+gʊd	ɣut	ɡuːt	ɡʊt	ɡuː	ˈkouːðʏr	brɑː	ˈɡ̊oˀð	bɔ̃	ˈbwɔ.no	ˈbweno	bun	ˈbɔ	ˈbwoːnə	ˈbɔ.nʊ	t͡ɕo̞tʰa̠	x
+bæd	slɛxt	ʃlɛçt	ʃɫɛχt		ˈvɔntʏr	²doː.lɪ(ɡ)	ˈd̥ɒːli	movɛ	katˈti.vo	ˈmalo	rəw	doˈlent		ˈma.lu	na̠p͈ɯda̠	x
+ˈrɒtən	rɔt	faʊ̯l			ˈfuːɪnː		ˈʁʌðən	puri	ˈmar.t͡ʃo	poˈdɾido	ˈpu.tred	puˈdɾit			s͈ʌ̹k̚t͈a̠	x
+ˈdɜːti	vœyl	ˈʃmʊt͡sɪç	ˈʃmut͡sɪk		ˈsciːtʏːɣʏr		snavset	sal	ˈspɔr.ko	ˈsuθjo	mur.ˈdar	ˈbɾut			tʌ̹ɾʌ̹p̚t͈a̠	x
+streɪt	rɛxt	ɡəˈraːdə	ɡɫaɪ̯χ	ɾɛt	peitn		ˈliːə	dʁwa	ˈdrit.to	ˈreɡto	drept	ˈrɛk.tə			ko̞t̚t͈a̠	x
+raʊnd	rɔnt	rʊnt			ˈkʰriŋlouhtʏr		ʁɔnˀ	ʁɔ̃	roˈton.do	reˈdondo	roˈtund	roˈdo	ˈtunnə		tuŋɡɯɭda̠	x
+ʃɑːp	sxɛrp	ʃarf	ʃaʁf		ˈpeihtʏr	vas		tʁɑ̃ʃɑ̃	af.fiˈla.to	aˈɡudo	as.kuˈt͡sit	əz.moˈlat			na̠ɭkʰa̠ɾo̞p̚t͈a̠	x
+dʌl	stɔmp	ʃtʊm				sløː	sløːv	emuse	zmusˈsa.to		toˈt͡ʃit	əz.muˈsat			mudida̠	x
+smuːð	ɣlat	ɡlat			ˈstleiːpʏr	slɛːt		lis	ˈliʃ.ʃo	ˈliso	ˈne.ted	ˈʎis	ˈmwollə	ˈliʃːu	pudɯɾʌ̹p̚t͈a̠	x
+wɛt	nɑt	nas	nas		ˈpløyːtʏr	voːt	vɔːˀð	muje	baɲˈɲa.to	moˈxado	ud	uˈmit			t͡ɕʌ̹t̚t͈a̠	x
+draɪ	droːx	dʏʁ	ˈtʁʊkn̩		θʏrː		tœːˀr	sɛk	ˈsek.ko	ˈseko	usˈkat	ˈsək	ˈsikkə	ˈsik.kʊ	ma̠ɾɯda̠	x
+kəˈrɛkt	jœyst	ˈʁɪçtɪç		ɾɛt	ˈrjɛhtʏr		ˈrekti	ʒyst	ˈd͡ʒu.sto	koˈreɡto	drept	koˈrɛk.tə			ma̠t̚t͈a̠	x
+nɪə	dɪxtˈbɛi	naː			ˈnauːlaiːɣʏr		nɛːr	pʁɛ	viˈt͡ʃi.no	ˈθeɾka	ˈlɨn.ɡə	ˈpɾɔp			ka̠k͈a̠p̚t͈a̠	x
+fɑː	vɛr	fɛʁn	vaɪ̯t				fjɛrn	lwɛ̃	lonˈta.no	ˈlexos	deˈpar.te	ˈʎuɲ	lunˈdaːnə		mʌ̹ɭda̠	x
+raɪt	rɛxts	ʁɛçt					hɔjrə	dʁwat	ˈdɛ.stra	deˈɾet͡ʃa	drept	ˈdɾət			o̞ɾɯn	x
+lɛft	lɪŋks	lɪŋk	ɫɪŋks					ɡoʃ	siˈni.stra	iθˈkjeɾda	stɨŋɡ	əsˈkɛ.rə			we̞n	x
+æt	aːn	ʔan		iː	çauː	poː	(ˈ)ʋeð	a	a	en	la	a	a	a	-e̞sʰʌ̹	x
+ɪn	ɪn	ʔɪn	in	iː	iː	iː	-end	dɑ̃	ˈin	en	ɨn	ˈdins	ˈɾind(ə)		-e̞	x
+wɪð	mɛt	mɪt		meː	-ɛːð	meː(d)	mɛð	avɛk	kon	kon	ku	əmb		ku	-ɾo̞	x
+ænd	ɛn	ʊnt	ʊn	ɔ	ɔːɣ	ɔ	ʌ	e	ˈe	ʝ	ʃi	ˈi	e	e	-wa̠	x
+ɪf	ɑls	ɔp	ɔɪ̯b		ɛːv	ɔm	ves	si	se	si	ˈda.kə	ˈsi			-mjʌ̹n	x
+bɪˈkɒz	ɔmˈdɑt	vaɪ̯l	vaɪ̯ɫ	fɔɾˈdiː	ˈvɛkna	²ˈɛftærˌsɔm	fɔˈdiːˀ	paʁsəkə	perˈke	ˈpoɾke	de.o̯a.reˈt͡ʃe	pəɾˈkə	pəkˈke		-ni	x
+neɪm	naːm	ˈnaːmə	ˈnɔmən		napn	namn		nɔ̃	ˈno.me	ˈnombɾe	ˈnu.me	ˈnɔm			iɾɯ̽m	x
