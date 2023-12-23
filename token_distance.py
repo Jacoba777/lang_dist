@@ -1,4 +1,5 @@
-from model.ipa_dictionary import Consonant, Vowel, Diphthong, Vowels
+from model.ipa_dictionary import Vowels
+from model.token import Vowel, Consonant, Diphthong
 
 DIST_SAME_SYMBOL_TYPE_MULTIPLIER = 1
 
@@ -61,7 +62,6 @@ def token_distance(t1, t2):
 def temp_test_vowel_dists():
 
     vowels = Vowels.all
-
 
     vowel_pairs = []
     for i1, v1 in enumerate(vowels):

@@ -1,7 +1,7 @@
 from statistics import stdev, mean
 from typing import Dict, List, Tuple
 from model.lang import Language
-from model.word import TokenizedWord
+from model.word import Word
 
 from weighted_lev_v2 import weighted_lev
 
@@ -34,7 +34,7 @@ class LanguageDistances:
 
 def calculate_word_dists(lang1: Language, lang2: Language, en: Language) -> List[Tuple[str, str, float]]:
     common_words = [(lang1.get_word(word), lang2.get_word(word)) for word in en.get_all_words() if lang1.get_word(word) != '' and lang2.get_word(word) != '']
-    word_dists = [(w1, w2, weighted_lev(TokenizedWord(w1), TokenizedWord(w2))) for (w1, w2) in common_words]
+    word_dists = [(w1, w2, weighted_lev(Word(w1), Word(w2))) for (w1, w2) in common_words]
     return word_dists
 
 

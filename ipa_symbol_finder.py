@@ -1,4 +1,5 @@
-from model.ipa_dictionary import lookup, Symbol
+from model.ipa_dictionary import lookup
+from model.token import Symbol
 
 
 def ipa_tokenizer(ipa: str):

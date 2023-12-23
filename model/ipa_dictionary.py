@@ -1,87 +1,7 @@
 from copy import copy
 from typing import List
 
-
-class Token:
-    def __eq__(self, other):
-        return False
-
-
-class Symbol(Token):
-    def __init__(self, char):
-        self.char = char
-        self.modifiers = set()
-
-    def __repr__(self):
-        return self.char
-
-    def __eq__(self, other):
-        if not hasattr(other, "char") or not hasattr(other, "modifiers"):
-            return other == self
-        return self.char == other.char and self.modifiers - other.modifiers == set()
-
-
-class Vowel(Symbol):
-    class Frontage:
-        FRONT = 0
-        NEAR_FRONT = 1
-        CENTRAL = 2
-        NEAR_BACK = 3
-        BACK = 4
-
-    class Openness:
-        CLOSED = 0
-        NEAR_CLOSED = 1
-        CLOSED_MID = 2
-        MID = 3
-        OPEN_MID = 4
-        NEAR_OPEN = 5
-        OPEN = 6
-
-    def __init__(self, char, frontage: int, openness: int, rounded: bool, f1: int = 0, f2: int = 0, approx1=None, approx2=None):
-        super().__init__(char)
-        self.frontage = frontage
-        self.openness = openness
-        self.rounded = rounded
-        if f1 and f2:
-            self.f1 = f1
-            self.f2 = f2
-        else:
-            self.f1 = (approx1.f1 + approx2.f1)/2
-            self.f2 = (approx1.f2 + approx2.f2)/2
-
-
-class Consonant(Symbol):
-    class Manner:
-        PLOSIVE = 0
-        NASAL = 1
-        TRILL = 2
-        TAP = 3
-        FRICATIVE = 4
-        LAT_FRICATIVE = 5
-        APPROX = 6
-        LAT_APPROX = 7
-        CLICK = 8
-        IMPLOSIVE = 9
-
-    class Place:
-        BILABIAL = 0
-        LABIODENTAL = 1
-        DENTAL = 2
-        ALVEOLAR = 3
-        POST_ALVEOLAR = 4
-        RETROFLEX = 5
-        PALATAL = 6
-        VELAR = 7
-        UVULAR = 8
-        PHARYNGEAL = 9
-        GLOTTAL = 10
-
-    def __init__(self, char, manner: int, place: int, voiced: bool):
-        super().__init__(char)
-        self.manner = manner
-        self.place = place
-        self.voiced = voiced
+from model.token import Symbol, Vowel, Consonant, Modifier, Diphthong
 
 
 class Vowels:
@@ -221,21 +141,41 @@ class Consonants:
            ʋ, ɹ, ɻ, j, ɰ, l, ɭ, ʎ, ʟ, w, ʍ, ɥ, ʢ, ʡ, ɕ, ʑ, ʧ, ɧ, ɫ]
 
 
-_all_symbols: List[Vowel | Consonant] = [*Vowels.all, *Consonants.all]
+class Modifiers:
+    a͡ = Modifier('͡', fix_type=Modifier.FixType.AFFRICATE)
+
+    sup_1 = Modifier('¹', fix_type=Modifier.FixType.WORD_LEVEL_PRE)
+    sup_2 = Modifier('²', fix_type=Modifier.FixType.WORD_LEVEL_PRE)
+
+    ˈ = Modifier('ˈ', fix_type=Modifier.FixType.SYLLABLE_LEVEL_PRE)
+    ˌ = Modifier('ˌ', fix_type=Modifier.FixType.SYLLABLE_LEVEL_PRE)
+    period = Modifier('.', fix_type=Modifier.FixType.SYLLABLE_LEVEL_PRE)
+
+    ʰ = Modifier('ʰ', fix_type=Modifier.FixType.SYMBOL_LEVEL_POST)
+    ˢ = Modifier('ˢ', fix_type=Modifier.FixType.SYMBOL_LEVEL_POST)
+    ʷ = Modifier('ʷ', fix_type=Modifier.FixType.SYMBOL_LEVEL_POST)
+    ː = Modifier('ː', fix_type=Modifier.FixType.SYMBOL_LEVEL_POST)
+    ˀ = Modifier('ˀ', fix_type=Modifier.FixType.SYMBOL_LEVEL_POST)
+    â = Modifier('̂', fix_type=Modifier.FixType.SYMBOL_LEVEL_POST)
+    ã = Modifier('̃', fix_type=Modifier.FixType.SYMBOL_LEVEL_POST)
+    ä = Modifier('̈', fix_type=Modifier.FixType.SYMBOL_LEVEL_POST)
+    å = Modifier('̊', fix_type=Modifier.FixType.SYMBOL_LEVEL_POST)
+    a̚ = Modifier('̚', fix_type=Modifier.FixType.SYMBOL_LEVEL_POST)
+    a̞ = Modifier('̞', fix_type=Modifier.FixType.SYMBOL_LEVEL_POST)
+    a̟ = Modifier('̟', fix_type=Modifier.FixType.SYMBOL_LEVEL_POST)
+    a̠ = Modifier('̠', fix_type=Modifier.FixType.SYMBOL_LEVEL_POST)
+    ḁ = Modifier('̥', fix_type=Modifier.FixType.SYMBOL_LEVEL_POST)
+    a̩ = Modifier('̩', fix_type=Modifier.FixType.SYMBOL_LEVEL_POST)
+    a̪ = Modifier('̪', fix_type=Modifier.FixType.SYMBOL_LEVEL_POST)
+    a̯ = Modifier('̯', fix_type=Modifier.FixType.SYMBOL_LEVEL_POST)
+    a̹ = Modifier('̹', fix_type=Modifier.FixType.SYMBOL_LEVEL_POST)
+    a̽ = Modifier('̽', fix_type=Modifier.FixType.SYMBOL_LEVEL_POST)
+    a͈ = Modifier('͈', fix_type=Modifier.FixType.SYMBOL_LEVEL_POST)
+
+    all = [a͡, sup_1, sup_2, ˈ, ˌ, period, ʰ, ˢ, ʷ, ː, ˀ, â, ã, ä, å, a̚, a̞, a̟, a̠, ḁ, a̩, a̪, a̯, a̹, a̽, a͈]
 
 
-class Diphthong(Token):
-    def __init__(self, v1: Vowel, v2: Vowel):
-        self.v1 = v1
-        self.v2 = v2
-
-    def __repr__(self):
-        return f'{self.v1}{self.v2}'
-
-    def __eq__(self, other):
-        if type(other) != Diphthong:
-            return False
-        return self.v1 == other.v1 and self.v2 == other.v2
+_all_symbols: List[Vowel | Consonant | Modifier] = [*Vowels.all, *Consonants.all, *Modifiers.all]
 
 
 def lookup(char: str):
@@ -243,6 +183,42 @@ def lookup(char: str):
         if s.char == char:
             return copy(s)
     return Symbol(char)
+
+
+def get_ipa_tokenization(ipa):
+    symbols = [lookup(c) for c in ipa]
+    tokens = []
+
+    for i, symbol in enumerate(symbols):
+        if type(symbol) == Symbol:
+            print(f'{symbol} unrecognized, skipping')
+            continue
+
+        elif len(tokens) > 0:
+            prev_symbol = tokens[-1]
+
+            if type(symbol) == Modifier:
+                if symbol.fix_type == Modifier.FixType.WORD_LEVEL_PRE:
+                    # TODO do this
+                    print(f'{symbol} is a word-level modifier, which is not supported yet. Skipping')
+                    continue
+                if symbol.fix_type == Modifier.FixType.SYMBOL_LEVEL_POST:
+                    prev_symbol.add_modifier(symbol)
+                    continue
+                if symbol.fix_type == Modifier.FixType.AFFRICATE:
+                    # TODO do this
+                    print(f'{symbol} is an affricate, which is not supported yet. Skipping')
+                    continue
+
+            if type(prev_symbol) == Vowel and type(symbol) == Vowel:
+                tokens.remove(prev_symbol)
+                d = Diphthong(prev_symbol, symbol)
+                tokens.append(d)
+                continue
+
+        tokens.append(symbol)
+
+    return tokens
 
 
 def main():

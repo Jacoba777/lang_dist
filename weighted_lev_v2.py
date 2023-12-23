@@ -1,15 +1,15 @@
 from typing import List
 
-from model.word import TokenizedWord
+from model.word import Word
 from token_distance import token_distance
 
 COST_INSERT = 1.0
 COST_DELETE = 1.0
-COST_REPLACE = 1.0
+COST_REPLACE = 2.0
 
 
 class _State:
-    def __init__(self, path: List[TokenizedWord], cost: float):
+    def __init__(self, path: List[Word], cost: float):
         self.path = path
         self.cost = cost
 
@@ -39,7 +39,7 @@ class _States:
     def get_cheapest(self):
         return min(self._states, key=lambda x: x.cost)
 
-    def get_state(self, word: TokenizedWord):
+    def get_state(self, word: Word):
         state_matches = [s for s in self._states if s.get_current_word() == word]
         if len(state_matches) > 1:
             raise ValueError(f'Duplicate state detected for {word}')
@@ -52,7 +52,7 @@ class _States:
         return f'{self._states}'
 
 
-def _make_replacement(state: _State, w_goal: TokenizedWord):
+def _make_replacement(state: _State, w_goal: Word):
     w_curr = state.get_current_word()
     if w_curr.starts_with(w_goal) or w_goal.starts_with(w_curr):
         return None
@@ -66,7 +66,7 @@ def _make_replacement(state: _State, w_goal: TokenizedWord):
             return _State(new_path, state.cost + replace_cost)
 
 
-def _make_insertion(state: _State, w_goal: TokenizedWord):
+def _make_insertion(state: _State, w_goal: Word):
     w_curr = state.get_current_word()
     if w_curr.starts_with(w_goal):
         return None
@@ -78,19 +78,19 @@ def _make_insertion(state: _State, w_goal: TokenizedWord):
             return _State(new_path, state.cost + COST_INSERT)
 
 
-def _make_deletion(state: _State, w_goal: TokenizedWord):
+def _make_deletion(state: _State, w_goal: Word):
     w_curr = state.get_current_word()
     if w_goal.starts_with(w_curr):
         return None
 
     for i, token in enumerate(w_curr):
         if i > len(w_goal)-1 or w_goal.tokens[i] != token:
-            new_word = TokenizedWord(tokens=w_curr.tokens[:i] + w_curr.tokens[i+1:])
+            new_word = Word(tokens=w_curr.tokens[:i] + w_curr.tokens[i+1:])
             new_path = state.path + [new_word]
             return _State(new_path, state.cost + COST_DELETE)
 
 
-def _get_choice_states(state: _State, w: TokenizedWord):
+def _get_choice_states(state: _State, w: Word):
     replace = _make_replacement(state, w)
     insert = _make_insertion(state, w)
     delete = _make_deletion(state, w)
@@ -99,7 +99,7 @@ def _get_choice_states(state: _State, w: TokenizedWord):
     return [s for s in states if s]
 
 
-def weighted_lev(w1: TokenizedWord, w2: TokenizedWord, best: _State | None = None, debug=False):
+def weighted_lev(w1: Word, w2: Word, best: _State | None = None, debug=False):
     if w1 == w2:
         return 0.0
 
@@ -134,6 +134,6 @@ def weighted_lev(w1: TokenizedWord, w2: TokenizedWord, best: _State | None = Non
 
 
 if __name__ == '__main__':
-    w1 = TokenizedWord('aɪ')
-    w2 = TokenizedWord('ˈi.o')
+    w1 = Word(ipa='aɪ')
+    w2 = Word(ipa='ˈi.o')
     weighted_lev(w1, w2, debug=True)
