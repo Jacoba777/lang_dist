@@ -1,6 +1,6 @@
 from typing import List
 
-from model.phone import Phone, get_phone_distance, get_phone_by_symbol
+from model.phone import Phone, get_phone_distance
 
 COST_INSERT = 1.0
 COST_DELETE = 1.0
@@ -74,7 +74,7 @@ class PhoneListState(State):
 
     def get_insertion(self, goal: List[Phone]):
         curr: List[Phone] = self.get_current_value()
-        if _lists_start_same(curr, goal):
+        if _starts_with(curr, goal):
             return None
 
         for i, phone_goal in enumerate(goal):
@@ -85,7 +85,7 @@ class PhoneListState(State):
 
     def get_deletion(self, goal: List[Phone]):
         curr: List[Phone] = self.get_current_value()
-        if _lists_start_same(curr, goal):
+        if _starts_with(goal, curr):
             return None
 
         for i, phone_curr in enumerate(curr):
@@ -108,6 +108,10 @@ def _lists_start_same(l1: List, l2: List):
         l1, l2 = l2, l1
     shorter_len = len(l2)
     return l1[:shorter_len] == l2
+
+
+def _starts_with(list: List, prefix: List):
+    return prefix == list[:len(prefix)]
 
 
 def get_phone_list_dist(start: List[Phone], goal: List[Phone], best: PhoneListState | None = None, debug=False):
@@ -142,9 +146,3 @@ def get_phone_list_dist(start: List[Phone], goal: List[Phone], best: PhoneListSt
         print(f'{normalized_cost=}')
 
     return normalized_cost
-
-
-if __name__ == '__main__':
-    l1 = ['w', get_phone_by_symbol('p'), 'r', 't']
-    l2 = ['w', get_phone_by_symbol('p'), 'r']
-    print(_lists_start_same(l1, l2))

@@ -1,19 +1,17 @@
 from statistics import stdev, mean
 from typing import Dict, List, Tuple
-from model.lang import Language
-from model.word import Word
 
-from weighted_lev_v2 import weighted_lev
+from data.swadesh import SWADESH_WORDS
+from model.lang import Language
+from model.word import word_distance
 
 
 class LanguageDistances:
     def __init__(self, langs: List[Language]):
         self._dist: Dict[(Language, Language), (float, float)] = {}
-
-        en = langs[0]
         for i1, l1 in enumerate(langs):
             for l2 in langs[i1 + 1:]:
-                dist, std = calculate_lang_dist(l1, l2, en)
+                dist, std = calculate_lang_dist(l1, l2)
                 self.set_dist(l1, l2, dist, std)
 
     def set_dist(self, lang1: Language, lang2: Language, dist: float, std: float):
@@ -32,16 +30,17 @@ class LanguageDistances:
         return [(v, k) for (k, v) in self._dist.items()]
 
 
-def calculate_word_dists(lang1: Language, lang2: Language, en: Language) -> List[Tuple[str, str, float]]:
-    common_words = [(lang1.get_word(word), lang2.get_word(word)) for word in en.get_all_words() if lang1.get_word(word) != '' and lang2.get_word(word) != '']
-    word_dists = [(w1, w2, weighted_lev(Word(w1), Word(w2))) for (w1, w2) in common_words]
+def calculate_word_dists(lang1: Language, lang2: Language) -> List[Tuple[str, str, float]]:
+    common_words = [(lang1.get_word(w), lang2.get_word(w)) for w in SWADESH_WORDS]
+    common_words = [(w1, w2) for (w1, w2) in common_words if w1.ipa and w2.ipa]
+    word_dists = [(w1, w2, word_distance(w1, w2, debug=True)) for (w1, w2) in common_words]
     return word_dists
 
 
-def calculate_lang_dist(lang1: Language, lang2: Language, en: Language):
-    word_dists = calculate_word_dists(lang1, lang2, en)
-    dists = [w[2] for w in word_dists]
+def calculate_lang_dist(lang1: Language, lang2: Language):
+    dists = calculate_word_dists(lang1, lang2)
     if len(dists) == 0:
         return 1.0, 1.0
+    dists = [d[2] for d in dists]
 
     return mean(dists), stdev(dists)

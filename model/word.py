@@ -1,3 +1,4 @@
+from model.state_word import get_syllable_list_dist
 from model.syllable import create_syllables_from_ipa_string
 
 
@@ -11,6 +12,10 @@ class Word:
 
     def __repr__(self):
         return f'<Word "{self.native}">'
+
+
+def word_distance(w1: Word, w2: Word, debug=False):
+    return get_syllable_list_dist(w1.ipa_tokenized, w2.ipa_tokenized, debug=debug)
 
 
 def main():

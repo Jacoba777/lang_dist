@@ -1,30 +1,29 @@
 from math import inf
 from typing import List
 
+from data.all_languages import get_all_langs
 from model.difference_scores import DifferenceScores
-from model.lang import Language, get_lang_data
+from model.lang import Language
 from model.lang_dist import LanguageDistances, calculate_word_dists
 from model.node import Node
 
 
 def get_words_by_similarity(lang_name_1: str, lang_name_2: str):
-    langs = get_lang_data()
-    en = [lang for lang in langs if lang.name == 'English'][0]
-    l1 = [lang for lang in langs if lang.name == lang_name_1][0]
-    l2 = [lang for lang in langs if lang.name == lang_name_2][0]
-    word_dists = calculate_word_dists(l1, l2, en)
+    langs = get_all_langs()
+    l1 = next(lang for lang in langs if lang.name == lang_name_1)
+    l2 = next(lang for lang in langs if lang.name == lang_name_2)
+    word_dists = calculate_word_dists(l1, l2)
     word_dists.sort(key=lambda w: w[2])
     print(word_dists)
 
 
 def show_relative_distance(lang_name: str, lang_name_1: str, lang_name_2: str):
-    langs = get_lang_data()
+    langs = get_all_langs()
     l = [lang for lang in langs if lang.name == lang_name][0]
     l1 = [lang for lang in langs if lang.name == lang_name_1][0]
     l2 = [lang for lang in langs if lang.name == lang_name_2][0]
-    en = [lang for lang in langs if lang.name == 'English'][0]
-    word_dists_1 = calculate_word_dists(l, l1, en)
-    word_dists_2 = calculate_word_dists(l, l2, en)
+    word_dists_1 = calculate_word_dists(l, l1)
+    word_dists_2 = calculate_word_dists(l, l2)
 
     matches = []
     for word in word_dists_1:
@@ -44,7 +43,7 @@ def show_relative_distance(lang_name: str, lang_name_1: str, lang_name_2: str):
 
 
 def get_closest_langs(lang_name: str):
-    langs = get_lang_data()
+    langs = get_all_langs()
     compare_lang = [lang for lang in langs if lang.name == lang_name][0]
     lang_dists = LanguageDistances(langs)
 
@@ -56,7 +55,8 @@ def get_closest_langs(lang_name: str):
 
 
 def get_lang_dist_pairs():
-    langs = get_lang_data()
+    langs = get_all_langs()
+    print(langs)
     lang_dists = LanguageDistances(langs).get_all_dists()
     lang_dists.sort()
 
@@ -127,7 +127,7 @@ def func(langs_to_cluster: List[Language], lang_dists: LanguageDistances):
 
 
 def func2():
-    langs = get_lang_data()
+    langs = get_all_langs()
     lang_dists = LanguageDistances(langs)
 
     res = []

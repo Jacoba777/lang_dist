@@ -179,7 +179,7 @@ Tag	Tag	taːk
 Jahr	Jahr	jaːr
 warm	warm	varm
 kalt	kalt	kalt
-voll	voll	f
+voll	voll	fɔl
 neu	neu	nɔʏ̯
 alt	alt	alt
 gut	gut	ɡuːt

@@ -1,4 +1,5 @@
 from enum import Enum
+from config import ROOT
 
 
 class Place(Enum):
@@ -155,7 +156,7 @@ class Phone:
 
 
 def _read_phones_from_file():
-    with open('../data/ipa/phones.txt', encoding='UTF-8') as f:
+    with open(f'{ROOT}/data/ipa/phones.txt', encoding='UTF-8') as f:
         phones_raw = f.read().split('\n')[1:]
     return [Phone(*pd.split('\t')) for pd in phones_raw]
 
