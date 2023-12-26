@@ -243,8 +243,7 @@ def get_phone_distance(p1: Phone, p2: Phone):
 
 
 def get_phone_by_symbol(symbol: str):
-    match = [p for p in PHONES if p.symbol == symbol]
-    return match[0] if len(match) else None
+    return next((p for p in PHONES if p.symbol == symbol), None)
 
 
 if __name__ == '__main__':

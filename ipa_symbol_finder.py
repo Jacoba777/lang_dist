@@ -1,14 +1,7 @@
-from model.ipa_dictionary import lookup
-from model.token import Symbol
+from model.phone import Phone, get_phone_by_symbol
 
 
-def ipa_tokenizer(ipa: str):
-    tokens = []
-    for char in ipa:
-        symbol = lookup(char)
-
-
-def get_symbols():
+def get_phones_in_use():
     symbols = set()
     with open('ipa_symbol_mess', encoding='UTF-8') as f:
         txt = f.read()
@@ -16,11 +9,11 @@ def get_symbols():
         if s not in ['\t', '\n']:
             symbols.add(s)
     print(sorted(symbols))
-    print(sorted([s for s in symbols if type(lookup(s)) == Symbol]))
+    print(sorted([s for s in symbols if type(get_phone_by_symbol(s)) == Phone]))
 
 
 def main():
-    get_symbols()
+    get_phones_in_use()
 
 
 if __name__ == '__main__':
