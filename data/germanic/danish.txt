@@ -1,0 +1,207 @@
+jeg 	jeg 	jɑ̈(j)
+du 	du 	ˈd̥u
+han 	han 	han
+vi 	vi 	vi
+I 	I 	i
+de 	de 	di
+denne 	denne 	ˈd̥ɛnə
+den 	den 	dɛnˀ
+her 	her 	
+der 	der 	ˈdɛːˀr
+hvem 	hvem 	vɛmˀ
+hvad 	hvad 	vað
+hvor 	hvor 	vɒˀ
+hvornår 	hvornår 	vɒˈnɒːˀ
+hvordan 	hvordan 	ʋʌˈd̥an
+ikke 	ikke 	ˈeɡə
+alle 	alle 	alə
+mange 	mange 	ˈmɑŋə
+nogen 	nogen 	ˈnoən
+få 	få 	ˈfɔˀ
+anden 	anden 	ˈanən
+en	en	en
+to	to	ˈtˢoˀ
+tre	tre	ˈtˢʁ̥ɛˀ
+fire	fire	fiːrə
+fem	fem	ˈfɛmˀ
+stor	stor	stoːˀr
+lang	lang	lanɡ
+bred	bred	breːˀð
+tyk	tyk	tyk
+tung	tung	ˈtˢɔŋˀ
+lille	lille	lilə
+kort	kort	kɔrt
+snæver	snæver	snɛvər
+tynd	tynd	tˢønˀ
+kvinde	kvinde	ˈkvenə
+mand	mand	manˀ
+menneske	menneske	mɛnəskə
+barn	barn	barn
+hustru	hustru	
+mand	mand	manˀ
+mor	mor	moːɐ̯
+far	far	fɑː
+dyr	dyr	dyːˀɐ̯
+fisk	fisk	ˈfesk
+fugl	fugl	fuːˀl
+hund	hund	hunˀ
+lus	lus	
+slange	slange	ˈslɑŋə
+orm	orm	oːˀrm
+træ	træ	trɛːˀ
+skov	skov	ˈsɡ̊ɒwˀ
+kæp	kæp	kɛp
+frugt	frugt	froɡt
+frø	frø	frœː
+blad	blad	blad
+rod	rod	ˈʁoˀð
+bark	bark	bark
+blomst	blomst	ˈb̥lʌmˀsd̥
+græs	græs	
+reb	reb	
+skind	skind	skend
+kød	kød	køð
+blod	blod	ˈb̥loˀð
+ben	ben	beːˀn
+fedt	fedt	ˈfed̥
+æg	æg	ɛːˀɡ
+horn	horn	hoɐ̯ˀn
+hale	hale	haːlə
+fjer	fjer	fjeˀɐ̯
+hår	hår	hɔːˀr
+hoved	hoved	ˈhoːəð
+øre	øre	øːrə
+øje	øje	ɔjə
+næse	næse	ˈnɛːsə
+mund	mund	monˀ
+tand	tand	tan
+tunge	tunge	ˈtˢɔŋə
+		
+fod	fod	ˈfoˀð
+ben	ben	beːˀn
+knæ	knæ	
+hånd	hånd	hɔnˀ
+vinge	vinge	
+mave	mave	maːvə
+tarm	tarm	tarm
+hals	hals	hals
+ryg	ryg	ˈʁœɡ̊
+bryst	bryst	brøsd
+hjerte	hjerte	jɛrtə
+lever	lever	ˈlewˀɐ
+drikke	drikke	ˈd̥ʁɛɡ̊ə
+spise	spise	spiːsə
+bide	bide	ˈb̥iːðə
+sutte	sutte	sutɘ
+spytte	spytte	spøtɘ
+kaste op	kaste op	ˈkʰasd̥ə
+blæse	blæse	blɛːsə
+ånde	ånde	ɔnə
+le	le	leˀ
+se	se	ˈseˀ
+høre	høre	ˈhøːʁə
+vide	vide	viːðə
+tænke	tænke	tɛnkə
+lugte	lugte	loɡtɘ
+frygte	frygte	ˈfʁ̥œɡ̊d̥ə
+sove	sove	sɔvə
+leve	leve	ˈleːʋə
+dø	dø	ˈd̥øˀ
+dræbe	dræbe	ˈd̥ʁɛːb̥ə
+kæmpe	kæmpe	kɛmbə
+jage	jage	ˈjaːɣə
+slå	slå	slɔːˀ
+skære	skære	skɛːrə
+splitte	splitte	spletə
+stikke	stikke	ˈsd̥eɡ̊ə
+kradse	kradse	krasɘ
+grave	grave	ɡraːvə
+svømme	svømme	svœmə
+flyve	flyve	flyːvə
+gå	gå	ˈɡ̊ɔˀ
+komme	komme	ˈkʰʌmə
+lægge	lægge	ˈlɛɡ̊ə
+sætte	sætte	ˈsɛd̥ə
+stå op 	stå op 	ˈsd̥ɔˀ
+dreje	dreje	drajə
+falde	falde	ˈfalə
+give	give	ˈɡ̊iˀ
+holde	holde	ˈhʌlə
+presse	presse	ˈpʰʁ̥asə
+gnide	gnide	ɡniːðɘ
+vaske	vaske	
+viske	viske	ˈʋesɡ̊ə
+trække	trække	trɛkə
+skubbe	skubbe	skɔbɘ
+kaste	kaste	ˈkʰasd̥ə
+binde	binde	ˈb̥enə
+sy	sy	syː
+tælle	tælle	
+sige	sige	ˈsiːə
+synge	synge	ˈsønɡə
+spille	spille	spelə
+flyde	flyde	flyːðə
+flyde	flyde	flyːðə
+fryse	fryse	fryːsə
+svulme	svulme	
+sol	sol	soːl
+måne	måne	mɔːnə
+stjerne	stjerne	stjɛrnə
+vand	vand	ˈvanˀ
+regn	regn	ˈʁɑɪ̯ˀn
+flod	flod	ˈfloːð
+sø	sø	søːˀ
+hav	hav	haw
+salt	salt	salˀd
+sten	sten	steːn
+sand	sand	san
+støv	støv	støːˀv
+jord	jord	ˈjoɐ̯ˀ
+sky	sky	ˈskyˀ
+tåge	tåge	ˈtɔːwə
+himmel	himmel	heməl
+vind	vind	ʋend
+sne	sne	sneːˀ
+is	is	ˈiːˀs
+røg	røg	røj
+ild	ild	ilˀ
+aske	aske	
+brænde	brænde	ˈb̥ʁanə
+vej	vej	ˈʋɑjˀ
+bjerg	bjerg	bjɛrɣ
+rød	rød	ˈʁœˀð
+grøn	grøn	ɡrœnˀ
+gul	gul	ɡuːˀl
+hvid	hvid	ˈviːˀð
+sort	sort	ˈsoɐ̯d̥
+nat	nat	nad̥
+dag	dag	daːˀɣ
+år	år	
+varm	varm	
+kold	kold	kɒl
+fuld	fuld	fulˀ
+ny	ny	nyː
+gammel	gammel	ɡaməl
+god	god	ˈɡ̊oˀð
+dårlig	dårlig	ˈd̥ɒːli
+rådden	rådden	ˈʁʌðən
+snavset	snavset	snavset
+lige	lige	ˈliːə
+rund	rund	ʁɔnˀ
+skarp	skarp	
+sløv	sløv	sløːv
+glat	glat	
+våd	våd	vɔːˀð
+tør	tør	tœːˀr
+rigtig	rigtig	ˈrekti
+nær	nær	nɛːr
+fjern	fjern	fjɛrn
+højre	højre	hɔjrə
+venstre	venstre	
+ved	ved	(ˈ)ʋeð
+ind	ind	end
+med	med	mɛð
+og	og	ʌ
+hvis	hvis	ves
+fordi	fordi	fɔˈdiːˀ
+navn	navn	

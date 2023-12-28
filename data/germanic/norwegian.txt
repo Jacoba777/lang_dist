@@ -1,0 +1,207 @@
+jeg	jeg	jæɪ̯
+du	du	dʉː
+han	han	han
+vi	vi	ʋiː
+dere	dere	ˈdeːɾə
+de	de	diː
+denne	denne	
+den	den	ˈdɛn
+her	her	hæːr
+der	der	dæːr
+hvem	hvem	vɛm
+hva	hva	ʋɑː
+hvor	hvor	ʋʊɾ
+når	når	nɔɾ
+hvordan	hvordan	
+ikke	ikke	²ɪkːə
+all	all	
+mange	mange	ˈmɑŋə
+noe	noe	ˈnuːə
+lite	lite	
+annen	annen	ˈɑːˌɑn
+en	en	eːn
+to	to	tuː
+tre	tre	tɾeː
+fire	fire	ˈfiːɾə
+fem	fem	fɛm
+stor	stor	stuːɾ
+lang	lang	
+bred	bred	
+tykk	tykk	
+tung	tung	
+liten	liten	²liːtən
+kort	kort	kɔʈ
+trang	trang	tɾɑŋ
+tynn	tynn	
+kvinne	kvinne	²kʋɪnːə
+mann	mann	mɑnː
+menneske	menneske	ˈmɛnː(ə)skə
+barn	barn	bɑːɳ
+hustru	hustru	
+mann	mann	mɑnː
+mor	mor	
+far	far	
+dyr	dyr	dyːr
+fisk	fisk	fɪsk
+fugl	fugl	fʉːl
+hund	hund	hʉnː
+lus	lus	
+slange	slange	
+mark	mark	
+tre	tre	tɾeː
+skog	skog	skuːɡ
+stokk	stokk	
+frukt	frukt	
+frø	frø	
+blad	blad	blaːd
+rot	rot	
+bark	bark	
+blomst	blomst	
+gress	gress	
+tau	tau	
+hud	hud	
+kjøtt	kjøtt	çœt
+blod	blod	bluː
+ben	ben	
+fett	fett	
+egg	egg	ɛɡ
+horn	horn	huːrn
+hale	hale	
+fjær	fjær	
+hår	hår	
+hode	hode	ˈhoːð̩
+øre	øre	
+øye	øye	ˈœ̂ʏ̯ə
+nese	nese	
+munn	munn	
+tann	tann	
+tunge	tunge	
+negl	negl	næɪl
+fot	fot	
+ben	ben	
+kne	kne	
+hånd	hånd	
+vinge	vinge	
+mage	mage	
+involler	involler	
+hals	hals	hals
+rygg	rygg	
+bryst	bryst	
+hjerte	hjerte	¹jɛrtɛ
+lever	lever	
+drikke	drikke	
+spise	spise	ˈspiːsə
+bite	bite	
+suge	suge	
+spytte	spytte	
+kaste	kaste	
+blåse	blåse	bloːse
+puste	puste	
+le	le	
+se	se	seː
+høre	høre	
+vite	vite	²ʋiːtɛ
+tenke	tenke	
+lukte	lukte	
+frykte	frykte	
+sove	sove	
+leve	leve	
+dø	dø	
+drepe	drepe	
+slåss	slåss	
+jage	jage	
+slå	slå	
+skjære	skjære	
+kløve	kløve	
+stikke	stikke	
+skrape	skrape	
+grave	grave	ˈɡrɑːʋ
+svømme	svømme	ˈsʋœmːə
+fly	fly	flyː
+gå	gå	ɡoː
+komme	komme	
+legge	legge	ˈlêɡe
+sette	sette	
+stå	stå	
+svinge	svinge	
+falle	falle	
+gi	gi	jiː
+holde	holde	
+klemme	klemme	
+gni	gni	
+vaske	vaske	
+tørke	tørke	
+dra	dra	
+skyve	skyve	
+kaste	kaste	
+binde	binde	
+sy	sy	
+telle	telle	
+si	si	siː
+synge	synge	
+leke	leke	
+flyte	flyte	
+renne	renne	
+fryse	fryse	
+svulme	svulme	
+sol	sol	suːl
+måne	måne	ˈmoːnə
+stjerne	stjerne	ˈstjɛrnɛ
+vann	vann	ʋɑnː
+regn	regn	reɡn
+elv	elv	ɛlʋ
+innsjø	innsjø	
+sjø	sjø	
+salt	salt	
+stein	stein	stæɪn
+sand	sand	sɑn
+støv	støv	
+jord	jord	juːr
+sky	sky	
+tåke	tåke	
+himmel	himmel	
+vind	vind	ʋin
+snø	snø	
+is	is	
+røyk	røyk	rœʏ̯k
+ild	ild	
+aske	aske	
+brenne	brenne	
+vei	vei	
+fjell	fjell	fjɛl
+rød	rød	ɾøː
+grønn	grønn	ɡrœn
+gul	gul	ɡʉːɽ
+hvit	hvit	ʋiːt
+sort	sort	suʈ
+natt	natt	natː
+dag	dag	dɑːɡ
+år	år	oːɾ
+varm	varm	
+kald	kald	
+full	full	fʉl
+ny	ny	
+gammel	gammel	
+god	god	ɡuː
+dårlig	dårlig	
+råtten	råtten	
+skitten	skitten	
+rett	rett	ɾɛt
+rund	rund	
+skarp	skarp	
+sløv	sløv	
+glatt	glatt	
+våt	våt	
+tørr	tørr	
+rett	rett	ɾɛt
+nær	nær	
+langt borte	langt borte	
+høyre	høyre	
+venstre	venstre	
+i	i	iː
+i	i	iː
+med	med	meː
+og	og	ɔ
+hvis	hvis	
+fordi	fordi	fɔɾˈdiː
+navn	navn	

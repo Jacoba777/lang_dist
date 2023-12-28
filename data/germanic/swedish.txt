@@ -1,0 +1,207 @@
+jag	jag	jɑː(ɡ)
+du	du	dʉː
+han	han	hanː
+vi	vi	viː
+ni	ni	niː
+de	de	dɔm
+denna	denna	
+den	den	dɛnː
+här	här	hæːr
+där	där	dɛːr
+vem	vem	
+vad	vad	vɑːd
+var	var	vɑːr
+när	när	næːr
+hur	hur	hʉːr
+inte	inte	²ɪntɛ
+alla	alla	ˈalˌa
+många	många	
+några	några	ˈnoːˌ(ɡ)ra
+få	få	foː
+annan 	annan 	
+ett	ett	ɛt
+två	två	tvoː
+tre	tre	treː
+fyra	fyra	ˈfyːˌra
+fem	fem	fɛm
+stor	stor	stuːr
+lång	lång	
+bred	bred	breːd
+tjock	tjock	ɕɔk
+tung	tung	tɵŋ
+liten	liten	²liːtɛn
+kort	kort	kɔrt
+trång	trång	
+tunn	tunn	
+kvinna	kvinna	²kvɪnːˌa
+man	man	man
+människa	människa	mɛnːɪɧa
+barn	barn	bɑːrn
+fru	fru	frʉː
+man	man	man
+mor	mor	muːr
+far	far	fɑːr
+djur	djur	ˈjʉːr
+fisk	fisk	fɪsk
+fågel	fågel	ˈfoːɡəl
+hund	hund	hɵnd
+lus	lus	lʉːs
+orm	orm	ˈʊrm
+mask	mask	
+träd	träd	trɛː(d)
+skog	skog	skuːɡ
+pinne	pinne	
+frukt	frukt	ˈfrɵkt
+frö	frö	frøː
+löv	löv	løːv
+rot	rot	ruːt
+bark	bark	
+blomma	blomma	blʊ.ma
+gräs	gräs	
+rep	rep	ˈreːp
+hud	hud	hʉːd
+kött	kött	ɕœtː
+blod	blod	bluːd
+ben	ben	ˈbeːn
+fett	fett	fɛt
+ägg	ägg	ɛɡː
+horn	horn	
+svans	svans	svans
+fjäder	fjäder	
+hår	hår	hoːr
+huvud	huvud	²hʉːvɵd
+öra	öra	²øːra
+öga	öga	ˈøːˌɡa
+näsa	näsa	ˈnɛːsˌa
+mun	mun	mɵn
+tand	tand	ˈtand
+tunga	tunga	²tɵŋa
+nagel	nagel	ˈnɑːɡɛl
+fot	fot	fuːt
+ben	ben	ˈbeːn
+knä	knä	knɛː
+hand	hand	hand
+vinge	vinge	ˈvɪŋˌɛ
+mage	mage	²mɑːɡɛ
+inälvor	inälvor	
+hals	hals	
+rygg	rygg	rʏɡ
+bröst	bröst	
+hjärta	hjärta	ˈjɛrˌta
+lever	lever	
+dricka	dricka	²drɪkːa
+äta	äta	ˈɛːˌta
+bita	bita	
+suga	suga	
+spotta	spotta	
+kräkas	kräkas	²krɛːˌkas
+blåsa	blåsa	
+andas	andas	
+skratta	skratta	
+se	se	seː
+höra	höra	²høːra
+veta	veta	²veːta
+tänka	tänka	²tɛŋka
+lukta	lukta	
+vara	vara	²vɑːra
+sova	sova	²soːva
+leva	leva	²leːva
+dö	dö	døː
+döda	döda	²døːda
+kämpa	kämpa	
+jaga	jaga	ˈjɑːˌɡa
+slå	slå	sloː
+skära	skära	ˈɧæːˌra
+dela	dela	deːla
+hugga	hugga	
+klia	klia	
+gräva	gräva	
+simma	simma	²sɪma
+flyga	flyga	ˈflyːˌɡa
+gå	gå	ɡoː
+komma	komma	²kɔma
+ligga	ligga	
+sitta	sitta	²sɪta
+stå	stå	stoː
+svänga	svänga	
+falla	falla	²falːa
+ge	ge	jeː
+hålla	hålla	ˈhɔ̂lːä
+klämma	klämma	
+gnida	gnida	
+tvätta	tvätta	ˈtvɛtːˌa
+torka	torka	
+dra	dra	drɑː
+knuffa	knuffa	
+kasta	kasta	
+knyta	knyta	
+sy	sy	
+räkna	räkna	
+säga	säga	ˈsɛjːa
+sjunga	sjunga	²ɧɵŋa
+leka 	leka 	ˈleːˌka
+flyta	flyta	²flyːta
+flyta	flyta	²flyːta
+frysa	frysa	
+svälla	svälla	
+sol	sol	suːl
+måne	måne	ˈmoːˌnɛ
+stjärna	stjärna	ˈɧɛːrˌna
+vatten	vatten	ˈvatːɛn
+regn	regn	rɛŋn
+flod	flod	fluːd
+sjö	sjö	ɧøː
+hav	hav	hɑːv
+salt	salt	salt
+sten	sten	steːn
+sand	sand	
+damm	damm	dam
+jord	jord	juːrd
+moln	moln	moːln
+dimma	dimma	
+himmel	himmel	
+vind	vind	vɪnd
+snö	snö	snøː
+is	is	iːs
+rök	rök	røːk
+eld	eld	ˈɛld
+aska	aska	
+brinna 	brinna 	²brɪnːa
+väg	väg	vɛːɡ
+berg	berg	bɛrj
+röd	röd	røːd
+grön	grön	ˈɡrøːn
+gul	gul	ɡʉːl
+vit	vit	ˈviːt
+svart	svart	¹svart
+natt	natt	natː
+dag	dag	dɑː(ɡ)
+år	år	ˈoːr
+varm	varm	varm
+kall	kall	kal
+full	full	fɵl
+ny	ny	nyː
+gammal	gammal	²ɡamːal
+bra	bra	brɑː
+dålig	dålig	²doː.lɪ(ɡ)
+rutten	rutten	
+smutsig	smutsig	
+rak	rak	
+rund	rund	
+vass	vass	vas
+slö	slö	sløː
+slät	slät	slɛːt
+våt	våt	voːt
+torr	torr	
+rätt	rätt	
+nära	nära	
+avlägsen	avlägsen	
+höger	höger	
+vänster	vänster	
+på	på	poː
+i	i	iː
+med	med	meː(d)
+och	och	ɔ
+om	om	ɔm
+eftersom	eftersom	²ˈɛftærˌsɔm
+namn	namn	namn

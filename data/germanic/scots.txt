@@ -1,0 +1,207 @@
+A	A	ɑː
+thoo	thoo	
+he	he	hi
+we	we	wi
+thoo	thoo	
+thay	thay	
+this	this	
+that	that	
+here	here	
+thare	thare	
+wha	wha	ʍɑː
+whit	whit	ʍɪt
+whaur	whaur	
+whan	whan	ʍan
+hou	hou	
+no	no	
+aw	aw	ɑː
+mony	mony	
+some	some	
+few	few	
+ither	ither	
+ane	ane	en
+twa	twa	twɑː
+three	three	θriː
+fower	fower	fʌur
+five	five	faɪv
+big	big	bɪɡ
+lang	lang	
+wide	wide	
+thick	thick	
+hivy	hivy	
+smaw	smaw	
+short	short	
+nairae	nairae	
+thin	thin	
+wumman	wumman	
+man	man	
+man	man	
+child	child	
+wife	wife	
+husband	husband	
+mither	mither	ˈmɪðər
+faither	faither	ˈfeːðər
+ainimal	ainimal	
+fish	fish	
+bird	bird	
+dug	dug	dʌɡ
+loose	loose	
+snake	snake	
+wirm	wirm	
+tree	tree	
+wid	wid	
+stick	stick	
+fruit	fruit	
+seed	seed	
+leaf	leaf	
+ruit	ruit	
+baurk	baurk	
+flouer	flouer	
+gress	gress	ˈɡrɛs
+raip	raip	
+skin	skin	
+meat	meat	
+bluid	bluid	blød
+bane	bane	ben
+fat	fat	
+egg	egg	
+horn	horn	
+tail	tail	
+feather	feather	
+hair	hair	
+heid	heid	hid
+ear	ear	
+ee	ee	
+nose	nose	
+mooth	mooth	muθ
+tuith	tuith	tiθ
+tongue	tongue	
+fingernail	fingernail	
+fit	fit	
+leg	leg	
+knee	knee	
+haund	haund	
+weeng	weeng	
+belly	belly	
+guts	guts	
+neck	neck	
+back	back	
+breest	breest	brist
+hert	hert	
+liver	liver	
+drink	drink	
+eat	eat	
+bite	bite	
+souk	souk	
+spit	spit	
+vomit	vomit	
+blaw	blaw	
+braithe	braithe	
+lauch	lauch	
+see	see	ˈsi
+here	here	
+knaw	knaw	
+think	think	
+smell	smell	
+fear	fear	
+sleep	sleep	
+leeve	leeve	
+dee	dee	
+kill	kill	
+fecht	fecht	fɛçt
+hunt	hunt	
+hit	hit	
+cut	cut	
+spleet	spleet	
+stob	stob	
+scrat	scrat	
+dig	dig	
+sweem	sweem	
+flee	flee	
+walk	walk	
+come	come	
+lie	lie	
+sit	sit	
+staund	staund	
+turn	turn	
+faw	faw	
+gie	gie	
+haud	haud	had
+squeeze	squeeze	
+rub	rub	
+wash	wash	
+wipe	wipe	
+pou	pou	
+push	push	
+thraw	thraw	
+tie	tie	
+shew	shew	
+coont	coont	
+say	say	
+sing	sing	
+play	play	
+fleet	fleet	
+flowe	flowe	
+freeze	freeze	
+swall	swall	
+sun	sun	sʌn
+muin	muin	
+starn	starn	
+watter	watter	wɑtər
+rain	rain	
+river	river	
+loch	loch	lɔx
+sea	sea	
+saut	saut	sɑːt
+stane	stane	
+saund	saund	
+dist	dist	
+earth	earth	
+clood	clood	
+rouk	rouk	
+sky	sky	skaɪ
+wind	wind	
+snaw	snaw	
+ice	ice	
+smeuk	smeuk	
+fire	fire	
+ess	ess	
+birn	birn	
+road	road	
+muntain	muntain	
+reid	reid	rid
+green	green	
+yellae	yellae	
+white	white	
+black	black	
+nicht	nicht	nɪçt
+day	day	dɪ
+year	year	j)iːr
+wairm	wairm	
+cauld	cauld	kɔld
+fou	fou	
+new	new	
+auld	auld	ɔl
+guid	guid	ɡød
+bad	bad	
+rotten	rotten	
+dirty	dirty	
+straucht	straucht	strɔːxt
+roond	roond	rund
+shairp	shairp	
+dull	dull	
+smuith	smuith	
+weet	weet	
+dry	dry	
+correct	correct	
+near	near	
+faur	faur	
+richt	richt	rɪçt
+left	left	
+at	at	
+in	in	
+lwo	lwo	
+wa	wa	
+gif	gif	
+acause	acause	əˈkɑːz
+name	name	

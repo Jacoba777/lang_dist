@@ -1,0 +1,207 @@
+ek	ek	æk
+jy 	jy 	jəi
+hy	hy	ɦəi
+ons	ons	ɔns
+julle 	julle 	ˈjœ.lə
+hulle	hulle	ˈɦœ.lə
+dié	dié	di
+dat	dat	dat
+hier	hier	ɦir
+daar	daar	dɑːr
+wie 	wie 	
+wat 	wat 	vat
+waar 	waar 	vɑːr
+wanneer 	wanneer 	
+hoe 	hoe 	
+nie	nie	ni
+alle	alle	
+baie	baie	ˈbajə
+party	party	
+min	min	
+ander	ander	
+een	een	ɪə̯n
+twee	twee	tvɪə̯
+drie	drie	dri
+vier	vier	
+vyf	vyf	
+groot	groot	χrʊət
+lank	lank	
+wyd	wyd	vəi̯t
+dik	dik	
+swaar	swaar	
+klein	klein	kləi̯n
+kort	kort	kɔrt
+nou	nou	nœu
+dun	dun	
+vrou	vrou	frœu̯
+man	man	man
+mens	mens	mɛns
+kind	kind	kənt
+vrou	vrou	frœu̯
+man	man	man
+moeder	moeder	
+vader	vader	ˈfɑːdər
+dier	dier	dir
+vis	vis	fəs
+voël	voël	fʊə̯l
+hond	hond	ɦɔnt
+luis	luis	lœis
+slang	slang	slɑŋ
+wurm	wurm	
+boom	boom	bʊəm
+woud	woud	
+stok	stok	stɔk
+vrug	vrug	frœχ
+saad	saad	
+blaar	blaar	blɑːr
+wortel	wortel	
+bas	bas	bɑs
+blom	blom	blɔm
+gras	gras	
+tou	tou	tœu̯
+vel	vel	fɛl
+vleis	vleis	fləis
+bloed	bloed	blut
+been	been	
+vet	vet	
+eier	eier	ˈəiər
+horing	horing	ˈɦʊə.rəŋ
+stert	stert	
+veer	veer	
+haar	haar	ɦɑːr
+kop	kop	kɔp
+oor	oor	ʊə̯r
+oog	oog	oəχ
+neus	neus	nɪøs
+mond	mond	mɔnt
+tand	tand	
+tong	tong	tɔŋ
+nael	nael	ˈnɑːəl
+voet	voet	
+been	been	
+knie	knie	
+hand	hand	ɦant
+vlerk	vlerk	flɛrk
+maag	maag	
+ingewande	ingewande	
+nek	nek	
+rug	rug	rœχ
+bors	bors	bɔ
+hart	hart	
+lewer	lewer	ˈlɪə̯vər
+drink	drink	
+eet	eet	ɪət
+byt	byt	bɛit
+suig	suig	sœiχ
+spoeg	spoeg	
+kots	kots	kɔts
+waai	waai	
+asemhaal	asemhaal	
+lag	lag	ɫɐχ
+sien	sien	sin
+hoor	hoor	ɦʊə̯r
+weet	weet	vɪət
+dink	dink	dəŋk
+ruik	ruik	
+vrees	vrees	frɪəs
+slaap	slaap	
+lewe	lewe	ˈlɪəvə
+sterf	sterf	
+doodmaak	doodmaak	
+veg	veg	
+jag	jag	jaχ
+slaan	slaan	slɑːn
+knip	knip	
+kloof	kloof	kluəf
+steek	steek	
+krap	krap	
+grawe	grawe	
+swem	swem	
+vlieg	vlieg	fliχ
+loop	loop	lʊəp
+kom	kom	kɔm
+lê	lê	lɛː
+sit	sit	sət
+staan	staan	stɑːn
+draai	draai	drɑːi
+val	val	fal
+gee	gee	χɪə
+hou	hou	ɦœu
+druk	druk	drœk
+vryf	vryf	
+was	was	
+vee	vee	
+trek	trek	træk
+stoot	stoot	
+gooi	gooi	
+bind	bind	
+naai	naai	
+tel	tel	tɛ̞ːl
+sê	sê	sɛː
+sing	sing	səŋ
+speel	speel	spɪə̯l
+dryf 	dryf 	
+vloei	vloei	flui
+vries	vries	
+swel	swel	
+son	son	sɔn
+maan	maan	mɑːn
+ster	ster	stɛr
+water	water	ˈvaːtər
+reën	reën	rɪə̯n
+rivier	rivier	rəˈfiːr
+meer	meer	
+see	see	sɪə
+sout	sout	sœu̯t
+klip	klip	
+sand	sand	sant
+stof	stof	stɔf
+grond	grond	ˈχrɔnt
+wolk	wolk	vɔlk
+mis	mis	məs
+lug	lug	lœχ
+wind	wind	vənt
+sneeu	sneeu	sniu
+ys	ys	ə̟i̯s
+rook	rook	rʊə̯k
+vuur	vuur	fyr
+as	as	as
+brand	brand	brant
+pad	pad	pɑt
+berg	berg	
+rooi	rooi	roːi̯
+groen	groen	
+geel	geel	χɪə̯l
+wit	wit	vət
+swart	swart	
+nag	nag	naχ
+dag	dag	daχ
+jaar	jaar	jɑːr
+warm	warm	
+koud	koud	ˈkœut
+vol	vol	fɔl
+nuut	nuut	nyt
+oud	oud	
+goed	goed	χut
+sleg	sleg	
+vrot	vrot	frɔt
+vuil	vuil	
+reguit	reguit	
+rond	rond	rɔnt
+skerp	skerp	
+stomp	stomp	
+glad	glad	
+nat	nat	
+droog	droog	drʊə̯χ
+reg	reg	
+naby	naby	
+ver	ver	fɛr
+regs	regs	rɛχs
+links	links	
+by	by	bəi
+in	in	ən
+met	met	mɛt
+en	en	ɛn
+as	as	as
+omdat	omdat	ɔmˈdat
+naam	naam	
