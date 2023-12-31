@@ -1,0 +1,207 @@
+eu	eu	ˈew
+ti	ti	ˈti
+el	el	ˈel
+nós	nós	nɔs
+vós	vós	ˈbɔs
+eles	eles	ˈelɪs
+este	este	ˈestɪ
+ese	ese	ˈesɪ
+aquí	aquí	aˈki
+alí	alí	aˈli
+quen	quen	ˈkeŋ
+que	que	kɪ
+onde	onde	ˈonde̝
+cando	cando	
+como	como	ˈkʊmʊ
+non	non	nʊ̃ŋ
+todo	todo	toðʊ
+moitos	moitos	ˈmojtʊs
+algún	algún	alˈɣuŋ
+pouco	pouco	ˈpowko̝
+outro	outro	oʊ̯ˈtɾʊ
+un	un	uŋ
+dous	dous	ˈdows
+tres	tres	tɾɪs
+catro	catro	ˈkɑ.tɾʊ
+cinco	cinco	θiŋkʊ
+grande	grande	ɡɾɐndɪ
+longo	longo	ˈloŋɡʊ
+ancho	ancho	
+groso	groso	ˈɡɾɔsʊ
+pesado	pesado	pesˈsaðʊ
+pequeno	pequeno	pɪˈkenʊ
+curto	curto	ˈkuɾt̪ʊ
+estreito	estreito	esˈtɾejtʊ
+delgado	delgado	delˈɣaðʊ
+muller	muller	muˈʎɛɾ
+home	home	ˈɔ.mɪ
+home	home	ˈɔ.mɪ
+neno	neno	ˈnẽ.nʊ
+esposa	esposa	esˈposa̝
+esposo	esposo	esˈposo̝
+nai	nai	ˈnaj
+pai	pai	ˈpaj
+animal	animal	
+peixe	peixe	ˈpejʃe̝
+paxaro	paxaro	paˈʃaɾʊ
+can	can	ˈkaŋ
+piollo	piollo	piˈoʎo̝
+serpe	serpe	ˈsɛɾpe̝
+verme	verme	ˈbɛɾmɪ
+árbore	árbore	ˈaɾβo̝ɾe̝
+monte	monte	ˈmõn.tɪ
+pau	pau	ˈpaw
+froito	froito	
+semente	semente	seˈmɛnte̝
+folla	folla	ˈfo.ʎɐ
+raíz	raíz	raˈiθ
+casca	casca	
+flor	flor	ˈfloɾ
+herba	herba	ˈɛɾ.βɐ
+corda	corda	ˈkɔɾðɐ
+pel	pel	
+carne	carne	ˈkaɾne̝
+sangue	sangue	saŋɡe̝
+óso	óso	ˈɔso̝
+graxa	graxa	ˈɡɾaʃa̝
+ovo	ovo	ˈɔ.βʊ
+corno	corno	ˈkɔɾnʊ
+rabo	rabo	ˈraβo̝
+pluma	pluma	ˈplumɐ
+pelo	pelo	ˈpelʊ
+cabeza	cabeza	kaˈβeθa̝
+orella	orella	oˈɾeʎa̝
+ollo	ollo	ˈoʎʊ
+nariz	nariz	naˈɾiθ
+boca	boca	ˈbokɐ
+dente	dente	ˈdentɪ
+lingua	lingua	
+unlla	unlla	ˈunʎa̝
+pé	pé	ˈpɛ
+perna	perna	ˈpɛɾna̝
+xeonllo	xeonllo	ʃeˈonʎo̝
+man	man	
+á	á	aː
+bandullo	bandullo	banˈduʎo̝
+tripas	tripas	
+pescozo	pescozo	pesˈkoθo̝
+lombo	lombo	ˈlombo̝
+peito	peito	ˈpejto̝
+corazón	corazón	koɾaˈθoŋ
+fígado	fígado	ˈfiɣɐðʊ
+beber	beber	beˈβeɾ
+comer	comer	koˈmeɾ
+trabar	trabar	tɾaˈβaɾ
+zugar	zugar	θuˈɣaɾ
+cuspir	cuspir	kusˈpiɾ
+gomitar	gomitar	
+soprar	soprar	
+alentar	alentar	alenˈtaɾ
+rir	rir	
+ver	ver	
+oír	oír	ɔˈiɾ
+saber	saber	saˈbeɾ
+pensar	pensar	
+cheirar	cheirar	t͡ʃejˈɾaɾ
+temer	temer	teˈmeɾ
+durmir	durmir	duɾˈmiɾ
+vivir	vivir	biˈβiɾ
+morrer	morrer	moˈreɾ
+matar	matar	maˈtaɾ
+loitar	loitar	lojˈtaɾ
+cazar	cazar	kɑˈθaɾ
+bater	bater	baˈteɾ
+cortar	cortar	koɾˈtaɾ
+partir	partir	paɾˈtiɾ
+acoitelar	acoitelar	akojteˈlaɾ
+rabuñar	rabuñar	raβuˈɲaɾ
+cavar	cavar	kaˈβaɾ
+nadar	nadar	naˈdaɾ
+voar	voar	boˈaɾ
+andar	andar	anˈdaɾ
+vir	vir	ˈbiːɾ
+estar deitado	estar deitado	
+sentar	sentar	
+erguer 	erguer 	eɾˈɡeɾ
+virar	virar	biˈɾaɾ
+caer	caer	kaˈeɾ
+dar	dar	ˈdaɾ
+soster	soster	
+apertar	apertar	apeɾˈtaɾ
+fretar	fretar	fɾeˈtaɾ
+lavar	lavar	
+limpar	limpar	limˈpaɾ
+tirar	tirar	tiˈɾaɾ
+puxar	puxar	puˈʃaɾ
+tirar	tirar	tiˈɾaɾ
+atar	atar	aˈtaɾ
+coser	coser	koˈseɾ
+contar	contar	konˈtaɾ
+dicir	dicir	diˈθiɾ
+cantar	cantar	kɑnˈtaɾ
+xogar	xogar	ʃoˈɣaɾ
+frotar	frotar	
+fluír	fluír	
+conxelar	conxelar	
+inchar	inchar	inˈt͡ʃaɾ
+sol	sol	s̺ol
+lúa	lúa	ˈlu.ɐ
+estrela	estrela	es̺ˈtɾelɐ
+auga	auga	ˈaw.ɣɐ
+chuvia	chuvia	ˈt͡ʃuβja̝
+río	río	ˈriʊ
+lago	lago	ˈlaɣo
+mar	mar	ˈmaɾ
+sal	sal	s̺al
+pedra	pedra	ˈpɛðɾɐ
+area	area	aˈɾea̝
+po	po	ˈpɔː
+terra	terra	ˈtɛra̝
+nube	nube	ˈnuβɪ
+néboa	néboa	ˈnɛβo̯a̝
+ceo	ceo	ˈθɛʊ
+vento	vento	ˈbento̝
+neve	neve	ˈnɛβ̞ɪ
+xeo	xeo	ˈʃe.ʊ
+fume	fume	ˈfumɪ
+lume	lume	ˈlu.mɪ
+cinza	cinza	
+queimar	queimar	kejˈmaɾ
+estrada	estrada	esˈtɾaða̝
+monte	monte	ˈmõn.tɪ
+vermello	vermello	beɾˈmeʎʊ
+verde	verde	ˈbeɾðɪ
+amarelo	amarelo	amaˈɾɛlo
+branco	branco	ˈbɾaŋkʊ
+negro	negro	ˈneɣɾʊ
+noite	noite	ˈnoi̯t̪ɪ
+día	día	ˈd̪iɐ
+ano	ano	ˈɐnʊ
+quente	quente	ˈkɛnt̪ɪ
+frío	frío	ˈfɾiʊ
+cheo	cheo	ˈt͡ʃeo̝
+novo	novo	ˈnɔ.βʊ
+vello	vello	ˈbɛʎo̝
+bo	bo	ˈboː
+malo	malo	
+podre	podre	ˈpoðɾe̝
+lixoso	lixoso	
+recto	recto	
+redondo	redondo	reˈðondo̝
+afiado	afiado	
+romo	romo	
+suave	suave	
+mollado	mollado	
+seco	seco	ˈsekʊ
+correcto	correcto	
+preto	preto	ˈpɾetʊ
+lonxe	lonxe	ˈlon.ʃɪ
+dereita	dereita	
+esquerda	esquerda	
+en	en	eŋ
+en	en	eŋ
+con	con	kʊŋ
+e	e	ɪ
+se	se	
+porque	porque	pʊɾˈkɪ
+nome	nome	ˈno.mɪ

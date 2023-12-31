@@ -33,7 +33,7 @@ class LanguageDistances:
 def calculate_word_dists(lang1: Language, lang2: Language) -> List[Tuple[str, str, float]]:
     common_words = [(lang1.get_word(w), lang2.get_word(w)) for w in SWADESH_WORDS]
     common_words = [(w1, w2) for (w1, w2) in common_words if w1.ipa and w2.ipa]
-    word_dists = [(w1, w2, word_distance(w1, w2, debug=True)) for (w1, w2) in common_words]
+    word_dists = [(w1, w2, word_distance(w1, w2)) for (w1, w2) in common_words]
     return word_dists
 
 

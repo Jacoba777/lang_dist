@@ -55,7 +55,8 @@ def syllable_distance(s1: Syllable, s2: Syllable, debug=False):
     dist_onset = get_phone_list_dist(s1.onset, s2.onset, debug=debug)
     dist_nucleus = get_phone_list_dist(s1.nucleus, s2.nucleus, debug=debug)
     dist_coda = get_phone_list_dist(s1.coda, s2.coda, debug=debug)
-    print(f'{dist_onset=},{dist_nucleus=},{dist_coda=}')
+    if debug:
+        print(f'{dist_onset=},{dist_nucleus=},{dist_coda=}')
     return (dist_onset + dist_nucleus + dist_coda) / 3
 
 

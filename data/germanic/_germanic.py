@@ -9,7 +9,7 @@ DUTCH = Language('dutch', FAMILY, 25000000, 5000000)
 AFRIKAANS = Language('afrikaans', FAMILY, 7200000, 10300000)
 SWEDISH = Language('swedish', FAMILY, 10000000, 3000000)
 DANISH = Language('danish', FAMILY, 6000000, 0)
-NORWEGIAN = Language('norwegian', FAMILY, 5000000, 0)
+NORWEGIAN_BOKMAL = Language('norwegian_bokmal', FAMILY, 5000000, 0)
 NORWEGIAN_NYNORSK = Language('norwegian_nynorsk', FAMILY, 5000000, 0)
 SCOTS = Language('scots', FAMILY, 1540000, 0)
 YIDDISH = Language('yiddish', FAMILY, 600000, 0)
@@ -29,7 +29,7 @@ ALL_LANGS = [
     LUXEMBOURGISH,
     YIDDISH,
     FAROESE,
-    NORWEGIAN,
+    NORWEGIAN_BOKMAL,
     NORWEGIAN_NYNORSK,
     ICELANDIC,
     SWEDISH,
