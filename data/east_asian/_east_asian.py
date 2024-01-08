@@ -7,6 +7,6 @@ KOREAN = Language('korean', FAMILY, 82000000, 0)
 
 
 ALL_LANGS = [
-    JAPANESE,
+    # JAPANESE,
     KOREAN,
 ]

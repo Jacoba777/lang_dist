@@ -1,0 +1,207 @@
+jo	jo	
+tu	tu	
+il	il	
+nos	nos	nos
+vos	vos	vus
+il	il	
+cist	cist	
+cist	cist	
+ci	ci	
+la	la	
+qui	qui	ki
+que	que	kə
+u	u	
+quant	quant	
+coment	coment	
+ne	ne	
+tot	tot	
+mult	mult	
+		
+poi	poi	
+autre	autre	
+un	un	yn
+deus	deus	deu̯s
+trois	trois	ˈtɾoi̯s
+quatre	quatre	ˈk(w)atɾə
+cinc	cinc	ˈtsink
+grant	grant	
+lonc	lonc	
+lé	lé	
+espés	espés	
+pesant	pesant	
+petit	petit	
+cort	cort	ˈkuɾt
+estroit	estroit	esˈtɾoi̯t
+meigre	meigre	
+dame	dame	ˈdamə
+hom	hom	
+hom	hom	
+enfant	enfant	ẽnˈfãnt
+feme	feme	ˈfemə
+mari	mari	
+mere	mere	
+pere	pere	
+beste	beste	
+poisson	poisson	
+oisel	oisel	
+chien	chien	ˈtʃjɛn
+püil	püil	
+serpent	serpent	serˈpẽnt
+verm	verm	
+arbre	arbre	
+forest	forest	fɔˈɾɛst
+baston	baston	
+fruit	fruit	ˈfɾyi̯t
+		
+fueille	fueille	
+racine	racine	
+escorce	escorce	
+flor	flor	ˈfluɾ
+erbe	erbe	ˈɛɾbə
+corde	corde	
+pel	pel	
+char	char	ˈt͡ʃaɾ
+sanc	sanc	ˈsãnk
+os	os	ɔs
+grese	grese	
+oef	oef	
+corne	corne	
+cue	cue	ˈkwɛ
+plume	plume	
+chevol	chevol	
+chief	chief	ˈtʃjeːf
+oreille	oreille	
+oel	oel	
+nés	nés	
+boche	boche	ˈbutʃə
+dent	dent	ˈdent
+langue	langue	ˈlenɡʷə
+ungle	ungle	
+pié	pié	ˈpi͡ɛ
+jambe	jambe	ˈd͡ʒãmbə
+genol	genol	
+main	main	
+ele	ele	
+ventre	ventre	
+entraille	entraille	
+col	col	kɔl
+dos	dos	
+peitrine	peitrine	
+cuer	cuer	ˈkwɛɾ
+foie	foie	
+boivre	boivre	ˈbei̯vɾə
+mangier	mangier	manˈd͡ʒjeːɾ
+mordre	mordre	
+sucer	sucer	
+escupir	escupir	
+vomir	vomir	
+sofler	sofler	
+respirer	respirer	
+rire	rire	ˈriðɾə
+veoir	veoir	vəˈðei̯ɾ
+oïr	oïr	
+savoir	savoir	
+penser	penser	
+sentir	sentir	
+creindre	creindre	
+dormir	dormir	
+vivre	vivre	ˈvivɾə
+morir	morir	muˈɾiɾ
+ocire	ocire	ɔˈt͡siðɾə
+batre	batre	
+chacier	chacier	t͡ʃaˈt͡sjeːɾ
+batre	batre	
+colper	colper	
+brisier	brisier	
+		
+gratter	gratter	
+chaver	chaver	
+noer	noer	
+voler	voler	
+pasmer	pasmer	
+venir	venir	
+gesir	gesir	
+seoir	seoir	səˈoi̯ɾ
+		
+retorner	retorner	
+chair	chair	
+doner	doner	
+tenir	tenir	
+serrer	serrer	
+		
+laver	laver	
+		
+traire	traire	
+		
+jeter	jeter	
+lier	lier	
+cosdre	cosdre	ˈkuzdɾə
+conter	conter	
+dire	dire	
+chanter	chanter	t͡ʃanˈteːɾ
+joer	joer	
+floter	floter	
+		
+geler	geler	
+enfler	enfler	
+soleil	soleil	suˈleʎ
+lune	lune	lunə
+estoile	estoile	ɛsˈtoi̯.lə
+iaue	iaue	ˈja.wə
+pluie	pluie	
+riviere	riviere	
+lac	lac	
+mer	mer	
+sel	sel	
+pierre	pierre	
+sablon	sablon	
+pousiere	pousiere	
+terre	terre	ˈtɛrə
+		
+brume	brume	
+ciel	ciel	ˈtsi͡ɛl
+vent	vent	ˈvent
+noif	noif	
+glace	glace	
+fum	fum	
+fu	fu	
+cendre	cendre	
+ardre	ardre	
+chemin	chemin	tʃəˈmin
+montaigne	montaigne	munˈtaɲə
+roge	roge	ˈrudʒə
+vert	vert	ˈvert
+jaune	jaune	ˈd͡ʒau̯.nə
+blanc	blanc	blank
+noir	noir	ˈnei̯ɾ
+noit	noit	noit
+jor	jor	ˈd͡ʒuɾ
+an	an	
+chaut	chaut	ˈtʃalt
+froit	froit	
+plain	plain	
+novel	novel	nuˈvɛl
+viel	viel	ˈvi͡ɛʎ
+bon	bon	bun
+malvais	malvais	malˈvai̯s
+		
+sale	sale	
+droit	droit	ˈdɾoi̯t
+reont	reont	rəˈunt
+trenchant	trenchant	
+		
+		
+moillié	moillié	
+sec	sec	
+bon	bon	bun
+prés	prés	
+loing	loing	lu(i̯)ɲ
+destre	destre	
+senestre	senestre	səˈnɛstɾə
+a	a	
+en	en	en
+avoec	avoec	
+et	et	e
+se	se	
+kar	kar	
+non	non	-on

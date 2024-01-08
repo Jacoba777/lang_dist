@@ -1,0 +1,207 @@
+я	ja	ja
+ты	ty	tɨ
+он	on	on
+мы	my	mɨ
+вы	vy	vɨ
+они́	oní	
+э́то	éto	
+то	to	to
+здесь	zdesʹ	zʲdʲesʲ
+там	tam	tam
+кто	kto	kto
+что	što	ʂto
+где	gde	ɡdʲe
+когда́	kogdá	
+как	kak	kak
+не	ne	nʲɪ
+всё	vsjo	fsʲɵ
+мно́гие	mnógije	
+не́сколько	néskolʹko	
+немно́гие	nemnógije	
+друго́й	drugój	
+оди́н	odín	
+два	dva	dva
+три	tri	trʲi
+четы́ре	četýre	
+пять	pjatʹ	pʲætʲ
+большо́й	bolʹšój	
+дли́нный	dlínnyj	
+широ́кий	širókij	
+то́лстый	tólstyj	
+тяжёлый	tjažólyj	tʲɪˈʐoɫɨj
+ма́ленький	málenʹkij	
+коро́ткий	korótkij	
+у́зкий	úzkij	
+то́нкий	tónkij	
+же́нщина	žénščina	
+мужчи́на	mužčína	
+челове́к	čelovék	
+ребёнок	rebjónok	rʲɪˈbʲɵnək
+жена́	žená	
+муж	muž	muʂ
+мать	matʹ	matʲ
+оте́ц	otéc	
+зверь	zverʹ	zvʲerʲ
+ры́ба	rýba	
+пти́ца	ptíca	
+соба́ка	sobáka	
+вошь	vošʹ	voʂ
+змея́	zmejá	
+червь	červʹ	t͡ɕerfʲ
+де́рево	dérevo	
+лес	les	lʲes
+па́лка	pálka	
+плод	plod	pɫot
+се́мя	sémja	
+лист	list	lʲist
+ко́рень	kórenʹ	
+кора́	korá	
+цвето́к	cvetók	
+трава́	travá	
+верёвка	verjóvka	vʲɪˈrʲɵfkə
+ко́жа	kóža	
+мя́со	mjáso	
+кровь	krovʹ	krofʲ
+кость	kostʹ	kosʲtʲ
+жир	žir	ʐɨr
+яйцо́	jajcó	
+рог	rog	rok
+хвост	xvost	xvost
+перо́	peró	
+во́лос	vólos	
+голова́	golová	
+у́хо	úxo	
+глаз	glaz	ɡɫas
+нос	nos	nos
+рот	rot	rot
+зуб	zub	zup
+язы́к	jazýk	
+но́готь	nógotʹ	
+стопа́	stopá	
+нога́	nogá	
+коле́но	koléno	
+рука́	ruká	
+крыло́	kryló	
+живо́т	živót	
+кишки́	kiškí	
+ше́я	šéja	
+спина́	spiná	
+грудь	grudʹ	ɡrutʲ
+се́рдце	sérdce	
+пе́чень	péčenʹ	
+пить	pitʹ	pʲitʲ
+есть	jestʹ	jesʲtʲ
+куса́ть	kusátʹ	
+соса́ть	sosátʹ	
+плева́ть	plevátʹ	
+рвать	rvatʹ	rvatʲ
+дуть	dutʹ	dutʲ
+дыша́ть	dyšátʹ	
+смея́ться	smejátʹsja	
+ви́деть	vídetʹ	
+слы́шать	slýšatʹ	
+знать	znatʹ	znatʲ
+ду́мать	dúmatʹ	
+ню́хать	njúxatʹ	
+боя́ться	bojátʹsja	
+спать	spatʹ	spatʲ
+жить	žitʹ	ʐɨtʲ
+умира́ть	umirátʹ	
+убива́ть	ubivátʹ	
+боро́ться	borótʹsja	
+охо́титься	oxótitʹsja	
+ударя́ть	udarjátʹ	
+ре́зать	rézatʹ	
+разделя́ть	razdeljátʹ	
+коло́ть	kolótʹ	
+цара́пать	carápatʹ	
+копа́ть	kopátʹ	
+пла́вать	plávatʹ	
+лета́ть	letátʹ	
+ходи́ть	xodítʹ	
+приходи́ть	prixodítʹ	
+лежа́ть	ležátʹ	
+сиде́ть	sidétʹ	
+стоя́ть	stojátʹ	
+враща́ть	vraščátʹ	
+па́дать	pádatʹ	
+дава́ть	davátʹ	
+держа́ть	deržátʹ	
+сжима́ть	sžimátʹ	
+тере́ть	terétʹ	
+мыть	mytʹ	mɨtʲ
+вытира́ть	vytirátʹ	
+тяну́ть	tjanútʹ	
+толка́ть	tolkátʹ	
+броса́ть	brosátʹ	
+вяза́ть	vjazátʹ	
+шить	šitʹ	ʂɨtʲ
+счита́ть	sčitátʹ	
+говори́ть	govorítʹ	
+петь	petʹ	pʲetʲ
+игра́ть	igrátʹ	
+пла́вать	plávatʹ	
+течь	tečʹ	tʲet͡ɕ
+замерза́ть	zamerzátʹ	
+пу́хнуть	púxnutʹ	
+со́лнце	sólnce	
+луна́	luná	
+звезда́	zvezdá	
+вода́	vodá	
+дождь	doždʹ	doʂtʲ
+река́	reká	
+о́зеро	ózero	
+мо́ре	móre	
+соль	solʹ	solʲ
+ка́мень	kámenʹ	
+песо́к	pesók	
+пыль	pylʹ	pɨlʲ
+земля́	zemljá	
+о́блако	óblako	
+тума́н	tumán	
+не́бо	nébo	
+ве́тер	véter	
+снег	sneg	sʲnʲek
+лёд	ljod	lʲɵt
+дым	dym	dɨm
+ого́нь	ogónʹ	
+зола́	zolá	
+жечь	žečʹ	ʐɛt͡ɕ
+доро́га	doróga	
+гора́	gorá	
+кра́сный	krásnyj	
+зелёный	zeljónyj	zʲɪˈlʲɵnɨj
+жёлтый	žóltyj	ˈʐoɫtɨj
+бе́лый	bélyj	
+чёрный	čórnyj	ˈt͡ɕɵrnɨj
+ночь	nočʹ	not͡ɕ
+день	denʹ	dʲenʲ
+год	god	ɡot
+тёплый	tjóplyj	ˈtʲɵpɫɨj
+холо́дный	xolódnyj	
+по́лный	pólnyj	
+но́вый	nóvyj	
+ста́рый	stáryj	
+хоро́ший	xoróšij	
+плохо́й	ploxój	
+гнило́й	gnilój	
+гря́зный	grjáznyj	
+прямо́й	prjamój	
+кру́глый	krúglyj	
+о́стрый	óstryj	
+тупо́й	tupój	
+гла́дкий	gládkij	
+мо́крый	mókryj	
+сухо́й	suxój	
+пра́вильный	právilʹnyj	
+бли́зкий	blízkij	
+далёкий	daljókij	dɐˈlʲɵkʲɪj
+пра́вый	právyj	
+ле́вый	lévyj	
+при	pri	prʲɪ
+в	v	
+с	s	
+и	i	i
+е́сли	jésli	
+потому́	potomú što	
+и́мя	ímja	

@@ -1,0 +1,207 @@
+yo	yo	
+tu	tu	
+él	él	
+nosotros	nosotros	
+vosotros	vosotros	
+ellos	ellos	
+esti	esti	
+ese	ese	
+equí	equí	eˈki
+ende	ende	
+quién	quién	
+qué	qué	
+ónde	ónde	
+cuándo	cuándo	
+cómo	cómo	
+non	non	
+tou	tou	
+enforma	enforma	
+dalgún	dalgún	
+pocu	pocu	
+otru	otru	
+unu	unu	ˈunu
+dos	dos	
+trés	trés	
+cuatro	cuatro	
+cinco	cinco	
+grande	grande	
+llargu	llargu	ˈʎaɾɡu
+anchu	anchu	
+gruesu	gruesu	
+pesáu	pesáu	
+pequeñu	pequeñu	peˈkeɲu
+curtiu	curtiu	
+estrechu	estrechu	
+delgáu	delgáu	
+muyer	muyer	muˈʝeɾ
+varón	varón	
+home	home	
+neñu	neñu	
+esposa	esposa	
+maríu	maríu	
+madre	madre	
+padre	padre	
+animal	animal	
+pez	pez	
+páxaru	páxaru	
+perru	perru	
+pioyu	pioyu	
+culiebra	culiebra	
+vierme	vierme	
+árbol	árbol	
+monte	monte	ˈmonte
+palu	palu	
+fruta	fruta	
+grana	grana	
+fueya	fueya	
+raigañu	raigañu	raiˈɡaɲu
+corteza	corteza	
+flor	flor	
+yerba	yerba	
+cuerda	cuerda	
+piel	piel	
+carne	carne	ˈkaɾne
+sangre	sangre	
+güesu	güesu	
+grasa	grasa	
+güevu	güevu	ˈɡwebu
+cuernu	cuernu	
+cola	cola	ˈkola
+pluma	pluma	
+pelo	pelo	
+cabeza	cabeza	kaˈbeθa
+oreya	oreya	oˈɾeʝa
+güeyu	güeyu	ˈɡweʝu
+ñariz	ñariz	
+boca	boca	
+diente	diente	ˈdjente
+llingua	llingua	ˈʎinɡwa
+uña	uña	
+pie	pie	
+pierna	pierna	
+rodía	rodía	
+mano	mano	ˈmano
+nala	nala	
+barriga	barriga	
+tripa	tripa	ˈtɾipa
+pescuezu	pescuezu	pesˈkweθu
+llombu	llombu	
+pechu	pechu	
+corazón	corazón	koɾaˈθon
+fégadu	fégadu	
+beber	beber	
+comer	comer	koˈmeɾ
+morder	morder	
+zucar	zucar	
+cuspir	cuspir	
+devolver	devolver	
+soplar	soplar	
+alendar	alendar	
+rir	rir	
+ver	ver	
+oyer	oyer	
+saber	saber	saˈbeɾ
+pensar	pensar	
+goler	goler	
+tarrecer	tarrecer	
+dormir	dormir	doɾˈmiɾ
+vivir	vivir	
+morrer	morrer	
+matar	matar	
+engarrar	engarrar	
+cazar	cazar	
+cutir	cutir	
+cortar	cortar	
+partir	partir	
+apuñalar	apuñalar	apuɲaˈlaɾ
+gatuñar	gatuñar	
+cavar	cavar	
+nadar	nadar	naˈdaɾ
+volar	volar	
+caminar	caminar	
+venir	venir	
+echase	echase	
+sentase	sentase	
+llevantase	llevantase	
+xirar	xirar	
+cayer	cayer	kaˈʝeɾ
+dar	dar	
+tener	tener	
+apertar	apertar	
+estregar	estregar	
+llavar	llavar	
+llimpiar	llimpiar	
+tirar	tirar	
+emburiar	emburiar	
+refundiar	refundiar	
+arreyar	arreyar	
+coser	coser	
+cuntar	cuntar	kunˈtaɾ
+dicir	dicir	
+cantar	cantar	
+xugar	xugar	ʃuˈɡaɾ
+llexar	llexar	
+fluyir	fluyir	
+xelar	xelar	
+encher	encher	
+sol	sol	
+lluna	lluna	ˈʎuna
+estrella	estrella	esˈtɾeʎa
+agua	agua	ˈaɡwa
+orbayu	orbayu	
+ríu	ríu	
+llagu	llagu	ˈʎaɡu
+mar	mar	ˈmaɾ
+sal	sal	
+piedra	piedra	
+sable	sable	ˈsable
+polvu	polvu	
+tierra	tierra	
+nube	nube	
+borrina	borrina	
+cielu	cielu	
+vientu	vientu	
+nieve	nieve	
+xelu	xelu	
+fumu	fumu	
+fueu	fueu	
+cenices	cenices	
+quemar	quemar	
+camín	camín	kaˈmin
+monte	monte	ˈmonte
+colloráu	colloráu	
+verde	verde	ˈbeɾde
+mariellu	mariellu	
+blancu	blancu	
+negru	negru	
+nueche	nueche	ˈnwet͡ʃe
+día	día	
+añu	añu	ˈaɲu
+caliente	caliente	kaˈljente
+fríu	fríu	
+llenu	llenu	ˈʎenu
+nuevu	nuevu	ˈnwebu
+vieyu	vieyu	
+bonu	bonu	
+malu	malu	
+podre	podre	
+puerco	puerco	
+reutu	reutu	
+redondu	redondu	
+agudu	agudu	
+romu	romu	
+llisu	llisu	
+moyáu	moyáu	
+secu	secu	
+correutu	correutu	
+barganal	barganal	
+llueñe	llueñe	
+derecha	derecha	
+esquierda	esquierda	
+en	en	
+en	en	
+con	con	
+y	y	
+si	si	
+porque	porque	ˈpoɾke
+nome	nome	

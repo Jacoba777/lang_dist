@@ -1,0 +1,207 @@
+ego	ego	ˈe.ɡoː
+tu	tu	tuː
+is	is	is
+nos	nos	noːs
+vos	vos	u̯oːs
+ei	ei	ei̯
+hic	hic	hik
+ille	ille	ˈil.le
+hic	hic	hik
+ibi	ibi	ˈi.bi
+quis	quis	kʷis
+quid	quid	kʷid
+ubi	ubi	ˈu.bi
+quando	quando	ˈkʷan.doː
+quam	quam	kʷam
+non	non	noːn
+omnis	omnis	ˈom.nis
+multi	multi	ˈmul.tiː
+aliqui	aliqui	ˈa.li.kʷiː
+pauci	pauci	ˈpau̯.kiː
+alter	alter	ˈal.ter
+unus	unus	ˈuː.nus
+duo	duo	ˈdu.o
+tres	tres	treːs
+quattuor	quattuor	ˈkʷat.tu.or
+quinque	quinque	ˈkʷiːn.kʷe
+magnus	magnus	ˈmaɡ.nus
+longus	longus	ˈlon.ɡus
+latus	latus	ˈlaː.tus
+creber	creber	ˈkreː.ber
+gravis	gravis	ˈɡra.u̯is
+parvus	parvus	ˈpar.u̯us
+brevis	brevis	ˈbre.u̯is
+angustus	angustus	anˈɡus.tus
+macer	macer	ˈma.ker
+femina	femina	ˈfeː.mi.na
+vir	vir	u̯ir
+homo	homo	ˈho.moː
+puer	puer	ˈpu.er
+uxor	uxor	ˈuk.sor
+maritus	maritus	maˈriː.tus
+mater	mater	ˈmaː.ter
+pater	pater	ˈpa.ter
+animal	animal	ˈa.ni.mal
+piscis	piscis	ˈpis.kis
+avis	avis	ˈa.u̯is
+canis	canis	ˈka.nis
+pediculus	pediculus	peˈdi.ku.lus
+serpens	serpens	ˈser.pens
+vermis	vermis	ˈu̯er.mis
+arbor	arbor	ˈar.bor
+silva	silva	ˈsil.u̯a
+fustis	fustis	ˈfuːs.tis
+fructus	fructus	ˈfruːk.tus
+semen	semen	ˈseː.men
+folium	folium	ˈfo.li.um
+radix	radix	ˈraː.diːks
+cortex	cortex	ˈkor.teks
+flos	flos	floːs
+herba	herba	ˈher.ba
+funis	funis	ˈfuː.nis
+cutis	cutis	ˈku.tis
+caro	caro	ˈka.roː
+sanguis	sanguis	ˈsan.ɡʷiːs
+os	os	oːs
+pingue	pingue	
+ovum	ovum	ˈoː.u̯um
+cornu	cornu	ˈkor.nuː
+cauda	cauda	ˈkau̯.da
+penna	penna	ˈpen.na
+capillus	capillus	kaˈpil.lus
+caput	caput	ˈka.put
+auris	auris	ˈau̯.ris
+oculus	oculus	ˈo.ku.lus
+nasus	nasus	ˈnaː.sus
+os	os	oːs
+dens	dens	dens
+lingua	lingua	ˈlin.ɡʷa
+unguis	unguis	ˈun.ɡʷis
+pes	pes	peːs
+crus	crus	kruːs
+genu	genu	ˈɡe.nuː
+manus	manus	ˈma.nus
+ala	ala	ˈaː.la
+venter	venter	ˈu̯en.ter
+viscera	viscera	ˈu̯iːs.ke.ra
+collum	collum	ˈkol.lum
+tergum	tergum	ˈter.ɡum
+pectus	pectus	ˈpek.tus
+cor	cor	kor
+iecur	iecur	ˈi̯e.kur
+bibere	bibere	
+esse	esse	ˈes.se
+mordere	mordere	morˈdeː.re
+sugere	sugere	
+conspuere	conspuere	
+vomere	vomere	ˈu̯o.me.re
+flare	flare	
+spirare	spirare	
+ridere	ridere	
+videre	videre	u̯iˈdeː.re
+audire	audire	au̯ˈdiː.re
+scire	scire	ˈskiː.re
+putare	putare	
+olere	olere	
+timere	timere	
+dormire	dormire	dorˈmiː.re
+vivere	vivere	
+mori	mori	
+necare	necare	neˈkaː.re
+pugnare	pugnare	
+venari	venari	
+pulsare	pulsare	
+secare	secare	
+scindere	scindere	
+perforare	perforare	per.foˈraː.re
+scabere	scabere	
+fodere	fodere	
+natare	natare	
+volare	volare	
+gradi	gradi	
+venire	venire	u̯eˈniː.re
+iacere	iacere	ˈi̯a.ke.re
+sedere	sedere	
+stare	stare	
+vertere	vertere	u̯erˈteː.re
+cadere	cadere	
+dare	dare	ˈda.re
+tenere	tenere	
+comprimere	comprimere	
+fricare	fricare	
+lavare	lavare	
+tergere	tergere	
+trahere	trahere	
+pellere	pellere	
+iactare	iactare	
+stringere	stringere	
+serere	serere	
+numerare	numerare	nu.meˈraː.re
+dicere	dicere	ˈdiː.ke.re
+canere	canere	ˈka.ne.re
+ludere	ludere	
+fluctuare	fluctuare	
+fluere	fluere	
+gelare	gelare	
+tumere	tumere	
+sol	sol	soːl
+luna	luna	ˈluː.na
+stella	stella	ˈsteːl.la
+aqua	aqua	ˈa.kʷa
+pluvia	pluvia	ˈplu.u̯i.a
+fluvius	fluvius	ˈflu.u̯i.us
+lacus	lacus	ˈla.kus
+mare	mare	ˈma.re
+sal	sal	saːl
+lapis	lapis	ˈla.pis
+arena	arena	aˈreː.na
+pulvis	pulvis	ˈpul.u̯is
+terra	terra	ˈter.ra
+nimbus	nimbus	ˈnim.bus
+caligo	caligo	kaːˈliː.ɡoː
+caelum	caelum	ˈkae̯.lum
+ventus	ventus	ˈu̯en.tus
+nix	nix	niks
+glacies	glacies	ˈɡla.ki.eːs
+fumus	fumus	ˈfuː.mus
+ignis	ignis	ˈiɡ.nis
+cineres	cineres	
+ardere	ardere	
+via	via	ˈu̯i.a
+mons	mons	mons
+ruber	ruber	ˈru.ber
+viridis	viridis	ˈu̯i.ri.dis
+flavus	flavus	ˈflaː.u̯us
+albus	albus	ˈal.bus
+niger	niger	ˈni.ɡer
+nox	nox	noks
+dies	dies	ˈdi.eːs
+annus	annus	ˈan.nus
+calidus	calidus	ˈka.li.dus
+frigidus	frigidus	ˈfriː.ɡi.dus
+plenus	plenus	ˈpleː.nus
+novus	novus	ˈno.u̯us
+vetus	vetus	ˈu̯e.tus
+bonus	bonus	ˈbo.nus
+malus	malus	ˈma.lus
+puter	puter	ˈpu.ter
+sordidus	sordidus	ˈsor.di.dus
+rectus	rectus	ˈreːk.tus
+rotundus	rotundus	roˈtun.dus
+acer	acer	ˈaː.ker
+hebes	hebes	ˈhe.bes
+levis	levis	ˈle.u̯is
+umidus	umidus	ˈuː.mi.dus
+siccus	siccus	ˈsik.kus
+rectus	rectus	ˈreːk.tus
+propinquus	propinquus	proˈpin.kʷus
+longinquus	longinquus	lonˈɡin.kʷus
+dexter	dexter	ˈdek.ster
+sinister	sinister	siˈnis.ter
+ad	ad	ad
+in	in	in
+cum	cum	kum
+et	et	et
+si	si	siː
+quia	quia	ˈkʷi.a
+nomen	nomen	ˈnoː.men

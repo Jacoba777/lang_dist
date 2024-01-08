@@ -62,9 +62,11 @@ def get_lang_dist_pairs():
 
     dist_scores = DifferenceScores()
 
-    for dist in lang_dists:
-        print(f"{dist[1]}: {dist[0][0]*100:.1f}% (std:{dist[0][1]:.4f})")
-        dist_scores.set_score(dist[1][0].name, dist[1][1].name, dist[0])
+    for (x, margin_of_error), langs in lang_dists:
+        moe_min = max(x-margin_of_error, 0)
+        moe_max = min(x+margin_of_error, 1)
+        print(f"{langs}: {x*100:.1f}% ({moe_min*100:.1f}% - {moe_max*100:.1f}%)")
+        dist_scores.set_score(langs[0].name, langs[1].name, x)
     dist_scores.save_as("lang_dist_scores.pickle")
 
 

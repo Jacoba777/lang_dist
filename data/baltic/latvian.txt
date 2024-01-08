@@ -1,0 +1,207 @@
+es	es	ɛs
+tu	tu	tu
+viņš	viņš	viɲʃ
+mēs	mēs	mɛ̄ːs
+jūs	jūs	jūːs
+viņi	viņi	
+šis	šis	ʃis
+tas	tas	tas
+šeit	šeit	ʃɛît
+tur	tur	tùɾ
+kurš	kurš	
+kas	kas	
+kur	kur	kùɾ
+kad	kad	
+kā	kā	kâː
+nē	nē	
+viss	viss	vis
+daudz	daudz	dāūdz
+daži	daži	
+nedaudzi	nedaudzi	
+cits	cits	tsits
+viens	viens	viɛ̯ns
+divi	divi	divi
+trīs	trīs	triːs
+četri	četri	tsætri
+pieci	pieci	piɛ̯tsi
+liels	liels	līɛ̄ls
+garš	garš	
+plats	plats	plats
+biezs	biezs	bìɛs
+smags	smags	smaks
+mazs	mazs	
+īss	īss	îːs
+šaurs	šaurs	ʃàuɾs
+plāns	plāns	plāːns
+sieviete	sieviete	
+vīrietis	vīrietis	vīːɾietis
+cilvēks	cilvēks	tsìlvæ̀ːks
+bērns	bērns	bæ̀ːɾns
+sieva	sieva	sīɛ̄va
+vīrs	vīrs	vīːɾs
+māte	māte	māːtɛ
+tēvs	tēvs	tǣːws
+dzīvnieks	dzīvnieks	dzîunìɛks
+zivs	zivs	ziws
+putns	putns	
+suns	suns	
+uts	uts	
+čūska	čūska	tʃūska
+tārps	tārps	
+koks	koks	kùoks
+mežs	mežs	mɛ̄ʃː
+žagars	žagars	
+auglis	auglis	âwɡlis
+sēkla	sēkla	
+lapa	lapa	
+sakne	sakne	
+miza	miza	
+zieds	zieds	
+zāle	zāle	zâːlɛ
+virve	virve	
+āda	āda	âːda
+gaļa	gaļa	ɡaʎa
+asinis	asinis	asinis
+kauls	kauls	
+tauki	tauki	
+ola	ola	wōla
+rags	rags	ɾaks
+aste	aste	astɛ
+spalva	spalva	spālva
+mati	mati	
+galva	galva	ɡɑ̂ɫva
+auss	auss	àws
+acs	acs	ats
+deguns	deguns	
+mute	mute	mutɛ
+zobs	zobs	zùops
+mēle	mēle	mɛ̀ːlɛ
+nags	nags	
+pēda	pēda	
+kāja	kāja	kāːja
+celis	celis	tsɛlis
+roka	roka	ɾùoka
+spārns	spārns	spàːɾns
+vēders	vēders	
+iekšas	iekšas	
+kakls	kakls	
+mugura	mugura	
+krūts	krūts	
+sirds	sirds	sîɾts
+aknas	aknas	aknas
+dzert	dzert	dzɛɾ̂t
+ēst	ēst	ɛ̂ːst
+kost	kost	kuôst
+sūkt	sūkt	sùːkt
+spļaut	spļaut	spʎāwt
+vemt	vemt	
+pūst	pūst	
+elpot	elpot	
+smieties	smieties	
+redzēt	redzēt	ɾɛdzɛ̂ːt
+dzirdēt	dzirdēt	dzìɾdɛ̂ːt
+zināt	zināt	zinâːt
+domāt	domāt	
+ost	ost	uôst
+baidīties	baidīties	
+gulēt	gulēt	ɡulɛ̂ːt
+dzīvot	dzīvot	dzîːvʷôt
+mirt	mirt	mīɾt
+galināt	galināt	
+cīnīties	cīnīties	
+medīt	medīt	
+sist	sist	
+griezt	griezt	ɡrīɛ̄st
+sadalīt	sadalīt	
+durt	durt	
+skrāpēt	skrāpēt	
+rakt	rakt	ɾakt
+peldēt	peldēt	pɛ̄ldɛ̂ːt
+lidot	lidot	liduôt
+iet	iet	iɛ̂t
+nākt	nākt	nāːkt
+gulties 	gulties 	
+sēsties 	sēsties 	
+stāties	stāties	
+apgriezties	apgriezties	
+krist	krist	
+dot	dot	duɔ̯t
+turēt	turēt	tuɾɛ̂ːt
+spiest	spiest	
+berzt	berzt	
+mazgāt	mazgāt	mazɡâːt
+slaucīt	slaucīt	slāwtsîːt
+vilkt	vilkt	
+stumt	stumt	stùmt
+mest	mest	mest
+siet	siet	
+šūt	šūt	ʃūːt
+skaitīt	skaitīt	skàjtîːt
+teikt	teikt	tɛ̀ikt
+dziedāt	dziedāt	dziɛ̂dâːt
+spēlēt	spēlēt	
+peldēt	peldēt	pɛ̄ldɛ̂ːt
+tecēt	tecēt	
+salt	salt	
+uztūkt	uztūkt	
+saule	saule	sāūle
+mēness	mēness	
+zvaigzne	zvaigzne	zvàjɡznɛ
+ūdens	ūdens	ûːdɛns
+lietus	lietus	liɛ̂tus
+upe	upe	
+ezers	ezers	æzæɾs
+jūra	jūra	jūːɾa
+sāls	sāls	sàːls
+akmens	akmens	
+smiltis	smiltis	
+putekļi	putekļi	
+zeme	zeme	zɛmɛ
+mākonis	mākonis	
+migla	migla	
+debess	debess	
+vējš	vējš	vɛ̄ːjʃ
+sniegs	sniegs	snìɛks
+ledus	ledus	lædus
+dūmi	dūmi	
+uguns	uguns	uɡuns
+pelni	pelni	
+degt	degt	dekt
+ceļš	ceļš	tsɛʎʃ
+kalns	kalns	kâlns
+sarkans	sarkans	sâɾkans
+zaļš	zaļš	zaʎʃ
+dzeltens	dzeltens	dzæ̀ltæns
+balts	balts	bālts
+melns	melns	mǣlns
+nakts	nakts	nakts
+diena	diena	
+gads	gads	
+silts	silts	sīlts
+auksts	auksts	āūksts
+pilns	pilns	pīlns
+jauns	jauns	jaûns
+vecs	vecs	væts
+labs	labs	
+slikts	slikts	
+sapuvis	sapuvis	
+netīrs	netīrs	nɛtīːɾs
+taisns	taisns	
+apaļš	apaļš	
+ass	ass	as
+truls	truls	
+gluds	gluds	
+mitrs	mitrs	mitɾs
+sauss	sauss	sàws
+pareizs	pareizs	paɾɛ̄īs
+tuvs	tuvs	tuws
+tāls	tāls	tâːls
+labais	labais	
+kreisā puse	kreisā puse	
+pie	pie	
+iekš	iekš	
+ar	ar	
+un	un	ùn
+ja	ja	
+tāpēc 	tāpēc 	
+vārds	vārds	vàːɾds

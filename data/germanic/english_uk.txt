@@ -70,9 +70,9 @@ tail	tail	teɪl
 feather	feather	ˈfɛðə
 hair	hair	hɛə
 head	head	hɛd
-ear	ear	ɪər
+ear	ear	ɪə̯
 eye	eye	aɪ
-nose	nose	nəʊz
+nose	nose	nəʊ̯z
 mouth	mouth	maʊθ
 tooth	tooth	tuːθ
 tongue	tongue	tʌŋ
@@ -152,7 +152,7 @@ rain	rain	ɹeɪn
 river	river	ˈɹɪvə
 lake	lake	leɪk
 sea	sea	siː
-salt	salt	sɔːlt
+salt	salt	sɒlt
 stone	stone	stəʊn
 sand	sand	sænd
 dust	dust	dʌst
@@ -164,9 +164,9 @@ wind	wind	wɪnd
 snow	snow	snəʊ
 ice	ice	aɪs
 smoke	smoke	sməʊk
-fire	fire	ˈfaɪəɹ
+fire	fire	ˈfaɪ.ə
 ash	ash	æʃ
-to burn	to burn	bɜːn
+burn	burn	bɜːn
 road	road	ɹəʊd
 mountain	mountain	ˈmaʊntɪn
 red	red	rɛd
@@ -184,7 +184,7 @@ new	new	njuː
 old	old	əʊld
 good	good	gʊd
 bad	bad	bæd
-rotten	rotten	ˈɹɒtən
+rotten	rotten	ˈɹɒtn̩
 dirty	dirty	ˈdɜːti
 straight	straight	stɹeɪt
 round	round	ɹaʊnd

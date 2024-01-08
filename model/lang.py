@@ -6,9 +6,10 @@ from config import ROOT
 
 
 class Language:
-    def __init__(self, name: str, family: str | None, native_speakers: int, l2_speakers: int):
+    def __init__(self, name: str, family: str | None, native_speakers: int = 0, l2_speakers: int = 0, extinct_year: int | None = None):
         self.name = name
         self.family = family
+        self.extinct_year = extinct_year
         self._create_dict_from_raw_data()
 
         self.native_speakers = native_speakers

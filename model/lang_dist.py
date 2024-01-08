@@ -1,9 +1,12 @@
+from math import sqrt
 from statistics import stdev, mean
 from typing import Dict, List, Tuple
 
 from data.swadesh import SWADESH_WORDS
 from model.lang import Language
 from model.word import word_distance
+
+Z_SCORE_95_CI = 1.96
 
 
 class LanguageDistances:
@@ -38,9 +41,16 @@ def calculate_word_dists(lang1: Language, lang2: Language) -> List[Tuple[str, st
 
 
 def calculate_lang_dist(lang1: Language, lang2: Language):
-    dists = calculate_word_dists(lang1, lang2)
-    if len(dists) == 0:
-        return 1.0, 1.0
-    dists = [d[2] for d in dists]
+    try:
+        dists = calculate_word_dists(lang1, lang2)
+    except Exception as ex:
+        raise Exception(f'Failed to compare {lang1} to {lang2}:', ex)
 
-    return mean(dists), stdev(dists)
+    if len(dists) == 0:
+        return 0.5, 0.5
+
+    dists = [d[2] for d in dists]
+    x = mean(dists)
+    margin_of_error = Z_SCORE_95_CI * sqrt((x * (1 - x))/len(dists))
+
+    return x, margin_of_error

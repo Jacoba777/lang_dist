@@ -1,0 +1,207 @@
+aš	aš	ɐʃ
+tu	tu	tʊ
+jis	jis	jɪs
+mes	mes	mʲæːs
+jūs	jūs	juːs
+jie	jie	jæ
+šis	šis	ɕìs
+tas	tas	
+čia	čia	ˈt͡ɕɛ
+ten	ten	
+kas	kas	
+kas	kas	
+kur	kur	kʊr
+kada	kada	kɐˈdɐ
+kaip	kaip	ˈkɐɪˑp
+ne	ne	nɛ
+viskas	viskas	ˈʋʲɪskɐs
+daug	daug	dɐuɡ
+kažkiek	kažkiek	
+keletas	keletas	
+kitas	kitas	ˈkʲɪ.t̪ɐs̪
+vienas	vienas	ˈvîə̯.n̪ɐs̪
+du	du	d̪ʊ
+trys	trys	tʲrʲiːs
+keturi	keturi	kʲɛt̪ʊˈrʲɪ
+penki	penki	pʲɛŋʲˈkʲɪ
+didelis	didelis	
+ilgas	ilgas	
+platus	platus	
+storas	storas	ˈs̪t̪ôːrɐs̪
+sunkus	sunkus	sʊŋˈkʊs
+mažas	mažas	ˈmaːʒɐs
+trumpas	trumpas	
+siauras	siauras	
+plonas	plonas	
+moteris	moteris	ˈmoːtʲɛrʲɪs
+vyras	vyras	ˈʋʲiːrɐs
+žmogus	žmogus	ʒmoˈɡʊs
+vaikas	vaikas	ˈvɐɪ̯ˑkɐs̪
+žmona	žmona	
+vyras	vyras	ˈʋʲiːrɐs
+motina	motina	
+tėvas	tėvas	ˈtʲeːvɐs
+gyvūnas	gyvūnas	ɡʲiːˈʋuːnɐs
+žuvis	žuvis	
+paukštis	paukštis	ˈpɒʊk.ʃtʲɪs
+šuo	šuo	ʃuə
+utėlė	utėlė	
+gyvatė	gyvatė	ɡʲiːˈʋaːtʲeː
+kirminas	kirminas	
+medis	medis	ˈmʲæːdʲɪs
+miškas	miškas	ˈmɪʂ.kɐs
+lazda	lazda	lɐzˈdɐ
+vaisius	vaisius	ˈvai̯sʲʊs
+sėkla	sėkla	ˈsʲeːklɐ
+lapas	lapas	
+šaknis	šaknis	ʃɐkʲˈn̪ʲɪs̪
+žievė	žievė	ʒʲɪəˈvʲěː
+gėlė	gėlė	ɡʲeːˈlʲeː
+žolė	žolė	ʒoˈlʲěː
+virvė	virvė	
+oda	oda	ˈôːd̪ɐ
+mėsa	mėsa	
+kraujas	kraujas	krɒ͜úˑjæs
+kaulas	kaulas	ˈkä̂ˑʊ̯ɫɐs̪
+riebalai	riebalai	rʲɪəbɐˈlɐɪ̯ˑ
+kiaušinis	kiaušinis	
+ragas	ragas	ˈrä̌ːɡɐs̪
+uodega	uodega	
+plunksna	plunksna	
+plaukai	plaukai	
+galva	galva	ɡɐɫ̪ˈvɐ
+ausis	ausis	ɐʊˈsʲɪs
+akis	akis	ɐˈkʲɪs
+nosis	nosis	
+burna	burna	bʊrˈnɐ
+dantis	dantis	
+liežuvis	liežuvis	
+nagas	nagas	ˈn̪ä̌ːɡɐs̪
+pėda	pėda	pʲeːˈdɐ
+koja	koja	
+kelis	kelis	ˈkʲæ̌ːlʲɪs
+ranka	ranka	ɾɐŋˈkɐ
+sparnas	sparnas	
+pilvas	pilvas	
+viduriai	viduriai	
+kaklas	kaklas	ˈkä̌ːklɐs̪
+nugara	nugara	ˈn̪ʊɡɐrɐ
+krūtis	krūtis	
+širdis	širdis	ɕɪrʲˈdʲɪs
+kepenys	kepenys	
+gerti	gerti	ˈɡʲɛrʲ.tʲɪ
+valgyti	valgyti	ˈvaːlʲɡʲiːtʲɪ
+kąsti	kąsti	
+čiulpti	čiulpti	ˈtʲʃʲʊlʲpʲtʲɪ
+spjauti	spjauti	
+vemti	vemti	
+pūsti	pūsti	ˈpǔːsʲtʲɪ
+kvėpuoti	kvėpuoti	
+juoktis	juoktis	
+matyti	matyti	mɐˈtʲîːtʲɪ
+girdėti	girdėti	
+žinoti	žinoti	ʒɪˈnoː.tʲɪ
+galvoti	galvoti	
+uosti	uosti	
+bijoti	bijoti	
+miegoti	miegoti	
+gyventi	gyventi	ɡʲiːˈʋʲɛ̂n̪ʲt̪ʲɪ
+mirti	mirti	ˈmʲɪrʲ.tʲɪ
+žudyti	žudyti	
+kovoti	kovoti	
+medžioti	medžioti	mʲɛˈdʲʒʲotʲɪ
+smogti	smogti	
+pjauti	pjauti	pʲjɑuˈtʲɪ
+skelti	skelti	
+durti	durti	
+drėksti	drėksti	
+kasti	kasti	
+plaukti	plaukti	ˈpɫɒʊ̯ˑkʲtʲɪ
+skristi	skristi	ˈsʲkʲɾʲɪsʲtʲɪ
+eiti	eiti	ˈɛɪ̯̌ːtʲɪ
+ateiti	ateiti	ɐˈtʲɛjːtʲɪ
+gulti 	gulti 	
+sėsti 	sėsti 	
+stoti 	stoti 	
+apsisukti	apsisukti	
+kristi	kristi	
+duoti	duoti	ˈduɔtʲɪ
+laikyti	laikyti	ɫaɪˈkʲiːtʲɪ
+spausti	spausti	
+trinti	trinti	
+plauti	plauti	
+šluoti	šluoti	
+traukti	traukti	ˈtɾaˑʊ̯kʲtʲɪ
+stumti	stumti	
+mesti	mesti	ˈmʲɛsʲtʲɪ
+rišti	rišti	ˈrʲɪʃʲtʲɪ
+siūti	siūti	ˈsʲuːtʲɪ
+skaičiuoti	skaičiuoti	
+sakyti	sakyti	sɐˈkʲiːtʲɪ
+dainuoti	dainuoti	dɐjˈnuɔtʲɪ
+žaisti	žaisti	ˈʒɐjsʲtʲɪ
+plūduriuoti	plūduriuoti	
+tekėti	tekėti	tʲɛˈkʲêːtʲɪ
+šalti	šalti	
+tinti	tinti	
+saulė	saulė	ˈsɑuleː
+mėnulis	mėnulis	mʲeːˈnʊlʲɪs
+žvaigždė	žvaigždė	ʒʋɐjɡʲʒʲˈdʲeː
+vanduo	vanduo	ʋɐnˈdʊɔ
+lietus	lietus	ljɛˈtʊs
+upė	upė	ˈʊpʲeː
+ežeras	ežeras	ˈæːʒʲɛɾɐs
+jūra	jūra	ˈjuːrɐ
+druska	druska	
+akmuo	akmuo	
+smėlis	smėlis	
+dulkės	dulkės	
+žemė	žemė	ˈʒʲæːmʲeː
+debesis	debesis	ˈdɛbɛsɪs
+rūkas	rūkas	ˈruːkɐs
+dangus	dangus	dɐŋˈɡʊs
+vėjas	vėjas	ˈʋʲeːjɛs
+sniegas	sniegas	sʲnʲjæɡɐs
+ledas	ledas	ˈlʲæːdɐs
+dūmai	dūmai	
+ugnis	ugnis	ʊɡˈnʲɪs
+pelenai	pelenai	
+degti	degti	ˈdʲɛk.tʲɪ
+kelias	kelias	ˈkʲæːlʲɐs
+kalnas	kalnas	kâl.nɐs
+raudonas	raudonas	rɐʊˈdoːnɐs
+žalias	žalias	
+geltonas	geltonas	
+baltas	baltas	ˈbaːltɐs
+juodas	juodas	ˈjûə.dɐs
+naktis	naktis	nɐkˈtɪs
+diena	diena	dʲiəˈnɐ
+metas	metas	
+šiltas	šiltas	ˈʃʲɪltɐs
+šaltas	šaltas	ˈʃaltɐs
+pilnas	pilnas	
+naujas	naujas	
+senas	senas	ˈsʲæːnɐs
+geras	geras	ˈɡʲæɾɐs
+blogas	blogas	ˈbloːɡɐs
+supuvęs	supuvęs	
+nešvarus	nešvarus	
+tiesiai	tiesiai	
+apskritas	apskritas	
+aštrus	aštrus	ɐʃt̪ˈrʊs̪
+bukas	bukas	ˈbʊkɐs̪
+glotnus	glotnus	
+šlapias	šlapias	
+sausas	sausas	
+teisingas	teisingas	
+arti	arti	ɐrˈtʲɪ
+tolus	tolus	
+dešinė	dešinė	dʲɛɕɪˈnʲěː
+kairė	kairė	kɐɪ̯ˑˈrʲeː
+į	į	iː
+į	į	iː
+su	su	sʊ
+ir	ir	
+jei	jei	jæj
+nes	nes	nʲɛs
+vardas	vardas	ˈvɐrːdɐs
