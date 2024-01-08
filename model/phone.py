@@ -161,7 +161,23 @@ def _read_phones_from_file():
     return [Phone(*pd.split('\t')) for pd in phones_raw]
 
 
+def _read_special_phones_from_file():
+    with open(f'{ROOT}/data/ipa/special_phones.txt', encoding='UTF-8') as f:
+        phones_raw = f.read().split('\n')[1:]
+    phones_tuple = [tuple(pd.split('\t')) for pd in phones_raw]
+    print(phones_tuple)
+    return {pt[0]: pt[1] for pt in phones_tuple}
+
+
+def _replace_special_symbols(s: str):
+    for c in s:
+        if c in SPECIAL_PHONES:
+            s = s.replace(c, SPECIAL_PHONES[c])
+    return s
+
+
 PHONES = _read_phones_from_file()
+SPECIAL_PHONES = _read_special_phones_from_file()
 VOWELS = [p for p in PHONES if p.is_vowel()]
 
 _f1s = [v.f1 for v in VOWELS if type(v.f1) == int]
@@ -240,6 +256,12 @@ def get_phone_distance(p1: Phone, p2: Phone):
         _apply_factor(2, _get_phone_place_distance(p1, p2))
 
     return dist / total
+
+
+def get_phones_by_symbols(ipa: str):
+    ipa = _replace_special_symbols(ipa)
+    phones = [get_phone_by_symbol(s) for s in ipa]
+    return [p for p in phones if p is not None]
 
 
 def get_phone_by_symbol(symbol: str):

@@ -15,7 +15,10 @@ class Word:
 
 
 def word_distance(w1: Word, w2: Word, debug=False):
-    return get_syllable_list_dist(w1.ipa_tokenized, w2.ipa_tokenized, debug=debug)
+    try:
+        return get_syllable_list_dist(w1.ipa_tokenized, w2.ipa_tokenized, debug=debug)
+    except Exception as ex:
+        raise Exception(f'Failed to compare {w1} to {w2}', ex)
 
 
 def main():

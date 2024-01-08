@@ -1,6 +1,6 @@
 from typing import List
 
-from model.phone import get_phone_by_symbol, Phone, get_phone_distance
+from model.phone import Phone, get_phones_by_symbols
 from model.state import get_phone_list_dist
 
 
@@ -41,8 +41,7 @@ def create_syllables_from_phones(phones: List[Phone]):
 def create_syllables_from_ipa_string(ipa: str):
     if not ipa:
         return None
-    phones = [get_phone_by_symbol(s) for s in ipa]
-    phones = [p for p in phones if p is not None]
+    phones = get_phones_by_symbols(ipa)
     return create_syllables_from_phones(phones)
 
 
