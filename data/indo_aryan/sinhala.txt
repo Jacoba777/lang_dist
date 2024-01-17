@@ -1,0 +1,207 @@
+මම	mama	
+ඔයා	oyā	
+එයා	eyā	
+අපි	api	
+ඔයාලා	oyālā	
+එයාලා	eyālā	
+මේ	mē	
+ඒ	ē	eː
+මෙහේ	mehē	
+එහේ	ehē	
+කවුරු	kawuru	
+මොනවා	monawā	
+කොහේ	kohē	
+කවදා	kawadā	
+කොහොම	kohoma	
+නැහැ	næhæ	
+හැම	hæma	
+ගොඩක්	goḍak	
+ඇතැම්	ætæm	
+ටිකක්	ṭikak	
+ඇතැම්	ætæm	
+එක	eka	
+දෙක	deka	
+තුන	tuna	
+හතර	hatara	
+පහ	paha	
+ලොකු	loku	
+දිග	diga	di.ɡa
+පුළුල්	puḷul	
+ගන	gana	
+බර	bara	ba.ra
+පුංචි	puṁci	
+කෙටි	keṭi	
+පටුයි	paṭuyi	
+සිහින්	sihin	
+ගෑනි	gǣni	
+පිරිමියා	pirimiyā	
+මිනිහා	minihā	
+ළමයා	ḷamayā	
+නෝනා	nōnā	
+මහත්තයා	mahattayā	
+මව	mawa	
+පිය	piya	
+සතා	satā	
+මාළුවා	māḷuwā	
+කුරුල්ලා	kurullā	
+බල්ලා	ballā	
+උකුණා	ukuṇā	
+උකුණා	ukuṇā	
+ක්‍රිමියාව	krimiyāwa	
+ගස	gasa	ɡa.sa
+වන	wana	
+කෝටුව	kōṭuwa	
+පලතුරු	palaturu	
+බීජ	bīja	
+කොළේ	koḷē	
+මුල	mula	
+පොතු	potu	
+මල්	mal	
+තණකොළ	taṇakoḷa	
+කඹය	kaᵐbaya	
+හම්	ham	
+මස්	mas	
+ලේ	lē	leː
+කටු	kaṭu	
+මේද	mēda	
+බිත්තරය	bittaraya	
+අඟ	aⁿga	
+වලිගය	waligaya	
+පිහාටු	pihāṭu	
+කෙස්	kes	
+ඔලුව	oluwa	
+කන	kana	
+ඇස	æsa	
+නහය	nahaya	
+කට	kaṭa	
+දත	data	da.ta
+දිව	diwa	
+නියපොතු	niyapotu	
+පය	paya	
+කකුල	kakula	
+දන	dana hisa	
+අත	ata	a.tə
+පියාපත්	piyāpat	
+බඩ	baḍa	
+පිට	piṭa	pi.ʈa
+බෙල්ල	bella	
+පස්ස	passa	
+තනේ	tanē	
+හදවත	hadawata	
+අක්මාව	akmāwa	
+බොනවා	bonawā	bo.nə.waː
+කනවා	kanawā	
+රිදවනවා	ridawanawā	
+උරනවා	uranawā	
+කෙළගහනවා	keḷagahanawā	
+වමනෙ	wamane yanawā	
+තප්පුලනවා	tappulanawā	
+හමනවා	hamanawā	
+හිනාවෙනවා	hināwenawā	
+දකිනවා	dakinawā	
+ඇහෙනවා	æhenawā	
+දන්නවා	dannawā	
+හිතනවා	hitanawā	
+නිදනවා	nidanawā	ni.ⁿda.na.waː
+තැතිගන්නවා	tætigannawā	
+නිදා	nidā gannawā	
+ජීවත්	jīwat wenawā	
+මැරෙනවා	mærenawā	
+මරනවා	maranawā	
+සටන්	saṭan karanna	
+දඩයම්	daḍayam karanawā	
+ගහනවා	gahanawā	ɡa.ha.na.ʋaː
+කපනවා	kapanawā	ka.pa.na.waː
+බෙදා	bedā gannawā	
+පිහියකින්	pihiyakin aninawā	
+සූරනවා	sūranawā	
+කණිනවා	kaṇinawā	
+පිහිනනවා	pihinanawā	
+ඉගිලෙනවා	igilenawā	
+ඇවිදිනවා	æwidinawā	
+එනවා	enawā	
+වැතිරෙනවා	wætirenawā	
+ඉඳගන්නවා	iⁿdagannawā	
+සිටිනවා	siṭinawā	
+කැරකැවෙනවා	kærakæwenawā	
+වැටෙනවා	wæṭenawā	
+දෙනවා	denawā	de.na.ʋaː
+අල්ලනවා	allanawā	
+මිරිකනවා	mirikanawā	
+අතුල්ලනවා	atullanawā	
+සෝදනවා	sōdanawā	
+පිසනවා	pisanawā	
+අදිනවා	adinawā	
+තල්ලු	tallu karanawā	
+වීසි	wīsi karanawā	
+ගැට	gæṭa gasanawā	
+මහනවා	mahanawā	
+ගණිනවා	gaṇinawā	ɡa.ni.na.ʋaː
+කියනවා	kiyanawā	
+ගයනවා	gayanawā	
+සෙල්ලම්	sellam karanawā	
+පාවෙනවා	pāwenawā	
+ගලනවා	galanawā	
+කැටි	kæṭi karanawā	
+ඉදිමෙනවා	idimenawā	
+ඉරු	iru	
+හඳ	haⁿda	
+තරු	taru	
+වතුර	watura	
+වැස්ස	wæssa	
+ගඟ	gaⁿga	
+විල	wila	
+මුහුදු	muhudu	
+ලුණු	luṇu	
+ගල	gala	
+වැලි	wæli	
+පස	pasa	
+බිම	bima	
+වැලි	wæli	
+මීදුම	mīduma	
+අහස	ahasa	
+සුළඟ	suḷaⁿga	
+හිම	hima	
+හිමකැට	himakæṭa	
+දුම	duma	
+ගිනි	gini	
+මාර්ග	mārga	
+පුච්චනවා	puccanawā	
+පාර	pāra	
+කන්ද	kanda	
+රතු	ratu	
+කොළ	koḷa	
+කහ	kaha	
+සුදු	sudu	
+කළු	kaḷu	
+රෑ	rǣ	
+දවස	dawasa	
+අවුරුද්ද	awurudda	
+උණුසුම්	uṇusum	
+සිසිල්	sisil	
+පුර	pura	
+අලුත්	alut	
+පරණ	paraṇa	
+හොඳ	hoⁿda	
+නරක	naraka	
+පූති	pūti	
+අපිරිසිදු	apirisidu	
+කෙළින්	keḷin	
+වටය	waṭaya	
+තියුණු	tiyuṇu	
+මොට	moṭa	
+සිනිඳු	siniⁿdu	
+තෙත්	tet	
+වියළි	wiyaḷi	
+නිවැරදි	niwæradi	
+අසල	asala	
+දුර	dura	
+දකුණු	dakuṇu	dakunu
+වම	wama	
+locative	locative case	
+තුළ	tuḷa	
+සමග	samaga	
+හා	hā	
+නම්	nam	
+නිසා	nisā	
+නම	nama	

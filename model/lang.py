@@ -42,6 +42,10 @@ class Language:
     def get_word(self, word: str):
         return self._dict.get(word, None)
 
+    def get_embarrassment_level(self):
+        num_ipa_words = len([word.ipa for word in self.get_all_words() if word.ipa_tokenized is not None])
+        return ((207 - num_ipa_words) * self.total_speakers) / 1000000
+
     def __repr__(self):
         return self.name
 

@@ -25,3 +25,4 @@ symbol	replacement
 é	e
 ó	o
 ỹ	y
+ë	e

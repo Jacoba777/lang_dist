@@ -1,5 +1,4 @@
 from math import inf
-from typing import List
 
 from data.all_languages import *
 from model.difference_scores import DifferenceScores
@@ -55,8 +54,8 @@ def get_closest_langs(lang_name: str):
 
 
 def get_lang_dist_pairs():
-    # langs = SLAVIC
-    langs = get_all_langs()
+    langs = [*INDO_ARYAN, *BALTIC, *IRANIAN]
+    # langs = get_all_langs()
     print(langs)
     lang_dists = LanguageDistances(langs).get_all_dists()
     lang_dists.sort()

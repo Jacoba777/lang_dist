@@ -2,7 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 
 BASE_URL = 'https://en.wiktionary.org/wiki'
-LANG = 'Ukrainian'
+LANG = 'Avestan'
 WORD = '我'
 
 

@@ -7,6 +7,8 @@ ARMENIAN = Language('armenian', FAMILY, 5300000, 0)
 GREEK = Language('greek', FAMILY, 13500000, 0)
 GREEK_ANCIENT = Language('greek_ancient', FAMILY, extinct_year=-300)
 GREEK_MARIUPOL = Language('greek_mariupol', FAMILY, 20000, 0)
+HITTITE = Language('hittite', FAMILY, extinct_year=-1200)
+LUWIAN = Language('luwian', FAMILY, extinct_year=-600)
 TOCHARIAN_A = Language('tocharian_a', FAMILY, extinct_year=800)
 TOCHARIAN_B = Language('tocharian_b', FAMILY, extinct_year=800)
 
