@@ -1,0 +1,207 @@
+ja	ja	ja
+ty	ty	ti
+on	on	ɔn
+my	my	mi
+vy	vy	vi
+oni	oni	ˈɔɲi
+tento	tento	ˈcentɔ
+ten	ten	tɛn
+tu	tu	
+tam	tam	ˈtam
+kto	kto	kto̞
+čo	čo	ˈt͡ʃɔ
+kde	kde	ˈɡɟɛ
+kedy	kedy	ˈkedi
+ako	ako	ˈakɔ
+nie	nie	
+všetko	všetko	
+veľa	veľa	ˈveʎa
+niekoľko	niekoľko	ˈɲi̯ɛkɔʎkɔ
+málo	málo	ˈmaːlɔ
+iný	iný	ˈiniː
+jeden	jeden	ˈjeɟen
+dva	dva	dva
+tri	tri	tri
+štyri	štyri	ˈʃtiri
+päť	päť	pɛɐ̯c
+veľký	veľký	ˈveʎkiː
+dlhý	dlhý	ˈdl̩ɦiː
+široký	široký	ˈʃirɔkiː
+hrubý	hrubý	ˈɦrubiː
+ťažký	ťažký	ˈcaʃ.kiː
+malý	malý	ˈmaliː
+krátky	krátky	ˈkraːtki
+úzky	úzky	ˈuːzki
+tenký	tenký	ˈcɛŋkiː
+žena	žena	ˈʒena
+muž	muž	muʃ
+človek	človek	ˈt͡ʃlɔvek
+dieťa	dieťa	ˈɟi̯eca
+manželka	manželka	ˈmanʒelka
+manžel	manžel	ˈmanʒel
+matka	matka	ˈmatka
+otec	otec	ˈɔcet͡s
+zviera	zviera	ˈzvi̯ɛra
+ryba	ryba	ˈriba
+vták	vták	ˈftaːk
+pes	pes	ˈpɛs
+voš	voš	vɔʃ
+had	had	ɦat
+červ	červ	ˈt͡ʃɛrw
+strom	strom	strɔm
+les	les	ˈlɛs
+palica	palica	
+ovocie	ovocie	ˈɔvɔt͡si̯ɛ
+semeno	semeno	ˈsemenɔ
+list	list	ˈlist
+koreň	koreň	ˈkɔreɲ
+kôra	kôra	ˈku̯ora
+kvet	kvet	ˈkvɛt
+tráva	tráva	ˈtraːva
+lano	lano	ˈɫanɔ
+koža	koža	ˈkɔʒa
+mäso	mäso	ˈmɛɐ̯sɔ
+krv	krv	kr̩f
+kosť	kosť	kɔsc
+tuk	tuk	tuk
+vajce	vajce	ˈvajt͡sɛ
+roh	roh	ˈrɔx
+chvost	chvost	xvɔst
+pero	pero	ˈperɔ
+vlasy	vlasy	
+hlava	hlava	ˈɦlava
+ucho	ucho	ˈu.xɔ
+oko	oko	ˈɔkɔ
+nos	nos	nɔs
+ústa	ústa	ˈuːsta
+zub	zub	zup
+jazyk	jazyk	ˈjazik
+necht	necht	ˈɲɛxt
+noha	noha	ˈnɔɦa
+noha	noha	ˈnɔɦa
+koleno	koleno	ˈkɔlenɔ
+ruka	ruka	ˈruka
+krídlo	krídlo	ˈkriːdɫɔ
+brucho	brucho	ˈbruxɔ
+vnútornosti	vnútornosti	ˈvnuːtɔrnɔsc
+krk	krk	kr̩k
+chrbát	chrbát	ˈxr̩baːt
+prsia	prsia	ˈpr̩si̯a
+srdce	srdce	ˈsr̩tt͡se
+pečeň	pečeň	ˈpɛtʃɛɲ
+piť	piť	pic
+jesť	jesť	jesc
+hrýzť	hrýzť	ˈɦriːsc
+sať	sať	sac
+pľuť	pľuť	pʎuc
+vracať	vracať	ˈvrat͡sac
+fúkať	fúkať	ˈfuːkac
+dýchať	dýchať	ˈdiːxac
+smiať	smiať	ˈsmi̯ac
+vidieť	vidieť	ˈviɟi̯ec
+počuť	počuť	ˈpɔt͡ʃuc
+vedieť	vedieť	ˈveɟi̯ec
+myslieť	myslieť	ˈmisʎi̯ec
+čuchať	čuchať	ˈt͡ʃuxac
+báť	báť	baːc
+spať	spať	ˈspac
+žiť	žiť	ʒic
+umrieť	umrieť	ˈumri̯ec
+zabiť	zabiť	ˈzabic
+bojovať	bojovať	ˈbɔjɔvac
+loviť	loviť	ˈɫɔvic
+udrieť	udrieť	ˈudri̯ec
+rezať	rezať	ˈrezac
+rozdeliť	rozdeliť	ˈrɔzɟɛlic
+bodnúť	bodnúť	ˈbɔdnuːc
+škriabať	škriabať	ˈʃkri̯abac
+kopať	kopať	ˈkɔpac
+plávať	plávať	ˈplaːvac
+letieť	letieť	ˈlɛci̯ɛc
+ísť	ísť	iːsc
+prísť	prísť	ˈpriːsc
+ležať	ležať	
+sedieť	sedieť	ˈseɟi̯ec
+stáť	stáť	staːc
+obrátiť	obrátiť	
+padať	padať	
+dať	dať	dac
+držať	držať	ˈdr̩ʒac
+stlačiť	stlačiť	
+trieť	trieť	tri̯ec
+umyť	umyť	
+utrieť	utrieť	
+ťahať	ťahať	
+tlačiť	tlačiť	ˈtlat͡ʃic
+hodiť	hodiť	
+viazať	viazať	
+šiť	šiť	
+počítať	počítať	ˈpɔt͡ʃiːtac
+povedať	povedať	ˈpɔvedac
+spievať	spievať	ˈspi̯evac
+hrať	hrať	ɦrac
+plávať	plávať	ˈplaːvac
+tiecť	tiecť	ci̯et͡sc
+mrznúť	mrznúť	
+puchnúť	puchnúť	
+slnko	slnko	ˈsɫ̩ŋkɔ
+mesiac	mesiac	ˈmɛsi̯at͡s
+hviezda	hviezda	ˈɦvi̯ezda
+voda	voda	ˈvɔda
+dážď	dážď	daːʃc
+rieka	rieka	ˈri̯eka
+jazero	jazero	ˈjazɛrɔ
+more	more	ˈmɔre
+soľ	soľ	sɔʎ
+kameň	kameň	ˈkameɲ
+piesok	piesok	ˈpi̯ɛsɔk
+prach	prach	
+zem	zem	zem
+oblak	oblak	ˈɔblak
+hmla	hmla	ɦmla
+obloha	obloha	ˈɔblɔɦa
+vietor	vietor	ˈvi̯ɛtɔr
+sneh	sneh	sɲex
+ľad	ľad	ʎat
+dym	dym	ˈdim
+oheň	oheň	ˈɔɦeɲ
+popol	popol	ˈpɔpɔɫ
+horieť	horieť	ˈɦɔri̯ec
+cesta	cesta	ˈt͡sesta
+hora	hora	ˈɦɔra
+červený	červený	ˈt͡ʃerveniː
+zelený	zelený	ˈze̞.ɫe̞.niː
+žltý	žltý	ˈʒɫ̩tiː
+biely	biely	ˈbi̯eli
+čierny	čierny	ˈt͡ʃi̯er.ni
+noc	noc	nɔt͡s
+deň	deň	ɟeɲ
+rok	rok	rɔk
+teplý	teplý	ˈcɛpliː
+studený	studený	
+plný	plný	plniː
+nový	nový	ˈnɔviː
+starý	starý	ˈstariː
+dobrý	dobrý	ˈdɔbriː
+zlý	zlý	zliː
+zhnitý	zhnitý	
+špinavý	špinavý	
+priamy	priamy	
+okrúhly	okrúhly	
+ostrý	ostrý	
+tupý	tupý	ˈtupiː
+hladký	hladký	ˈɦladkiː
+mokrý	mokrý	ˈmɔkriː
+suchý	suchý	ˈsuxiː
+správny	správny	
+blízky	blízky	
+ďaleký	ďaleký	
+pravý	pravý	ˈpraviː
+ľavý	ľavý	ˈʎaviː
+na	na	ˈna
+vo	vo	
+soľ	soľ	sɔʎ
+a	a	
+ak	ak	ak
+pretože	pretože	ˈprɛtɔʒɛ
+meno	meno	ˈmenɔ

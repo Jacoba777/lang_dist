@@ -1,0 +1,207 @@
+азъ	azŭ	
+тꙑ	ty	
+онъ	onŭ	
+мꙑ	my	
+вꙑ	vy	
+они	oni	
+овъ	ovŭ	
+тъ	tŭ	
+сьдє	sĭde	
+тоу	tu	
+къто	kŭto	
+чьто	čĭto	
+къдє	kŭde	
+къгда	kŭgda	
+како	kako	
+нє	ne	
+вьсь	vĭsĭ	
+мъногъ	mŭnogŭ	
+нѣколико	několiko	
+малꙑ	maly	
+инъ	inŭ	
+ѥдинъ	jedinŭ	
+дъва	dŭva	
+триѥ	trije	
+чєтꙑрє	četyre	
+пѧть	pętĭ	
+вєликъ	velikŭ	
+дльгъ	dlĭgŭ	
+широкъ	širokŭ	
+дєбєлъ	debelŭ	
+тѧжькъ	tęžĭkŭ	
+малъ	malŭ	
+кратъкъ	kratŭkŭ	
+ѫзъкъ	ǫzŭkŭ	
+тьнъкъ	tĭnŭkŭ	
+жєна	žena	
+мѫжь	mǫžĭ	
+чловѣкъ	člověkŭ	
+дѣть	dětĭ	
+жєна	žena	
+мѫжь	mǫžĭ	
+мати	mati	
+отьць	otĭcĭ	
+звѣрь	zvěrĭ	
+рꙑба	ryba	
+пътица	pŭtica	
+пьсъ	pĭsŭ	
+въшь	vŭšĭ	
+змиꙗ	zmija	
+чрьвь	črĭvĭ	
+дрѣво	drěvo	
+лѣсъ	lěsŭ	
+палица	palica	
+овощє	ovošte	
+сѣмѧ	sěmę	
+листъ	listŭ	
+корєнь	korenĭ	
+кора	kora	
+цвѣтъ	cvětŭ	
+трава	trava	
+вьрвь	vĭrvĭ	
+кожа	koža	
+мѧсо	męso	
+крꙑ	kry	
+кость	kostĭ	
+тоукъ	tukŭ	
+аицє	aice	
+рогъ	rogŭ	
+опашъ	opašŭ	
+перїе	perie	
+власъ	vlasŭ	
+глава	glava	
+оухо	uxo	
+око	oko	
+носъ	nosŭ	
+оуста	usta	
+зѫбъ	zǫbŭ	
+ѩзꙑкъ	językŭ	
+ногъть	nogŭtĭ	
+стопа	stopa	
+нога	noga	
+колѣно	kolěno	
+рѫка	rǫka	
+крило	krilo	
+чрѣво	črěvo	
+ѫтроба	ǫtroba	
+шїѧ	šię	
+хребетъ	xrebetŭ	
+прьси	prĭsi	
+срьдьцє	srĭdĭce	
+		
+пити	piti	
+ꙗсти	jasti	
+хапати	xapati	
+съсати	sŭsati	
+пльвати	plĭvati	
+бльвати	blĭvati	
+доухати	duxati	
+дꙑхати	dyxati	
+смиꙗти	smijati	
+видѣти	viděti	
+слꙑшати	slyšati	
+вѣдѣти	věděti	
+мꙑслити	mysliti	
+		
+боꙗти	bojati	
+съпати	sŭpati	
+жити	žiti	
+оумрѣти	umrěti	
+оубити	ubiti	
+брати	brati	
+ловити	loviti	
+оударити	udariti	
+сѣщи	sěšti	
+		
+бости	bosti	
+чєсати	česati	
+копати	kopati	
+плавати	plavati	
+лєтѣти	letěti	
+ходити	xoditi	
+		
+лєжати	ležati	
+сѣдѣти	sěděti	
+стати	stati	
+		
+пасти	pasti	
+дати	dati	
+дрьжати	drĭžati	
+		
+трьти	trĭti	
+мꙑти	myti	
+		
+		
+		
+		
+вѧзати	vęzati	
+		
+		
+рєщи	rešti	
+пѣти	pěti	
+играти	igrati	
+		
+тєшти	tešti	
+помръзнѫти	pomrŭznǫti	
+		
+слъньцє	slŭnĭce	
+мѣсѧць	měsęcĭ	
+звѣзда	zvězda	
+вода	voda	
+дъждь	dŭždĭ	
+рѣка	rěka	
+ѥзєръ	jezerŭ	
+морѥ	morje	
+соль	solĭ	
+камꙑ	kamy	
+пѣсъкъ	pěsŭkŭ	
+прахъ	praxŭ	
+зємлꙗ	zemlja	
+облакъ	oblakŭ	
+мьгла	mĭgla	
+нєбо	nebo	
+вѣтръ	větrŭ	
+снѣгъ	sněgŭ	
+лєдъ	ledŭ	
+дꙑмъ	dymŭ	
+огнь	ognĭ	
+		
+горѣти	gorěti	
+пѫть	pǫtĭ	
+гора	gora	
+чръвєнъ	črŭvenŭ	
+зєлєнъ	zelenŭ	
+		
+бѣлъ	bělŭ	
+чрънъ	črŭnŭ	
+нощь	noštĭ	
+дьнь	dĭnĭ	
+лѣто	lěto	
+топлъ	toplŭ	
+хладьнъ	xladĭnŭ	
+испльнь	isplĭnĭ	
+новъ	novŭ	
+старъ	starŭ	
+добръ	dobrŭ	
+зълъ	zŭlŭ	
+		
+		
+правъ	pravŭ	
+		
+остръ	ostrŭ	
+		
+гладъкъ	gladŭkŭ	
+мокръ	mokrŭ	
+соухъ	suxŭ	
+правъ	pravŭ	
+близъ	blizŭ	
+дальнии	dalĭnii	
+дєснъ	desnŭ	
+лѣвъ	lěvŭ	
+оу	u	
+въ	vŭ	
+съ	sŭ	
+и	i	
+ащє	ašte	
+пон҄єжє	ponʹeže	
+имѧ	imę	

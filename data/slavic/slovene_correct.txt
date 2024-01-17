@@ -1,0 +1,207 @@
+jaz	jaz	jás
+ti	ti	tíː
+on	on	ɔ́n
+mi	mi	míː
+vi	vi	ʋíː
+oni	oni	ɔ̀ːni
+ta	ta	táː
+tisti	tisti	tíːsti
+tu	tu	tú
+tam	tam	tám
+kdo	kdo	ɡdòː
+kaj	kaj	kàːj
+kje	kje	kjèː
+kdaj	kdaj	ɡdàːj
+kako	kako	kakòː
+ne	ne	nɛ́
+vse	vse	
+veliko	veliko	ʋɛlìːkɔ
+nekoliko	nekoliko	
+malo	malo	màːlɔ
+drugi	drugi	drùːɡi
+ena	ena	ɛ̀ːna
+dva	dva	dʋáː
+tri	tri	tríː
+štiri	štiri	ʃtìːri
+pet	pet	péːt
+velik	velik	ʋɛ̀ːlik
+dolg	dolg	dɔ́ːʋk
+širok	širok	ʃirɔ́k
+debel	debel	dɛ̀ːbɛʋ
+težek	težek	tɛ̀ːʒək
+majhen	majhen	máːjxən
+kratek	kratek	kràːtək
+ozek	ozek	òːzək
+tanek	tanek	tàːnək
+ženska	ženska	ʒèːnska
+moški	moški	mɔ̀ːʃki
+človek	človek	t͡ʃlɔ̀ːʋɛk
+otrok	otrok	ɔtrɔ́k
+žena	žena	ʒɛ̀ːna
+mož	mož	móːʃ
+mati	mati	màːti
+oče	oče	ɔ̀ːt͡ʃɛ
+žival	žival	ʒiʋáːʋ
+riba	riba	rìːba
+ptič	ptič	ptít͡ʃ
+pes	pes	pə́s
+uš	uš	úːʃ
+kača	kača	kàːt͡ʃa
+črv	črv	t͡ʃə́rʋ
+drevo	drevo	drɛʋóː
+gozd	gozd	ɡɔ́st
+palica	palica	
+plod	plod	plóːt
+seme	seme	sèːmɛ
+list	list	líːst
+koren	koren	kɔréːn
+skorja	skorja	skòːrja
+roža	roža	róːʒa
+trava	trava	tràːʋa
+vrv	vrv	
+koža	koža	kòːʒa
+meso	meso	mɛsóː
+kri	kri	kríː
+kost	kost	kóːst
+maščoba	maščoba	
+jajce	jajce	jàːjt͡sɛ
+rog	rog	róːk
+rep	rep	rɛ́p
+pero	pero	pɛróː
+lasje	lasje	
+glava	glava	ɡlàːʋa
+uho	uho	uxóː
+oko	oko	ɔkóː
+nos	nos	nóːs
+usta	usta	ùːsta
+zob	zob	zóːp
+jezik	jezik	jɛ̀ːzik
+noht	noht	nóːxt
+noga	noga	nɔ̀ːɡa
+noga	noga	nɔ̀ːɡa
+koleno	koleno	kɔlèːnɔ
+roka	roka	rɔ̀ːka
+krilo	krilo	krìːlɔ
+trebuh	trebuh	trèːbux
+drobovje	drobovje	
+vrat	vrat	ʋráːt
+hrbet	hrbet	xə̀rbət
+prsi	prsi	
+srce	srce	sərt͡séː
+jetra	jetra	jèːtra
+piti	piti	pìːti
+jesti	jesti	jèːsti
+gristi	gristi	ɡrìːsti
+sesati	sesati	səsàːti
+pljuvati	pljuvati	
+bruhati	bruhati	
+pihati	pihati	pìːxati
+dihati	dihati	dìːxati
+smejati	smejati	smɛjàːti
+videti	videti	ʋìːdɛti
+slišati	slišati	slìːʃati
+vedeti	vedeti	ʋèːdɛti
+misliti	misliti	mìːsliti
+vohati	vohati	ʋóːxati
+bati	bati	bàːti
+spati	spati	spàːti
+živeti	živeti	ʒiʋèːti
+umreti	umreti	umrèːti
+ubiti	ubiti	ubìːti
+boriti	boriti	bɔrìːti
+loviti	loviti	lɔʋìːti
+udariti	udariti	udàːriti
+rezati	rezati	rèːzati
+razcepiti	razcepiti	
+zabosti	zabosti	
+praskati	praskati	
+kopati	kopati	kòːpati
+plavati	plavati	pláːʋati
+leteti	leteti	lɛtèːti
+hoditi	hoditi	xɔdìːti
+priti	priti	prìːti
+ležati	ležati	lɛʒàːti
+sedeti	sedeti	sɛdèːti
+stati	stati	stàːti
+obrniti	obrniti	
+pasti	pasti	pàːsti
+dati	dati	dàːti
+držati	držati	
+stiskati	stiskati	
+drgniti	drgniti	
+umivati	umivati	umìːʋati
+brisati	brisati	
+vleči	vleči	ʋlèːt͡ʃi
+potisniti	potisniti	
+vreči	vreči	ʋrèːt͡ʃi
+vezati	vezati	ʋèːzati
+šivati	šivati	
+šteti	šteti	ʃtèːti
+reči	reči	rɛ̀ːt͡ʃi
+peti	peti	pɛ̀ːti
+igrati	igrati	iɡràːti
+plavati	plavati	pláːʋati
+teči	teči	tɛ̀ːt͡ʃi
+zamrzniti	zamrzniti	
+oteči	oteči	
+sonce	sonce	sóːnt͡sɛ
+luna	luna	lùːna
+zvezda	zvezda	zʋèːzda
+voda	voda	ʋɔ̀ːda
+dež	dež	də́ʃ
+reka	reka	rèːka
+jezero	jezero	jéːzɛrɔ
+morje	morje	móːrjɛ
+sol	sol	sóːʋ
+kamen	kamen	kàːmən
+pesek	pesek	pèːsək
+prah	prah	práːx
+zemlja	zemlja	zɛ̀ːmlja
+oblak	oblak	ɔbláːk
+megla	megla	məɡlá
+nebo	nebo	nɛbóː
+veter	veter	ʋéːtər
+sneg	sneg	snéːk
+led	led	léːt
+dim	dim	dím
+ogenj	ogenj	ɔ̀ːɡən
+pepel	pepel	pɛpéːʋ
+žgati	žgati	ʒɡàːti
+cesta	cesta	t͡sèːsta
+gora	gora	ɡɔ̀ːra
+rdeč	rdeč	ərdɛ́t͡ʃ
+zelen	zelen	zɛlɛ́n
+rumen	rumen	rumɛ́n
+bel	bel	bèːʋ
+črn	črn	t͡ʃə̀rn
+noč	noč	nóːt͡ʃ
+dan	dan	dáːn
+leto	leto	lèːtɔ
+topel	topel	tɔ̀ːpəʋ
+hladen	hladen	xláːdən
+poln	poln	pɔ́ːʋn
+nov	nov	nɔ́ʋ
+star	star	stár
+dober	dober	dòːbər
+slab	slab	sláp
+gnil	gnil	ɡníːʋ
+umazan	umazan	umáːzan
+raven	raven	ràːʋən
+okrogel	okrogel	ɔkròːɡəʋ
+oster	oster	òːstər
+top	top	tɔ́p
+gladek	gladek	
+moker	moker	mòːkər
+suh	suh	súːx
+pravilen	pravilen	praʋíːlən
+bližnji	bližnji	
+oddaljen	oddaljen	
+desni	desni	
+levi	levi	
+pri	pri	pri
+v	v	ʋ
+s	s	s
+in	in	in
+če	če	t͡ʃɛ
+ker	ker	kɛr
+ime	ime	iméː

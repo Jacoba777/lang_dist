@@ -1,7 +1,7 @@
 from math import inf
 from typing import List
 
-from data.all_languages import get_all_langs
+from data.all_languages import *
 from model.difference_scores import DifferenceScores
 from model.lang import Language
 from model.lang_dist import LanguageDistances, calculate_word_dists
@@ -55,6 +55,7 @@ def get_closest_langs(lang_name: str):
 
 
 def get_lang_dist_pairs():
+    # langs = SLAVIC
     langs = get_all_langs()
     print(langs)
     lang_dists = LanguageDistances(langs).get_all_dists()

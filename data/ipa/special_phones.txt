@@ -18,3 +18,10 @@ symbol	replacement
 ā	a
 ī	i
 ǣ	æ
+ô	o
+ú	u
+ò	o
+è	e
+é	e
+ó	o
+ỹ	y

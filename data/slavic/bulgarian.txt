@@ -1,0 +1,207 @@
+аз	az	as
+ти	ti	ti
+той	toj	tɔj
+ни́е	níe	
+ви́е	víe	
+те	te	tɛ
+това́	tová	
+онова́	onová	
+тук	tuk	tuk
+там	tam	tam
+кой	koj	kɔj
+какъ́в	kakǎ́v	
+къде́	kǎdé	
+кога́	kogá	
+как	kak	kak
+не	ne	nɛ
+вси́чки	vsíčki	
+мно́го	mnógo	
+ня́колко	njákolko	
+ма́лко	málko	
+друг	drug	druk
+едно́	ednó	
+две	dve	dvɛ
+три	tri	tri
+че́тири	čétiri	
+пет	pet	pɛt
+голя́м	goljám	
+дъ́лъг	dǎ́lǎg	
+широ́к	širók	
+плъ́тен	plǎ́ten	
+те́жък	téžǎk	
+ма́лък	málǎk	
+къс	kǎs	kɤs
+те́сен	tésen	
+слаб	slab	sɫap
+жена́	žená	
+мъж	mǎž	mɤʃ
+чове́к	čovék	
+дете́	deté	
+съпру́га	sǎprúga	
+съпру́г	sǎprúg	
+ма́йка	májka	
+баща́	baštá	
+живо́тно	živótno	
+ри́ба	ríba	
+пти́ца	ptíca	
+ку́че	kúče	
+въ́шка	vǎ́ška	
+змия́	zmijá	
+че́рвей	čérvej	
+дърво́	dǎrvó	
+гора́	gorá	
+пръ́чка	prǎ́čka	
+плод	plod	pɫɔt
+се́ме	séme	
+листо́	listó	
+ко́рен	kóren	
+кора́	korá	
+цве́те	cvéte	
+трева́	trevá	
+въже́	vǎžé	
+ко́жа	kóža	
+месо́	mesó	
+кръв	krǎv	krɤf
+ко́кал	kókal	
+мазнина́	mazniná	
+яйце́	jajcé	
+рог	rog	rɔk
+опа́шка	opáška	
+перо́	peró	
+коса́	kosá	
+глава́	glavá	
+ухо́	uhó	
+око́	okó	
+нос	nos	nɔs
+уста́	ustá	
+зъб	zǎb	zɤp
+ези́к	ezík	
+но́кът	nókǎt	
+крак	krak	krak
+крак	krak	krak
+коля́но	koljáno	
+ръка́	rǎká	
+крило́	kriló	
+коре́м	korém	
+въ́трешности	vǎ́trešnosti	
+врат	vrat	vrat
+гръб	grǎb	ɡrɤp
+гръд	grǎd	ɡrɤt
+сърце́	sǎrcé	
+че́рен	čéren drób	
+пи́я	píja	
+ям	jam	ja̟m
+ха́пя	hápja	
+су́ча	súča	
+плю́я	pljúja	
+повръ́щам	povrǎ́štam	
+ду́хам	dúham	
+ди́шам	díšam	
+сме́я	sméja se	
+ви́ждам	víždam	
+чу́вам	čúvam	
+зна́я	znája	
+ми́сля	míslja	
+мири́ша	miríša	
+страху́вам	strahúvam se	
+спя	spja	spʲɤ̟
+живе́я	živéja	
+уми́рам	umíram	
+уби́вам	ubívam	
+би́я	bíja se	
+лову́вам	lovúvam	
+у́дрям	údrjam	
+ре́жа	réža	
+це́пя	cépja	
+прому́швам	promúšvam	
+дра́скам	dráskam	
+копа́я	kopája	
+плу́вам	plúvam	
+летя́	letjá	
+вървя́	vǎrvjá	
+и́двам	ídvam	
+лежа́	ležá	
+седя́	sedjá	
+стоя́	stojá	
+зави́вам	zavívam	
+па́дам	pádam	
+да́вам	dávam	
+държа́	dǎržá	
+изце́ждам	izcéždam	
+три́я	tríja	
+ми́я	míja	
+бъ́рша	bǎ́rša	
+дъ́рпам	dǎ́rpam	
+бу́там	bútam	
+хвъ́рлям	hvǎ́rljam	
+връ́звам	vrǎ́zvam	
+ши́я	šíja	
+броя́	brojá	
+ка́звам	kázvam	
+пе́я	péja	
+игра́я	igrája	
+пла́вам	plávam	
+тека́	teká	
+замръ́звам	zamrǎ́zvam	
+поду́вам	podúvam se	
+слъ́нце	slǎ́nce	
+луна́	luná	
+звезда́	zvezdá	
+вода́	vodá	
+дъжд	dǎžd	dɤʃt
+река́	reká	
+е́зеро	ézero	
+море́	moré	
+сол	sol	sɔɫ
+ка́мък	kámǎk	
+пя́сък	pjásǎk	
+прах	prah	prax
+земя́	zemjá	
+о́блак	óblak	
+мъгла́	mǎglá	
+небе́	nebé	
+вя́тър	vjátǎr	
+сняг	snjag	snʲa̟k
+лед	led	lɛt
+пу́шек	púšek	
+о́гън	ógǎn	
+пе́пел	pépel	
+горя́	gorjá	
+път	pǎt	pɤt
+планина́	planiná	
+черве́н	červén	
+зеле́н	zelén	
+жълт	žǎlt	ʒɤ̟ɫt
+бял	bjal	bʲa̟ɫ
+че́рен	čéren	
+нощ	nošt	nɔʃt
+ден	den	dɛn
+годи́на	godína	
+то́пъл	tópǎl	
+студе́н	studén	
+пъ́лен	pǎ́len	
+нов	nov	nɔf
+стар	star	star
+добъ́р	dobǎ́r	
+лош	loš	ɫɔʃ
+гнил	gnil	ɡniɫ
+мръ́сен	mrǎ́sen	
+прав	prav	praf
+кръ́гъл	krǎ́gǎl	
+о́стър	óstǎr	
+тъп	tǎp	
+гла́дък	gládǎk	
+мо́кър	mókǎr	
+сух	suh	sux
+пра́вилен	právilen	
+бли́зък	blízǎk	
+дале́чен	daléčen	
+де́сен	désen	
+ляв	ljav	ˈlʲa̟f
+до	do	dɔ
+в	v	vɤ
+с	s	sɤ
+и	i	i
+ако	ako	ˈako
+защо́то	zaštóto	
+и́ме	íme	
