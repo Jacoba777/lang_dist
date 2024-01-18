@@ -1,0 +1,207 @@
+мон	mon	
+тон	ton	
+сон	son	
+минь	miń	
+тынь	tiń	
+сынь	siń	
+те	ťe	
+се	śe	
+тесэ	ťese	
+тосо	toso	
+кие	kije	
+мезе	meźe	
+косо	koso	
+зярдо	źardo	zʲardo
+кода	koda	
+а	a	
+весе	veśe	
+ламо	lamo	
+зярыя	źarija	zʲaro
+аламо	alamo	
+лия	ľija	lʲija
+вейке	vejke	
+кавто	kavto	
+колмо	kolmo	
+ниле	ńiľe	
+вете	veťe	
+покш	pokš	pokʃ
+кувака	kuvaka	
+келей	keľej	
+эчке	ečke	et͡ɕkʲe
+стака	staka	
+вишкине	viškińe	
+нурькине	nuŕkińe	
+теине	ťejińe	
+човине	čovińe	
+ава	ava	
+цёра	ćora	
+ломань	lomań	
+эйкакш	ejkakš	
+ни	ńi	
+мирде	mirďe	
+ава	ava	
+тетя	ťeťa	
+ракша	rakša	rakʃa
+кал	kal	
+нармунь	narmuń	
+киска	kiska	
+сий	śij	
+гуй	guj	ɡuj
+сукс	suks	
+чувто	čuvto	
+вирь	viŕ	
+мандо	mando	
+фрукта	frukta	
+видьме	viďme	
+лопа	lopa	
+ундовкс	undovks	
+керь	keŕ	
+цеця	ćeća	
+тикше	ťikše	
+пикс	piks	
+кедь	keď	kedʲ
+сывель	siveľ	
+верь	veŕ	
+ловажа	lovaža	
+куя	kuja	
+ал	al	
+сюро	śuro	
+пуло	pulo	
+толга	tolga	
+черь	čeŕ	
+пря	pŕa	
+пиле	piľe	pilʲe
+сельме	śeľme	sʲelʲmʲe
+судо	sudo	sudo
+курго	kurgo	kurɡo
+пей	pej	pej
+кель	keľ	kʲelʲ
+кенже	kenže	
+пильге	piľge	
+пильге	piľge	
+куманжа	kumanža	
+кедь	keď	kedʲ
+сёлмо	śolmo	
+пеке	peke	peke
+сюлот	śulot	
+кирьга	kiŕga	
+копорь	kopoŕ	
+меште	mešťe	meʃtʲe
+седей	śeďej	
+максо	makso	makso
+симемс	śimems	
+ярсамс	jarsams	
+сускомс	suskoms	
+потямс	poťams	
+сельгемс	śeľgems	
+уксномс	uksnoms	
+пувамс	puvams	
+лексемс	ľekśems	
+ракамс	rakams	
+неемс	ńejems	
+марямс	maŕams	
+содамс	sodams	
+арсемс	arśems	arʲsʲems
+марямс	maŕams	
+пелемс	peľems	
+удомс	udoms	
+эрямс	eŕams	
+куломс	kuloms	
+куловтомс	kulovtoms	
+тюремс	ťuŕems	
+вирдемс	virďems	
+эртемс	erťems	
+керямс	keŕams	
+лазомс	lazoms	
+сялгомс	śalgoms	
+раздемс	razďems	
+чувомс	čuvoms	
+уемс	ujems	
+ливтямс	ľivťams	
+ютамс	jutams	
+самс	sams	
+мадезь аштемс	maďeź ašťems	
+аштемс озадо	ašťems ozado	
+аштемс стядо	ašťems sťado	
+велявтомс	veľavtoms	
+прамс	prams	
+максомс	maksoms	
+кирдемс	kirďems	
+лепштямс	ľepšťams	
+ёзамс	jozams	
+шлямс	šľams	
+нардамс	nardams	
+ускомс	uskoms	
+тулкадемс	tulkaďems	
+ёртомс	jortoms	
+содомс	sodoms	
+стамс	stams	
+ловомс	lovoms	
+меремс	meŕems	
+морамс	morams	
+налксемс	nalkśems	
+уемс	ujems	
+чудемс	čuďems	
+кельмемс	keľmems	
+таргозевемс	targoźevems	
+чи	či	
+ков	kov	
+теште	ťešťe	
+ведь	veď	vedʲ
+пиземе	piźeme	
+лей	ľej	
+эрьке	eŕke	
+иневедь	ińeveď	
+сал	sal	
+кев	kev	
+чувар	čuvar	
+пуль	puľ	
+мода	moda	
+пель	peľ	
+сув	suv	
+менель	meńeľ	
+варма	varma	
+лов	lov	
+эй	ej	
+качамо	kačamo	
+тол	tol	
+кулов	kulov	
+паломс	paloms	
+ки	ki	ki
+пандо	pando	
+якстере	jaksťeŕe	
+пиже	piže	
+ожо	ožo	
+ашо	ašo	aʃo
+раужо	raužo	
+ве	ve	
+чи	či	
+ие	ije	
+лембе	ľembe	
+кельме	keľme	kelʲmʲe
+пешксе	peškśe	
+од	od	
+сыре	siŕe	
+вадря	vadŕa	
+берянь	beŕań	
+наксадо	naksado	
+рудазов	rudazov	
+виде	viďe	
+кеверь	keveŕ	
+пшти	pšťi	
+ношка	noška	
+валаня	valańa	
+начко	načko	
+коське	kośke	
+виде	viďe	
+маласо	malaso	malaso
+васоло	vasolo	
+вить	viť	
+керш	kerš	kerʃ
+кедьсэ	keďse	
+-со	-so	
+марто	marto	
+да	da	
+-ндерь-	-nďeŕ-	
+эдь	eď	
+лем	ľem	

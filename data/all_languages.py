@@ -7,8 +7,12 @@ from data.slavic._slavic import ALL_LANGS as SLAVIC
 from data.celtic._celtic import ALL_LANGS as CELTIC
 from data.indo_aryan._indo_aryan import ALL_LANGS as INDO_ARYAN
 from data.iranian._iranian import ALL_LANGS as IRANIAN
+from data.dravidian._dravidian import ALL_LANGS as DRAVIDIAN
+from data.uralic._uralic import ALL_LANGS as URALIC
+from data.caucasian._caucasian import ALL_LANGS as CAUCASIAN
 from data.indo_euro_other._indo_euro_other import ALL_LANGS as INDO_EURO_OTHER
 from data.east_asian._east_asian import ALL_LANGS as EAST_ASIAN
+from data.isolates._isolates import ALL_LANGS as ISOLATES
 from model.lang import Language
 
 classifier = {
@@ -33,5 +37,9 @@ def get_all_langs() -> List[Language]:
         *EAST_ASIAN,
         *INDO_ARYAN,
         *IRANIAN,
+        *CAUCASIAN,
+        *DRAVIDIAN,
+        *URALIC,
         *INDO_EURO_OTHER,
+        *ISOLATES,
     ]

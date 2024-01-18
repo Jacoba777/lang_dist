@@ -2,8 +2,6 @@ import requests
 from bs4 import BeautifulSoup
 
 BASE_URL = 'https://en.wiktionary.org/wiki'
-LANG = 'Avestan'
-WORD = '我'
 
 
 def get_word_ipa(word: str, lang: str):
@@ -40,7 +38,9 @@ def convert_input_words_to_ipa():
     with open('ipa_crawler/input.txt', encoding='UTF-8') as f:
         words = f.read().split('\n')
 
-    ipas = [debug_get_word_ipa(w, LANG) for w in words]
+    lang, words = words[0], words[1:]
+
+    ipas = [debug_get_word_ipa(w, lang) for w in words]
     print(ipas)
 
     with open('ipa_crawler/output.txt', 'w', encoding='UTF-8') as f:

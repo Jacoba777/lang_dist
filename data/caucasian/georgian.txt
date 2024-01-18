@@ -1,0 +1,207 @@
+მე	me	me
+შენ	šen	ʃen
+ის	is	is
+ჩვენ	čven	t͡ʃven
+თქვენ	tkven	tʰkʰven
+ისინი	isini	isini
+ეს	es	es
+ის	is	is
+აქ	ak	akʰ
+იქ	ik	ikʰ
+ვინ	vin	vin
+რა	ra	ra
+სად	sad	sad
+როდის	rodis	rodis
+როგორ	rogor	roɡor
+არ	ar	ar
+ყველაფერი	q̇velaperi	qʼvelapʰeri
+ბევრი	bevri	bevri
+რამდენიმე	ramdenime	ramdenime
+ცოტა	coṭa	t͡sotʼa
+სხვა	sxva	sxva
+ერთი	erti	ertʰi
+ორი	ori	ori
+სამი	sami	sami
+ოთხი	otxi	otʰxi
+ხუთი	xuti	xutʰi
+დიდი	didi	didi
+გრძელი	grʒeli	ɡrd͡zeli
+ფართო	parto	pʰartʰo
+სქელი	skeli	skʰeli
+მძიმე	mʒime	md͡zime
+პატარა	ṗaṭara	pʼatʼara
+მოკლე	moḳle	mokʼle
+ვიწრო	vic̣ro	vit͡sʼro
+თხელი	txeli	tʰxeli
+ქალი	kali	kʰali
+კაცი	ḳaci	kʼat͡si
+ადამიანი	adamiani	adamiani
+ბავშვი	bavšvi	bavʃvi
+ცოლი	coli	t͡soli
+ქმარი	kmari	kʰmari
+დედა	deda	deda
+მამა	mama	mama
+ცხოველი	cxoveli	t͡sxoveli
+თევზი	tevzi	tʰevzi
+ჩიტი	čiṭi	t͡ʃitʼi
+ძაღლი	ʒaɣli	d͡zaɣli
+ტილი	ṭili	tʼili
+გველი	gveli	ɡveli
+ჭია	č̣ia	t͡ʃʼia
+ხე	xe	xe
+ტყე	ṭq̇e	tʼqʼe
+ჯოხი	ǯoxi	d͡ʒoxi
+ხილი	xili	xili
+თესლი	tesli	tʰesli
+ფოთოლი	potoli	pʰotʰoli
+ფესვი	pesvi	pʰesvi
+ქერქი	kerki	kʰerkʰi
+ყვავილი	q̇vavili	qʼvavili
+ბალახი	balaxi	balaxi
+თოკი	toḳi	tʰokʼi
+კანი	ḳani	kʼani
+ხორცი	xorci	xort͡si
+სისხლი	sisxli	sisxli
+ძვალი	ʒvali	d͡zvali
+ქონი	koni	kʰoni
+კვერცხი	ḳvercxi	kʼvert͡sxi
+რქა	rka	rkʰa
+კუდი	ḳudi	kʼudi
+ფრთა	prta	pʰrtʰa
+თმა	tma	tʰma
+თავი	tavi	tʰavi
+ყური	q̇uri	qʼuri
+თვალი	tvali	tʰvali
+ცხვირი	cxviri	t͡sxviri
+პირი	ṗiri	pʼiri
+კბილი	ḳbili	kʼbili
+ენა	ena	ena
+ფრჩხილი	prčxili	pʰrt͡ʃxili
+ტერფი	ṭerpi	tʼerpʰi
+ფეხი	pexi	pʰexi
+მუხლი	muxli	muxli
+ხელი	xeli	xeli
+ფრთა	prta	pʰrtʰa
+მუცელი	muceli	mut͡seli
+ნაწლავი	nac̣lavi	nat͡sʼlavi
+კისერი	ḳiseri	kʼiseri
+ზურგი	zurgi	zurɡi
+მკერდი	mḳerdi	mkʼerdi
+გული	guli	ɡuli
+ღვიძლი	ɣviʒli	ɣvid͡zli
+სმა	sma	sma
+ჭამა	č̣ama	t͡ʃʼama
+კბენა	ḳbena	kʼbena
+წოვა	c̣ova	t͡sʼova
+ფურთხვა	purtxva	
+რწყევა	rc̣q̇eva	rt͡sʼqʼeva
+ბერვა	berva	
+სუნთქვა	suntkva	
+სიცილი	sicili	sit͡sili
+ნახვა	naxva	naxva
+სმენა	smena	smena
+ცოდნა	codna	t͡sodna
+ფიქრი	pikri	pʰikʰri
+ყნოსვა	q̇nosva	
+შიში	šiši	ʃiʃi
+ძილი	ʒili	d͡zili
+ცხოვრება	cxovreba	t͡sxovreba
+კვდება	ḳvdeba	kʼvdeba
+კვლა	ḳvla	kʼvla
+ბრძოლა	brʒola	brd͡zola
+ნადირობა	nadiroba	nadiroba
+რტყმა	rṭq̇ma	rtʼqʼma
+ჭრა	č̣ra	t͡ʃʼra
+გახლეჩა	gaxleča	
+დაჭრა	dač̣ra	
+ფხაჭნა	pxač̣na	
+თხრა	txra	
+ცურვა	curva	t͡surva
+ფრენა	prena	pʰrena
+სიარული	siaruli	siaruli
+მოსვლა	mosvla	mosvla
+წოლა	c̣ola	t͡sʼola
+ჯდომა	ǯdoma	d͡ʒdoma
+ადგომა	adgoma	adɡoma
+ბრუნვა	brunva	brunva
+დაცემა	dacema	
+მიცემა	micema	mit͡sema
+ჭერა	č̣era	t͡ʃʼera
+გაწურვა	gac̣urva	
+ხახუნი	xaxuni	
+რეცხვა	recxva	ret͡sxva
+წმენდა	c̣menda	
+წევა	c̣eva	t͡sʼeva
+ბიძგება	biʒgeba	
+გადაგდება	gadagdeba	ɡadaɡdeba
+შეკვრა	šeḳvra	ʃekʼvra
+კერვა	ḳerva	kʼerva
+თვლა	tvla	
+თქმა	tkma	tʰkʰma
+მღერა	mɣera	
+თამაშობა	tamašoba	
+ტივტივი	ṭivṭivi	
+დენა	dena	
+გაყინვა	gaq̇inva	
+გასიება	gasieba	
+მზე	mze	mze
+მთვარე	mtvare	mtʰvare
+ვარსკვლავი	varsḳvlavi	varskʼvlavi
+წყალი	c̣q̇ali	t͡sʼqʼali
+წვიმა	c̣vima	t͡sʼvima
+მდინარე	mdinare	mdinare
+ტბა	ṭba	tʼba
+ზღვა	zɣva	zɣva
+მარილი	marili	marili
+ქვა	kva	kʰva
+ქვიშა	kviša	kʰviʃa
+მტვერი	mṭveri	mtʼveri
+მიწა	mic̣a	mit͡sʼa
+ღრუბელი	ɣrubeli	ɣrubeli
+ნისლი	nisli	nisli
+ცა	ca	t͡sa
+ქარი	kari	kʰari
+თოვლი	tovli	tʰovli
+ყინული	q̇inuli	qʼinuli
+კვამლი	ḳvamli	kʼvamli
+ცეცხლი	cecxli	t͡set͡sxli
+ფერფლი	perpli	pʰerpʰli
+წვა	c̣va	t͡sʼva
+გზა	gza	ɡza
+მთა	mta	mtʰa
+წითელი	c̣iteli	t͡sʼitʰeli
+მწვანე	mc̣vane	mt͡sʼvanɛ
+ყვითელი	q̇viteli	qʼvitʰeli
+თეთრი	tetri	tʰetʰri
+შავი	šavi	ʃavi
+ღამე	ɣame	ɣame
+დღე	dɣe	dɣe
+წელი	c̣eli	t͡sʼeli
+თბილი	tbili	tʰbili
+ცივი	civi	t͡sivi
+სავსე	savse	savse
+ახალი	axali	axali
+ძველი	ʒveli	d͡zveli
+კარგი	ḳargi	kʼarɡi
+ცუდი	cudi	t͡sudi
+დამპალი	damṗali	dampʼali
+ჭუჭყიანი	č̣uč̣q̇iani	t͡ʃʼut͡ʃʼqʼiani
+სწორი	sc̣ori	st͡sʼori
+მრგვალი	mrgvali	mrɡvali
+ბასრი	basri	basri
+ბლაგვი	blagvi	blaɡvi
+გლუვი	gluvi	ɡluvi
+სველი	sveli	sveli
+მშრალი	mšrali	mʃrali
+ზუსტი	zusṭi	zustʼi
+ახლო	axlo	axlo
+შორი	šori	ʃori
+მარჯვენა	marǯvena	mard͡ʒvena
+მარცხენა	marcxena	mart͡sxena
+-ში	-ši	ʃi
+-ში	-ši	ʃi
+-თან	-tan	tʰan
+და	da	da
+თუ	tu, rom	tʰu
+რადგან	radgan	radɡan
+სახელი	saxeli	saxeli
