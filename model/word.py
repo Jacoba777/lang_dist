@@ -11,7 +11,7 @@ class Word:
         self.ipa_tokenized = create_syllables_from_ipa_string(ipa)
 
     def __repr__(self):
-        return f'<Word "{self.native}">'
+        return f'<Word "{self.native} /{self.ipa}/">'
 
 
 def word_distance(w1: Word, w2: Word, debug=False):

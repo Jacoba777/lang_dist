@@ -12,6 +12,9 @@ from data.uralic._uralic import ALL_LANGS as URALIC
 from data.caucasian._caucasian import ALL_LANGS as CAUCASIAN
 from data.indo_euro_other._indo_euro_other import ALL_LANGS as INDO_EURO_OTHER
 from data.east_asian._east_asian import ALL_LANGS as EAST_ASIAN
+from data.chukotko_kamchatkan._chukotko_kamchatkan import ALL_LANGS as CHUKOTKO_KAMCHATKAN
+from data.mongolic._mongolic import ALL_LANGS as MONGOLIC
+from data.turkic._turkic import ALL_LANGS as TURKIC
 from data.isolates._isolates import ALL_LANGS as ISOLATES
 from model.lang import Language
 
@@ -26,20 +29,28 @@ classifier = {
     'likely nodata': (75, 100)
 }
 
+ALL_LANGS: List[Language] = [
+    *GERMANIC,
+    *ROMANCE,
+    *BALTIC,
+    *SLAVIC,
+    *CELTIC,
+    *EAST_ASIAN,
+    *INDO_ARYAN,
+    *IRANIAN,
+    *INDO_EURO_OTHER,
+    *CAUCASIAN,
+    *DRAVIDIAN,
+    *URALIC,
+    *CHUKOTKO_KAMCHATKAN,
+    *MONGOLIC,
+    *TURKIC,
+    *ISOLATES,
+]
+
+ALL_LANGS_W_DATA = [lang for lang in ALL_LANGS if lang.get_word_count() >= 10]
+ALL_MODERN_LANGS_W_DATA = [lang for lang in ALL_LANGS_W_DATA if lang.extinct_year is None]
+
 
 def get_all_langs() -> List[Language]:
-    return [
-        *GERMANIC,
-        *ROMANCE,
-        *BALTIC,
-        *SLAVIC,
-        *CELTIC,
-        *EAST_ASIAN,
-        *INDO_ARYAN,
-        *IRANIAN,
-        *CAUCASIAN,
-        *DRAVIDIAN,
-        *URALIC,
-        *INDO_EURO_OTHER,
-        *ISOLATES,
-    ]
+    return ALL_LANGS

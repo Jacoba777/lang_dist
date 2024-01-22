@@ -54,9 +54,9 @@ def get_closest_langs(lang_name: str):
 
 
 def get_lang_dist_pairs():
-    langs = [*DRAVIDIAN]
-    # langs = get_all_langs()
-    print(langs)
+    # langs = [*URALIC]
+    langs = get_all_langs()
+    print(f'Comparing {len(langs)} languages')
     lang_dists = LanguageDistances(langs).get_all_dists()
     lang_dists.sort()
 

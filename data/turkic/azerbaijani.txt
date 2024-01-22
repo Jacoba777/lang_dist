@@ -1,0 +1,207 @@
+mən	mən	mæn
+sən	sən	sæn
+o	o	ɔ
+biz	biz	
+siz	siz	siz
+onlar	onlar	o(n)lar
+bu	bu	bu
+o	o	ɔ
+bura	bura	burɑ
+ora	ora	
+kim	kim	cim
+nə	nə	næ
+hara	hara	ˈhɑrɑ
+haçan	haçan	ˈhɑt͡ʃɑn
+necə	necə	ˈned͡ʒæ
+deyil	deyil	dejil
+bütün	bütün	byˈtyn
+çox	çox	t͡ʃɔχ
+bəzi	bəzi	ˈbæˈzi
+az	az	ɑz
+başqa	başqa	bɑʃˈkɑ
+bir	bir	bir
+iki	iki	ici
+üç	üç	ʏtʃ
+dörd	dörd	dœrd
+beş	beş	beʃ
+böyük	böyük	bœˈjyc
+uzun	uzun	uˈzun
+geniş	geniş	ɟeˈniʃ
+sıx	sıx	
+ağır	ağır	ɑˈɣɯr
+kiçik	kiçik	ciˈt͡ʃic
+qısa	qısa	ɡɯˈsɑ
+dar	dar	dɑr
+incə	incə	ind͡ʒæ
+qadın	qadın	ɡɑˈdɯn
+kişi	kişi	ciˈʃi
+kəs	kəs	kʲæs
+bala	bala	bɑˈɫɑ
+arvad	arvad	ɑrˈvɑd
+ər	ər	æɾ
+ana	ana	ɑˈnɑ
+ata	ata	ɑˈtɑ
+heyvan	heyvan	
+balıq	balıq	bɑˈɫɯχ
+quş	quş	ɡuʃ
+it	it	
+bit	bit	bit
+ilan	ilan	
+qurd	qurd	
+ağac	ağac	ɑˈɣɑd͡ʒ
+meşə	meşə	
+çubuq	çubuq	
+meyvə	meyvə	mɛjvæ
+çiyid	çiyid	
+yarpaq	yarpaq	jɑrˈpɑχ
+kök	kök	cœc
+qabıq	qabıq	
+çiçək	çiçək	t͡ʃiˈt͡ʃæk
+ot	ot	
+ip	ip	ipʲ
+dəri	dəri	dæˈri
+ət	ət	æt
+qan	qan	ɡɑn
+sümük	sümük	syˈmyk
+yağ	yağ	jɑɣ
+yumurta	yumurta	jumurˈtɑ
+buynuz	buynuz	bujnuz
+quyruq	quyruq	ɡujˈruɣ
+tük	tük	
+saç	saç	sɑt͡ʃ
+baş	baş	bɑʃ
+qulaq	qulaq	ɡuˈɫɑχ
+göz	göz	ɟœz
+burun	burun	buˈrun
+ağız	ağız	ɑˈɣɯz
+diş	diş	diʃ
+dil	dil	dil
+dırnaq	dırnaq	dɯrˈnɑχ
+ayaq	ayaq	ɑˈjɑχ
+qıç	qıç	
+diz	diz	
+əl	əl	æl
+qanad	qanad	ɡɑˈnɑd
+qarın	qarın	ɡɑˈrɯn
+bağırsaq	bağırsaq	bɑɣɯrˈsɑχ
+boyun	boyun	boˈjun
+arxa	arxa	ɑrˈχɑ
+döş	döş	
+ürək	ürək	yˈɾæc
+ciyər	ciyər	
+içmək	içmək	it͡ʃˈmæk
+yemək	yemək	jeˈmæk
+dişləmək	dişləmək	diʃlæˈmæk
+əmmək	əmmək	æˈmːæk
+tüpürmək	tüpürmək	
+qusmaq	qusmaq	ɡusˈmɑχ
+üfürmək	üfürmək	
+nəfəs almaq	nəfəs almaq	
+gülmək	gülmək	ɟylmæc
+görmək	görmək	ɟœrˈmæk
+eşitmək	eşitmək	eʃitˈmæk
+bilmək	bilmək	bilˈmæk
+düşünmək	düşünmək	dyʃynˈmæk
+iyləmək	iyləmək	
+qorxmaq	qorxmaq	ɡorxˈmɑx
+yatmaq	yatmaq	jɑtˈmɑχ
+yaşamaq	yaşamaq	
+ölmək	ölmək	œlˈmæk
+öldürmək	öldürmək	œldyrˈmæk
+vuruşmaq	vuruşmaq	
+ovlamaq	ovlamaq	
+vurmaq	vurmaq	vurˈmɑx
+kəsmək	kəsmək	cæsˈmæk
+bölmək	bölmək	bœlˈmæk
+sancmaq	sancmaq	
+cızmaq	cızmaq	
+qazmaq	qazmaq	ɡɑzˈmɑχ
+üzmək	üzmək	yzˈmæk
+uçmaq	uçmaq	ut͡ʃˈmɑχ
+yürümək	yürümək	jyryˈmæc
+gəlmək	gəlmək	ɟælmæç
+uzanmaq	uzanmaq	uzɑnˈmɑχ
+oturmaq	oturmaq	oturˈmɑχ
+durmaq	durmaq	durˈmɑχ
+dönmək	dönmək	dœnˈmæk
+düşmək	düşmək	dyʃˈmæk
+vermək	vermək	verˈmæc
+tutmaq	tutmaq	tutˈmɑχ
+sıxmaq	sıxmaq	sɯχˈmaχ
+sürmək	sürmək	syrˈmæk
+yumaq	yumaq	juˈmɑχ
+silmək	silmək	silˈmæk
+çəkmək	çəkmək	t͡ʃækˈmæk
+itələmək	itələmək	itælæˈmæk
+atmaq	atmaq	ɑtˈmɑχ
+bağlamaq	bağlamaq	bɑɣɫɑˈmɑχ
+tikmək	tikmək	tikʲˈmækʲ
+saymaq	saymaq	sɑjˈmɑχ
+demək	demək	deˈmæk
+oxumaq	oxumaq	oχuˈmaχ
+oynamaq	oynamaq	ojnɑˈmɑχ
+üzmək	üzmək	yzˈmæk
+axmaq	axmaq	ɑχˈmɑχ
+donmaq	donmaq	donˈmɑχ
+şişmək	şişmək	
+gün	gün	ɟyn
+ay	ay	ɑj
+ulduz	ulduz	uɫdúz
+su	su	su
+yağış	yağış	jaɣˈɯʃ
+çay	çay	
+göl	göl	ɟœl
+dəniz	dəniz	dæˈniz
+duz	duz	
+daş	daş	dɑʃ
+qum	qum	
+toz	toz	toz
+torpaq	torpaq	torˈpɑχ
+bulud	bulud	buˈɫud
+duman	duman	duˈmɑn
+göy	göy	ɟœj
+külək	külək	cyˈlæç
+qar	qar	ɡɑr
+buz	buz	
+tüstü	tüstü	tysˈty
+od	od	
+kül	kül	kyl
+yanmaq	yanmaq	jɑnmɑχ
+yol	yol	
+dağ	dağ	
+qırmızı	qırmızı	ɡɯrmɯˈzɯ
+yaşıl	yaşıl	jɑˈʃɯɫ
+sarı	sarı	sɑˈrɯ
+ağ	ağ	
+qara	qara	ɡɑˈrɑ
+gecə	gecə	ɟeˈd͡ʒæ
+gün	gün	ɟyn
+il	il	
+ilıq	ilıq	iɫɯχ
+soyuq	soyuq	soˈjuχ
+dolu	dolu	doˈɫu
+yeni	yeni	jeˈni
+köhnə	köhnə	cœhˈnæ
+yaxşı	yaxşı	jɑχˈʃɯ
+pis	pis	pis
+çürük	çürük	t͡ʃyˈryk
+çirkli	çirkli	t͡ʃirkˈli
+düz	düz	dyz
+yumru	yumru	
+iti	iti	
+küt	küt	
+hamar	hamar	hɑˈmɑr
+nəm	nəm	næm
+quru	quru	ɡuˈru
+düzgün	düzgün	dyzˈɟyn
+yaxın	yaxın	jɑxˈɯn
+uzaq	uzaq	uˈzɑχ
+sağ	sağ	sɑɣ
+sol	sol	soɫ
+-da	-da	
+-da	-da	
+ilə	ilə	iˈlæ
+və	və	væ
+-sa	-sa	
+çünki	çünki	ˈt͡ʃynki
+ad	ad	ɑd

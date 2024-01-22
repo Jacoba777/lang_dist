@@ -1,0 +1,207 @@
+мен	men	
+сен	sen	
+ал	al	
+биз	biz	
+силер	siler	
+алар	alar	
+бул	bul	
+ал	al	
+бул жер	bul jer	
+ал жер	al jer	
+ким	kim	
+эмне	emne	
+кайда	kayda	
+качан	kacan	
+кандай	kanday	
+эмес	emes	
+баары	baarı	
+көп	köp	
+бир нече	bir nece	
+аз	az	
+башка	başka	
+бир	bir	bir
+эки	eki	eki
+үч	üc	
+төрт	tört	
+беш	beş	
+чоң	coŋ	
+узун	uzun	
+кенен	kenen	
+калың	kalıŋ	
+оор	oor	
+кичинекей	kicinekey	ciˈt͡ʃiˈneˈkej
+кыска	kıska	
+тар	tar	
+ичке	icke	
+аял	ayal	
+эркек	erkek	
+киши	kişi	
+бала	bala	bɑˈɫɑ
+аял	ayal	
+күйөө	küyöö	cyˈjøː
+апа	apa	
+ата	ata	
+жаныбар	janıbar	
+балык	balık	bɑˈɬɯq
+куш	kuş	
+ит	it	it
+бит	bit	
+жылан	jılan	d͡ʒɯˈlɑn
+курт	kurt	
+бак	bak	
+токой	tokoy	toˈqoj
+таяк	tayak	tɑˈjɑq
+жемиш	jemiş	
+урук	uruk	ˈuruq
+жалбырак	jalbırak	
+тамыр	tamır	tɑˈmɯr
+кабык	kabık	
+гүл	gül	ɡyl
+чөп	cöp	
+аркан	arkan	
+тери	teri	
+эт	et	et
+кан	kan	
+сөөк	söök	
+май	may	mɑj
+жумуртка	jumurtka	d͡ʒumurtˈqɑ
+мүйүз	müyüz	
+куйрук	kuyruk	
+жүн	jün	
+чач	cac	
+баш	baş	bɑʃ
+кулак	kulak	
+көз	köz	kʉz
+мурун	murun	
+ооз	ooz	
+тиш	tiş	
+тил	til	til
+тырмак	tırmak	
+бут	but	
+бут	but	
+тизе	tize	
+кол	kol	qol
+канат	kanat	
+курсак	kursak	
+ичеги	icegi	
+моюн	moyun	
+арка	arka	
+эмчек	emcek	
+жүрөк	jürök	d͡ʒyˈrøc
+боор	boor	
+ичүү	icüü	
+же	je	
+тиштөө	tiştöö	
+эмүү	emüü	
+түкүрүү	tükürüü	
+кусуу	kusuu	
+үйлөө	üylöö	
+дем алуу	dem aluu	
+күлүү	külüü	
+көрүү	körüü	
+угуу	uguu	
+билүү	bilüü	
+ойлоо	oyloo	
+жыттоо	jıttoo	
+коркуу	korkuu	qorˈquː
+уктоо	uktoo	
+жашоо	jaşoo	
+өлүү	ölüü	
+өлтүрүү	öltürüü	
+согушуу	soguşuu	
+уулоо	uuloo	
+уруу	uruu	
+кесүү	kesüü	
+бөлүү	bölüü	
+саюу	sayuu	
+тырмоо	tırmoo	
+казуу	kazuu	
+сүзүү	süzüü	
+учуу	ucuu	
+басуу	basuu	
+келүү	kelüü	ɟelyː
+жатуу	jatuu	
+отуруу	oturuu	
+туруу	turuu	
+бурулуу	buruluu	
+түшүү	tüşüü	
+берүү	berüü	
+кармоо	karmoo	
+сыгуу	sıguu	
+сүртүү	sürtüü	
+жуу	juu	
+аарчуу	aarcuu	
+тартуу	tartuu	
+түртүү	türtüü	
+ыргытуу	ırgıtuu	
+байлоо	bayloo	
+тигүү	tigüü	
+саноо	sanoo	
+айтуу	aytuu	
+ырдоо	ırdoo	
+ойноо	oynoo	
+калкуу	kalkuu	
+агуу	aguu	
+тоңуу	toŋuu	
+шишүү	şişüü	
+күн	kün	
+ай	ay	
+жылдыз	jıldız	
+суу	suu	
+жаан	jaan	
+дарыя	darıya	dɑˈrɯˈja
+көл	köl	
+деңиз	deŋiz	deˈŋiz
+туз	tuz	
+таш	taş	
+кум	kum	qum
+чаң	caŋ	
+жер	jer	d͡ʒer
+булут	bulut	
+туман	tuman	tuˈmɑn
+асман	asman	
+жел	jel	
+кар	kar	
+муз	muz	
+түтүн	tütün	
+от	ot	
+күл	kül	
+күйүү	küyüü	
+жол	jol	d͡ʒol
+тоо	too	
+кызыл	kızıl	qɯzɯl
+жашыл	jaşıl	d͡ʒaʃɯl
+сары	sarı	sarɯ
+ак	ak	aq
+кара	kara	qara
+түн	tün	
+күн	kün	
+жыл	jıl	d͡ʒɯl
+жылуу	jıluu	
+суук	suuk	suːq
+толук	toluk	
+жаңы	jaŋı	
+эски	eski	
+жакшы	jakşı	
+жаман	jaman	d͡ʒɑˈmɑn
+чирик	cirik	
+кир	kir	
+түз	tüz	
+тоголок	togolok	
+курч	kurc	
+мокок	mokok	
+жылмакай	jılmakay	
+суу	suu	
+кургак	kurgak	
+туура	tuura	
+жакын	jakın	
+алыс	alıs	
+оң	oŋ	
+сол	sol	
+-да	-da	
+-да	-da	
+менен	menen	
+жана	jana	
+-са	-sa	
+анткени	antkeni	
+ат	at	

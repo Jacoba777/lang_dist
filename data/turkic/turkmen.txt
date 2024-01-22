@@ -1,0 +1,207 @@
+men	men	
+sen	sen	
+ol	ol	
+biz	biz	
+siz	siz	
+olar	olar	
+bu	bu	
+şu	şu	
+şu taýda	şu taýda	
+ol ýerde	ol ýerde	
+kim	kim	
+näme	näme	
+nirede	nirede	
+haçan	haçan	
+nähili	nähili	
+däl	däl	
+bary	bary	
+köp	köp	
+birnäçe	birnäçe	
+az	az	
+başga	başga	
+bir	bir	bɪɾ
+ikki	ikki	
+üç	üç	
+dört	dört	
+bäş	bäş	
+uly	uly	
+uzyn	uzyn	
+giňiş	giňiş	
+galyň	galyň	
+agyr	agyr	aɣɯr
+kiçi	kiçi	
+gysga	gysga	
+dar	dar	
+inçe	inçe	
+heleý	heleý	
+erkek	erkek	
+ynsan	ynsan	
+çaga	çaga	
+aýal	aýal	
+är	är	
+eje	eje	
+kaka	kaka	
+haýwan	haýwan	
+balyk	balyk	
+guş	guş	
+it	it	
+bit	bit	bit̪
+ýylan	ýylan	jɯlaːn
+gurt	gurt	
+bag	bag	
+tokaý	tokaý	
+çöp	çöp	
+miwe	miwe	
+tohum	tohum	
+ýaprak	ýaprak	
+kök	kök	
+gabyk	gabyk	
+gül	gül	
+ot	ot	ɔt
+tanap	tanap	
+deri	deri	
+et	et	
+gan	gan	ɡaːn
+süňk	süňk	
+yağ	yağ	
+ýumurtga	ýumurtga	
+şah	şah	
+guýruk	guýruk	
+ýelek	ýelek	
+saç	saç	
+baş	baş	baʃ
+gulak	gulak	ɡʰulak
+көз	көз	
+burun	burun	
+agyz	agyz	aɡɯð
+diş	diş	diːʃ
+dil	dil	
+dyrnak	dyrnak	
+aýak	aýak	
+aýak	aýak	
+dyz	dyz	d̪ɯːð
+el	el	
+ganat	ganat	
+garyn	garyn	
+içege	içege	
+boýun	boýun	bojʊn
+arka	arka	
+emjek	emjek	
+ýürek	ýürek	
+bagyr	bagyr	
+içmek	içmek	
+iýmek	iýmek	
+dişlemek	dişlemek	
+emmek	emmek	
+tüýkürmek	tüýkürmek	
+gusmak	gusmak	
+üflemek	üflemek	
+dem almak	dem almak	
+gülmek	gülmek	
+görmek	görmek	
+eşitmek	eşitmek	
+bilmek	bilmek	
+pikir etmek	pikir etmek	
+ysgamak	ysgamak	
+gorkmak	gorkmak	
+uklamak	uklamak	
+ýaşamak	ýaşamak	
+ölmek	ölmek	
+öldürmek	öldürmek	ølːʏɾˈmøk
+uruşmak	uruşmak	
+awlamak	awlamak	
+patlamak	patlamak	
+kesmek	kesmek	
+ýarylmak	ýarylmak	
+pyçaklamak	pyçaklamak	
+dyrnaçaklamak	dyrnaçaklamak	
+gazmak	gazmak	
+ýüzmek	ýüzmek	
+uçmak	uçmak	
+ýöremek	ýöremek	
+gelmek	gelmek	
+ýatmak	ýatmak	
+oturmak	oturmak	
+durmak	durmak	
+dönmek	dönmek	
+ýykylmak	ýykylmak	
+bermek	bermek	
+tutmak	tutmak	
+sykmak	sykmak	
+oýkamak	oýkamak	
+ýuwmak	ýuwmak	
+süpürmek	süpürmek	
+dartmak	dartmak	
+itmek	itmek	
+atmak	atmak	
+baglamak	baglamak	
+tikmek	tikmek	
+sanamak	sanamak	
+diýmek	diýmek	
+saýramak	saýramak	
+oýnamak	oýnamak	
+ýüzmek	ýüzmek	
+akmak	akmak	
+şatlamak	şatlamak	
+çişmek	çişmek	
+gün	gün	ɡyn
+aý	aý	aːj
+ýyldyz	ýyldyz	jɯldɯð
+suw	suw	θuβ
+ýagyş	ýagyş	
+derýa	derýa	
+köl	köl	
+deňiz	deňiz	deŋið
+duz	duz	duːð
+daş	daş	
+gum	gum	
+çaň	çaň	
+toprak	toprak	
+bulut	bulut	
+duman	duman	
+gök	gök	
+ýel	ýel	ˈjɛl
+gar	gar	
+buz	buz	
+tüsse	tüsse	
+ot	ot	ɔt
+kül	kül	
+ötmek	ötmek	
+ýol	ýol	
+dag	dag	
+gyzyl	gyzyl	
+ýaşyl	ýaşyl	jɑːɕɨl
+sary	sary	
+ak	ak	aːk
+gara	gara	
+gije	gije	
+gün	gün	ɡyn
+ýyl	ýyl	
+ýyly	ýyly	
+sowuk	sowuk	
+doly	doly	
+täze	täze	
+köne	köne	
+ýagşy	ýagşy	yɑɡʃɯ
+		
+çüýrük	çüýrük	
+kirli	kirli	
+göni	göni	
+togalak	togalak	
+ýiti	ýiti	
+kütek	kütek	
+tekiz	tekiz	
+çygly	çygly	
+qury	qury	
+dogry	dogry	
+ýakyn	ýakyn	
+uzak	uzak	
+sag	sag	
+çep	çep	
+		
+		
+bilen	bilen	
+we	we	
+eger	eger	
+çünki	çünki	
+at	at	ɑt

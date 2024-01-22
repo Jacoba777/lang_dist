@@ -26,3 +26,6 @@ symbol	replacement
 ó	o
 ỹ	y
 ë	e
+ŏ	o
+ǎ	a
+ḛ	e
