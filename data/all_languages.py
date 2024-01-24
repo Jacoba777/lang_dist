@@ -17,6 +17,7 @@ from data.mongolic._mongolic import ALL_LANGS as MONGOLIC
 from data.turkic._turkic import ALL_LANGS as TURKIC
 from data.japonic._japonic import ALL_LANGS as JAPONIC
 from data.tungusic._tungusic import TUNGUSIC
+from data.austronesian import AUSTRONESIAN
 from data.austroasiatic._austroasiatic import AUSTROASIATIC
 from data.isolates._isolates import ALL_LANGS as ISOLATES
 from model.lang import Language
@@ -55,14 +56,15 @@ ALL_LANGS: List[Language] = [
     *KOREANIC,
     *TUNGUSIC,
     *AUSTROASIATIC,
+    *AUSTRONESIAN,
     *ISOLATES,
 ]
 
 ALL_LANGS_W_DATA = [lang for lang in ALL_LANGS if lang.get_word_count() >= 10]
 ALL_MODERN_LANGS_W_DATA = [lang for lang in ALL_LANGS_W_DATA if lang.extinct_year is None]
 
-LANGS_TO_USE = [lang for lang in ALL_MODERN_LANGS_W_DATA if lang in [*AUSTROASIATIC]]
-# LANGS_TO_USE = AUSTRO
+# LANGS_TO_USE = [lang for lang in ALL_MODERN_LANGS_W_DATA if lang in [*AUSTRONESIAN]]
+LANGS_TO_USE = ALL_MODERN_LANGS_W_DATA
 
 
 def get_all_langs() -> List[Language]:
