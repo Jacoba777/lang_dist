@@ -1,12 +1,12 @@
 from model.lang import Language
 
-FAMILY = 'east_asian'
+FAMILY = 'koreanic'
 
-JAPANESE = Language('japanese', FAMILY, 128000000, 0)
+JEJU = Language('jeju', FAMILY, 5000)
 KOREAN = Language('korean', FAMILY, 82000000, 0)
 
 
 ALL_LANGS = [
-    # JAPANESE,
+    JEJU,
     KOREAN,
 ]

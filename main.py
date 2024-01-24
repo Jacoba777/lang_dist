@@ -161,5 +161,5 @@ if __name__ == '__main__':
     # show_relative_distance('English', 'Dutch', 'WestFrisian')
     # get_closest_langs("Spanish")
     get_lang_dist_pairs()
-    # get_cluster_hierarchy_v2()
+    get_cluster_hierarchy_v2()
     # node_compare()

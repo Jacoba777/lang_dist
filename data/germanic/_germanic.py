@@ -5,6 +5,8 @@ FAMILY = 'germanic'
 
 ENGLISH_UK = Language('english_uk', FAMILY, 130900000, 1080000000)
 ENGLISH_US = Language('english_us', FAMILY, 242000000, 1080000000)
+ENGLISH_MIDDLE = Language('english_middle', FAMILY, extinct_year=1470)
+ENGLISH_OLD = Language('english_old', FAMILY, extinct_year=1100)
 GERMAN = Language('german', FAMILY, 95000000, 83000000)
 DUTCH = Language('dutch', FAMILY, 25000000, 5000000)
 AFRIKAANS = Language('afrikaans', FAMILY, 7200000, 10300000)
@@ -24,6 +26,8 @@ GOTHIC = Language('gothic', FAMILY, 0, 0)
 ALL_LANGS = [
     ENGLISH_UK,
     ENGLISH_US,
+    ENGLISH_MIDDLE,
+    ENGLISH_OLD,
     GERMAN,
     GOTHIC,
     DUTCH,

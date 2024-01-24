@@ -1,131 +1,131 @@
-私	watashi	ɰᵝa̠ta̠ɕi
-貴方	anata	kipau
-彼	kare	ka̠
-私達	watashitachi	ɰᵝa̠ta̠ɕi̥ta̠t͡ɕi
+我	a	ɰᵝa̠ɾe̞
+あなた	anata	a̠na̠ta̠
+彼	kare	ka̠ɾe̞
+我等	warera	ɰᵝa̠ɾe̞ɾa̠
 貴方達	anatatachi	a̠na̠ta̠ta̠t͡ɕi
 彼等	karera	a̠ɾe̞ɾa̠
-此れ	kore	
-其れ	sore	
-此処	koko	
-其処	soko	
-誰	dare	tare
+これ	kore	ko̞ɾe̞
+あれ	are	a̠ɾe̞
+ここ	koko	ko̞ko̞
+そこ	soko	so̞ko̞
+誰	dare	da̠ɾe̞
 何	nani	na̠ɲ̟i
-何処	doko	
-何時	itsu	nã̠ɲ̟d͡ʑi
-如何	ikaga	ika̠
-無い	-nai	na̠i
+どこ	doko	do̞ko̞
+何時	nanji	nã̠ɲ̟d͡ʑi
+如何	dō	do̞ː
+無い	nai	na̠i
 全て	subete	sɨᵝbe̞te̞
-多い	ooi	o̞ːi
+多い	ōi	o̞ːi
 少し	sukoshi	sɨ̥ᵝko̞ɕi
 少ない	sukunai	sɨ̥ᵝkɯ̟ᵝna̠i
 他	hoka	ho̞ka̠
-一	hito	itɨ
-二	futa	ɲ̟i
-三	mi	*/sam
-四	yo	⟨yo2⟩
-五	itsu	it͡sɨᵝ
-大きい	ōkii	opoki
+一	ichi	it͡ɕi
+二	ni	ɲ̟i
+三	san	sã̠ɴ
+四	yon	jo̞ɴ
+五	go	ɡo̞
+大きい	ōkii	o̞ːkʲiː
 長い	nagai	na̠ɡa̠i
-広い	hiroi	
-厚い	atsui	
+広い	hiroi	çiɾo̞i
+厚い	atsui	a̠t͡sɨᵝi
 重い	omoi	o̞mo̞i
-小さい	chīsai	tipisasi
-短い	mijikai	⟨mi1zikasi⟩
+小さい	chīsai	t͡ɕiːsa̠i
+短い	mijikai	mʲiʑika̠i
 狭い	semai	se̞ma̠i
 細い	hosoi	ho̞so̞i
-女	onna	⟨womi1na⟩
-男	otoko	⟨woto2ko1⟩
-人	hito	⟨pi1to2⟩
-子	ko	⟨ko1⟩
+女	onna	õ̞nːa̠
+男	otoko	o̞to̞ko̞
+人	hito	çi̥to̞
+子供	kodomo	ko̞do̞mo̞
 妻	tsuma	t͡sɨᵝma̠
 夫	otto	o̞t̚to̞
-母	haha	haha
+母	haha	ha̠ha̠
 父	chichi	t͡ɕi̥̥t͡ɕi
-獣	kemono	ke̞da̠mo̞no̞
-魚	uo	uwo
-鳥	tori	⟨to2ri⟩
+動物	dōbutsu	do̞ːbɯ̟ᵝt͡sɨᵝ
+魚	uo	ɯ̟ᵝo̞
+鳥	tori	to̞ɾʲi
 犬	inu	inɯ̟ᵝ
 虱	shirami	ɕiɾa̠mʲi
-蛇	hebi	pemi
-蚯蚓	mimizu	mʲimʲizɨᵝ
-木	ki	⟨ki2⟩
+蛇	hebi	he̞bʲi
+		
+木	ki	kʲi
 森	mori	mo̞ɾʲi
-杖	tsue	⟨tuwe⟩
+杖	tsue	t͡sɨᵝe̞
 果物	kudamono	kɯ̟ᵝda̠mo̞no̞
 種	tane	ta̠ne̞
-葉	ha	pa
+葉	ha	ha̠
 根	ne	ne̞
 木肌	kihada	kʲiha̠da̠
-花	hana	pana
+花	hana	ha̠na̠
 草	kusa	kɯ̟̊ᵝsa̠
-縄	nawa	
+綱	tsuna	t͡sɨᵝna̠
 皮	kawa	ka̠ɰᵝa̠
 肉	shishi	ɕiɕi
 血	chi	t͡ɕi
-骨	hone	pone
-脂	abura	
+骨	hone	ho̞ne̞
+脂	abura	a̠bɯ̟ᵝɾa̠
 卵	tamago	ta̠ma̠ɡo̞
-角	tsuno	ka̠do̞
+角	tsuno	t͡sɨᵝno̞
 尾	o	o̞
 羽	hane	ha̠ne̞
 髪	kami	ka̠mʲi
 頭	atama	a̠ta̠ma̠
-耳	mimi	⟨mi1mi1⟩
-目	me	mo̞kɯ̟ᵝ
+耳	mimi	mʲimʲi
+目	me	me̞
 鼻	hana	ha̠na̠
-口	kuchi	kɯ̟ᵝ
-歯	ha	pa
+口	kuchi	kɯ̟̊ᵝt͡ɕi
+歯	ha	ha̠
 舌	shita	ɕi̥ta̠
 爪	tsume	t͡sɨᵝme̞
-足	ashi	so̞kɯ̟ᵝ
-脚	ashi	kʲa̠kɯ̟ᵝ
+足	ashi	a̠ɕi
+足	ashi	a̠ɕi
 膝	hiza	çiza̠
 手	te	te̞
-翼	tsubasa	tubasa
+翼	tsubasa	t͡sɨᵝba̠sa̠
 腹	hara	ha̠ɾa̠
-腸	harawata	ɰᵝa̠ta̠
+腸	wata	ɰᵝa̠ta̠
 首	kubi	kɯ̟ᵝbʲi
-背	se	
-胸 	chichi 	mɯ̟ᵝna̠
-心	kokoro	⟨ko2ko2ro2⟩
-肝	kimo	kʲimo̞
-飲む	nomu	
+背	se	se̞
+胸	mune	mɯ̟ᵝna̠
+		
+胆	kimo	kʲimo̞
+飲む	nomu	no̞mɯ̟ᵝ
 食べる	taberu	ta̠be̞ɾɯ̟ᵝ
 噛む	kamu	ka̠mɯ̟ᵝ
-吸う	suu	sɨᵝɯ̟ᵝ
+吸う	sū	sɨᵝɯ̟ᵝ
 唾を吐く	tsuba o haku	
 吐く	haku	ha̠kɯ̟ᵝ
 吹く	fuku	ɸɯ̟̊ᵝkɯ̟ᵝ
-息をする	iki o suru	
+		
 笑う	warau	ɰᵝa̠ɾa̠ɯ̟ᵝ
 見る	miru	mʲiɾɯ̟ᵝ
-聞く	kiku	岐加受
+聞く	kiku	kʲi̥kɯ̟ᵝ
 知る	shiru	ɕiɾɯ̟ᵝ
-思う	omou	
+思う	omou	o̞mo̞ɯ̟ᵝ
 嗅ぐ	kagu	ka̠ɡɯ̟ᵝ
-恐れる	osoreru	
-眠る、寝る	neru	
+恐れる	osoreru	o̞so̞ɾe̞ɾɯ̟ᵝ
+寝る	neru	ne̞ɾɯ̟ᵝ
 生きる	ikiru	ikʲiɾɯ̟ᵝ
 死ぬ	shinu	ɕinɯ̟ᵝ
 殺す	korosu	ko̞ɾo̞sɨᵝ
-闘う	tatakau	
+戦う	tatakau	ta̠ta̠ka̠ɯ̟ᵝ
 狩る	karu	ka̠ɾɯ̟ᵝ
 叩く	tataku	ta̠ta̠kɯ̟ᵝ
-切る	kiru	⟨ki1ru⟩
+切る	kiru	kʲiɾɯ̟ᵝ
 割る	waru	ɰᵝa̠ɾɯ̟ᵝ
 刺す	sasu	sa̠sɨᵝ
 掻く	kaku	ka̠kɯ̟ᵝ
 掘る	horu	ho̞ɾɯ̟ᵝ
-泳ぐ	oyogu	
+泳ぐ	oyogu	o̞jo̞ɡɯ̟ᵝ
 飛ぶ	tobu	to̞bɯ̟ᵝ
 歩く	aruku	a̠ɾɯ̟ᵝkɯ̟ᵝ
 来る	kuru	kɯ̟ᵝɾɯ̟ᵝ
 寝る	neru	ne̞ɾɯ̟ᵝ
 座る	suwaru	sɨᵝɰᵝa̠ɾɯ̟ᵝ
-起きる	okiru	o̞kʲiɾɯ̟ᵝ
+立つ	tatsu	ta̠t͡sɨᵝ
 回る	mawaru	ma̠ɰᵝa̠ɾɯ̟ᵝ
-落ちる	ochiru	otu
-与える	ataeru	
+落ちる	ochiru	o̞t͡ɕiɾɯ̟ᵝ
+与える	ataeru	a̠ta̠e̞ɾɯ̟ᵝ
 持つ	motsu	mo̞t͡sɨᵝ
 絞る	shiboru	ɕibo̞ɾɯ̟ᵝ
 擦る	kosuru	sɨᵝɾɯ̟ᵝ
@@ -135,73 +135,73 @@
 押す	osu	o̞sɨᵝ
 投げる	nageru	na̠ɡe̞ɾɯ̟ᵝ
 結ぶ	musubu	mɯ̟ᵝsɨᵝbɯ̟ᵝ
-縫う	nuu	nupu
-数える	kazoeru	kazuapu
-言う	iu	ipu
-歌う	utau	
+縫う	nuu	nɯ̟ᵝː
+数える	kazoeru	ka̠zo̞e̞ɾɯ̟ᵝ
+言う	iu	jɯ̟ᵝː
+歌う	utau	ɯ̟ᵝta̠ɯ̟ᵝ
 遊ぶ	asobu	a̠so̞bɯ̟ᵝ
 浮く	uku	ɯ̟ᵝkɯ̟ᵝ
 流れる	nagareru	na̠ɡa̠ɾe̞ɾɯ̟ᵝ
 凍る	kōru	ko̞ːɾɯ̟ᵝ
 膨らむ	fukuramu	ɸɯ̟ᵝkɯ̟ᵝɾa̠mɯ̟ᵝ
-日	hi	nʲitɨ
-月	tsuki	⟨tuki2⟩
-星	hoshi	posi
-水	mizu	⟨mi1du⟩
-雨	ame	⟨ame2⟩
-川	kawa	kapa
+日	hi	çi
+月	tsuki	t͡sɨ̥ᵝkʲi
+星	hoshi	ho̞ɕi
+水	mizu	mʲizɨᵝ
+雨	ame	a̠me̞
+川	kawa	ka̠ɰᵝa̠
 湖	mizuumi	mʲizɨᵝɯ̟ᵝmʲi
-海	umi	⟨umi1⟩
-塩	shio	⟨sipo⟩
-石	ishi	⟨isi⟩
+海	umi	ɯ̟ᵝmʲi
+塩	shio	ɕio̞
+石	ishi	iɕi
 砂	suna	sɨᵝna̠
-塵	chiri	d͡ʑĩɴ
+塵	chiri	
 土	tsuchi	t͡sɨ̥ᵝt͡ɕi
-雲	kumo	⟨kumo1⟩
-霧	kiri	
-空	sora	⟨so1ra⟩
+雲	kumo	kɯ̟ᵝmo̞
+霧	kiri	kiri
+空	sora	so̞ɾa̠
 風	kaze	ka̠ze̞
-雪	yuki	
-氷	kōri	⟨ko2pori⟩
-煙	kemuri	keburi
-火	hi	⟨pi2⟩
+雪	yuki	jɯ̟ᵝkʲi
+氷	kōri	ko̞ːɾʲi
+煙	kemuri	ke̞mɯ̟ᵝɾʲi
+火	hi	çi
 灰	hai	ha̠i
-燃える	moeru	moju
-道	michi	dau
+燃える	moeru	mo̞e̞ɾɯ̟ᵝ
+道	michi	mʲit͡ɕi
 山	yama	ja̠ma̠
 赤	aka	a̠ka̠
 緑	midori	mʲido̞ɾʲi
 黄	ki	kʲi
-白	shiro	⟨siro1⟩
-黒	kuro	⟨kuro1⟩
-夜	yoru	⟨yo1ru⟩
-日	hi	nʲitɨ
-年	toshi	nẽ̞ɴ
-暖かい	atatakai	
+白	shiro	ɕiɾo̞
+黒	kuro	kɯ̟ᵝɾo̞
+夜	yoru	jo̞ɾɯ̟ᵝ
+日	hi	çi
+年	toshi	to̞ɕi
+暖かい	atatakai	a̠ta̠ta̠ka̠i
 寒い	samui	sa̠mɯ̟ᵝi
 満ちた	michita	
-新しい	atarashii	arataɕi
-古い	furui	⟨puruki1⟩
-良い	ii	joɕi
+新	nī	ɲ̟i
+古い	furui	ɸɯ̟ᵝɾɯ̟ᵝi
+良い	yoi	jo̞i
 悪い	warui	ɰᵝa̠ɾɯ̟ᵝi
 腐った	kusatta	
 汚い	kitanai	kʲi̥ta̠na̠i
 真っ直ぐ	massugu	ma̠sːɯ̟ᵝɡɯ̟ᵝ
-丸い	marui	
+丸い	marui	ma̠ɾɯ̟ᵝi
 鋭い	surudoi	sɨᵝɾɯ̟ᵝdo̞i
-鈍い	nibui	no̞ɾo̞i
+鈍い	nibui	ɲ̟ibɯ̟ᵝi
 滑らか	nameraka	
 濡れた	nureta	
 乾いた	kawaita	
-正しい	tadashii	ta̠da̠ɕii
+正しい	tadashī	ta̠da̠ɕii
 近い	chikai	t͡ɕi̥ka̠i
 遠い	tōi	to̞ːi
 右	migi	mʲiɡʲi
 左	hidari	çida̠ɾʲi
-	de	
-	de	
-	to	
-	to	
-若し	moshi	
-	kara	
+で	de	de̞
+で	de	de̞
+と	to	to̞
+と	to	to̞
+もし	moshi	mo̞ɕi
+から	kara	ka̠ɾa̠
 名	na	na̠
