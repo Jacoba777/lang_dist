@@ -1,29 +1,12 @@
-ja
-tɪ
-ʋʲin
-mɪ
-ʋɪ
 
-t͡sɛi̯
-tɔi̯
-tut
-tam
-xtɔ
-ʃt͡ʃɔ
-dɛ
 
-jak
-nɛ
 
 
 
 
 
 
-dʋa
-trɪ
 
-pjatʲ
 
 
 
@@ -43,17 +26,12 @@ pjatʲ
 
 
 
-ptax
-pɛs
 
 
 
 
-lʲis
 
-plʲid
 
-ɫɪst
 
 
 
@@ -61,20 +39,13 @@ plʲid
 
 
 
-krɔu̯
 
-ʒɪr
 
-rʲiɦ
-xʋʲist
 
 
 
 
 
-nʲis
-rɔt
-zub
 
 
 
@@ -148,22 +119,17 @@ zub
 
 
 
-dɔʃt͡ʃ
 
 
 
-sʲilʲ
 
 
-pɪɫ
 
 
 
 
 
-sʲnʲiɦ
 
-dɪm
 
 
 
@@ -174,9 +140,6 @@ dɪm
 
 
 
-nʲit͡ʃ
-dɛnʲ
-rʲik
 
 
 
@@ -198,10 +161,47 @@ rʲik
 
 
 
-na
-ʋ
-z
-i
 
-bɔ
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 

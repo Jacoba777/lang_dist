@@ -1,26 +1,26 @@
 from typing import List
-
-from data.germanic._germanic import ALL_LANGS as GERMANIC
-from data.romance._romance import ALL_LANGS as ROMANCE
-from data.baltic._baltic import ALL_LANGS as BALTIC
-from data.slavic._slavic import ALL_LANGS as SLAVIC
-from data.celtic._celtic import ALL_LANGS as CELTIC
-from data.indo_aryan._indo_aryan import ALL_LANGS as INDO_ARYAN
-from data.iranian._iranian import ALL_LANGS as IRANIAN
-from data.dravidian._dravidian import ALL_LANGS as DRAVIDIAN
-from data.uralic._uralic import ALL_LANGS as URALIC
-from data.caucasian._caucasian import ALL_LANGS as CAUCASIAN
-from data.indo_euro_other._indo_euro_other import ALL_LANGS as INDO_EURO_OTHER
-from data.koreanic._koreanic import ALL_LANGS as KOREANIC
-from data.chukotko_kamchatkan._chukotko_kamchatkan import ALL_LANGS as CHUKOTKO_KAMCHATKAN
-from data.mongolic._mongolic import ALL_LANGS as MONGOLIC
-from data.turkic._turkic import ALL_LANGS as TURKIC
-from data.japonic._japonic import ALL_LANGS as JAPONIC
-from data.tungusic._tungusic import TUNGUSIC
-from data.austronesian import AUSTRONESIAN
-from data.austroasiatic._austroasiatic import AUSTROASIATIC
-from data.isolates._isolates import ALL_LANGS as ISOLATES
 from model.lang import Language
+
+from data.austroasiatic import AUSTROASIATIC
+from data.austronesian import AUSTRONESIAN
+from data.baltic import BALTIC
+from data.caucasian import CAUCASIAN
+from data.celtic import CELTIC
+from data.chukotko_kamchatkan import CHUKOTKO_KAMCHATKAN
+from data.dravidian import DRAVIDIAN
+from data.germanic import GERMANIC
+from data.indo_aryan import INDO_ARYAN
+from data.indo_euro_other import INDO_EURO_OTHER
+from data.iranian import IRANIAN
+from data.isolates import ISOLATES
+from data.japonic import JAPONIC
+from data.koreanic import KOREANIC
+from data.mongolic import MONGOLIC
+from data.romance import ROMANCE
+from data.slavic import SLAVIC
+from data.tungusic import TUNGUSIC
+from data.turkic import TURKIC
+from data.uralic import URALIC
 
 classifier = {
     'identical': (0, 1),
