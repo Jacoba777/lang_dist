@@ -32,3 +32,4 @@ symbol	replacement
 ǝ	ə
 ṳ	u
 ï	i
+ḭ	i

@@ -1,4 +1,7 @@
 from typing import List
+
+from data.hmong_mein import HMONG_MEIN
+from data.kra_dai import KRA_DAI
 from model.lang import Language
 
 from data.austroasiatic import AUSTROASIATIC
@@ -34,28 +37,34 @@ classifier = {
 }
 
 INDO_EUROPEAN = [
-    *GERMANIC,
-    *ROMANCE,
     *BALTIC,
-    *SLAVIC,
     *CELTIC,
+    *GERMANIC,
     *INDO_ARYAN,
     *IRANIAN,
+    *ROMANCE,
+    *SLAVIC,
     *INDO_EURO_OTHER,
+]
+
+ASIAN = [
+    *AUSTROASIATIC,
+    *CHUKOTKO_KAMCHATKAN,
+    *DRAVIDIAN,
+    *HMONG_MEIN,
+    *JAPONIC,
+    *KOREANIC,
+    *KRA_DAI,
+    *MONGOLIC,
+    *TUNGUSIC,
+    *TURKIC,
 ]
 
 ALL_LANGS: List[Language] = [
     *INDO_EUROPEAN,
+    *ASIAN,
     *CAUCASIAN,
-    *DRAVIDIAN,
     *URALIC,
-    *CHUKOTKO_KAMCHATKAN,
-    *MONGOLIC,
-    *TURKIC,
-    *JAPONIC,
-    *KOREANIC,
-    *TUNGUSIC,
-    *AUSTROASIATIC,
     *AUSTRONESIAN,
     *ISOLATES,
 ]
@@ -63,8 +72,8 @@ ALL_LANGS: List[Language] = [
 ALL_LANGS_W_DATA = [lang for lang in ALL_LANGS if lang.get_word_count() >= 10]
 ALL_MODERN_LANGS_W_DATA = [lang for lang in ALL_LANGS_W_DATA if lang.extinct_year is None]
 
-# LANGS_TO_USE = [lang for lang in ALL_MODERN_LANGS_W_DATA if lang in [*AUSTRONESIAN]]
-LANGS_TO_USE = ALL_MODERN_LANGS_W_DATA
+LANGS_TO_USE = [lang for lang in ALL_MODERN_LANGS_W_DATA if lang in [*ASIAN]]
+# LANGS_TO_USE = ASIAN
 
 
 def get_all_langs() -> List[Language]:
