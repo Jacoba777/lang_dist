@@ -1,0 +1,207 @@
+我	ngo5	ŋɔː¹³
+你	nei5	nei¹³
+佢	keoi5	kʰɵy¹³
+我哋	ngo5 dei6	ŋɔː¹³ tei²²
+你哋	nei5 dei6	nei¹³ tei²²
+佢哋	keoi5 dei6	kʰɵy¹³ tei²²
+呢	ni1	niː⁵⁵
+嗰	go2	kɔː³⁵
+呢度	ni1 dou6	niː⁵⁵ tou²²
+嗰度	go2 dou6	kɔː³⁵ tou²²
+邊個	bin1 go3	piːn⁵⁵ kɔː³³
+乜	mat1	mɐt⁵
+邊度	bin1 dou6	piːn⁵⁵ tou²²
+幾時	gei2 si4	kei³⁵ siː²¹
+點樣	dim2 joeng2	tiːm³⁵ jœːŋ³⁵
+唔	m4	
+全部	cyun4 bou6	tsʰyːn²¹ pou²²
+多	do1	tɔː⁵⁵
+啲	di1	tiː⁵⁵
+少	siu2	siːu³⁵
+其他	kei4 taa1	kʰei²¹ tʰaː⁵⁵
+一	jat1	jɐt⁵
+二	ji6	jiː²²
+三	saam1	saːm⁵⁵
+四	sei3	sei³³
+五	ng5	
+大	daai6	taːi²²
+長	coeng4	tsʰœːŋ²¹
+闊	fut3	fuːt³
+厚	hau5	hɐu¹³
+重	cung5	tsʰʊŋ¹³
+細	sai3	sɐi³³
+短	dyun2	tyːn³⁵
+窄	zaak3	tsaːk³³
+薄	bok6	pɔːk²²
+女人	neoi5 jan4-2	nɵy¹³ jɐn²¹⁻³⁵
+男人	naam4 jan4-2	naːm²¹ jɐn²¹⁻³⁵
+人	jan4	jɐn²¹
+細路	sai3 lou6	sɐi³³ lou²²
+老婆	lou5 po4	lou¹³ pʰɔː²¹
+老公	lou5 gung1	lou¹³ kʊŋ⁵⁵
+阿媽	aa3 maa1	aː³³ maː⁵⁵
+阿爸	aa3 baa4	aː³³ paː²¹
+動物	dung6 mat6	tʊŋ²² mɐt²²
+魚	jyu4-2	jyː²¹⁻³⁵
+雀	zoek3-2	tsœːk³³⁻³⁵
+狗	gau2	kɐu³⁵
+蝨	sat1	sɐt⁵⁵
+蛇	se4	sɛː²¹
+蟲	cung4	tsʰʊŋ²¹
+樹	syu6	syː²²
+森林	sam1 lam4	sɐm⁵⁵ lɐm²¹
+樹枝	syu6 zi1	syː²² tsiː⁵⁵
+生果	saang1 gwo2	saːŋ⁵⁵ kʷɔː³⁵
+種子	zung2 zi2	tsʊŋ³⁵ tsiː³⁵
+葉	jip6	jiːp²
+根	gan1	kɐn⁵⁵
+樹皮	syu6 pei4	syː²² pei²¹
+花	faa1	faː⁵⁵
+草	cou2	tsʰou³⁵
+繩	sing4-2	sɪŋ²¹⁻³⁵
+皮	pei4	pʰei²¹
+肉	juk6	jʊk²²
+血	hyut3	hyːt³
+骨	gwat1	kʷɐt⁵⁵
+脂肪	zi1 fong1	tsi⁵⁵ fɔːŋ⁵⁵
+蛋	daan6-2	taːn²²⁻³⁵
+角	gok3	kɔːk³
+尾	mei5	mei¹³
+羽毛	jyu5 mou4	jyː¹³ mou²¹
+頭髮	tau4 faat3	tʰɐu²¹ faːt³³
+頭	tau4	tʰɐu²¹
+耳仔	ji5 zai2	ji¹³ tsɐi³⁵
+眼	ngaan5	ŋaːn¹³
+鼻	bei6	pei²²
+嘴	zeoi2	tsɵy³⁵
+牙	ngaa4	ŋaː²¹
+脷	lei6	lei²²
+指甲	zi2 gaap3	tsiː³⁵ kaːp³³
+腳	goek3	kœːk³
+腳	goek3	kœːk³
+膝頭	sat1 tau4	sɐt⁵ tʰɐu²¹
+手	sau2	sɐu³⁵
+翼	jik6	jɪk²
+肚	tou5	tʰou¹³
+腸	coeng4-2	tsœːŋ²¹⁻³⁵
+頸	geng2	kɛːŋ³⁵
+背脊	bui3 zek3	puːi³³ tsɛːk³
+胸	hung1	hʊŋ⁵⁵
+心	sam1	sɐm⁵⁵
+肝	gon1	kɔːn⁵⁵
+飲	jam2	jɐm³⁵
+食	sik6	sɪk²
+咬	ngaau5	ŋaːu¹³
+吸	kap1	tsyːt³³
+𦧲	loe1	lœː⁵⁵
+嘔	au2	ɐu³⁵
+吹	ceoi1	tsɵy⁵⁵
+敨氣	tau2 hei3	tʰɐu³⁵ hei³³
+笑	siu3	siu³³
+見	gin3	kiːn³³
+聽	teng1	tʰɛːŋ⁵⁵
+知	zi1	tsiː⁵⁵
+諗	nam2	nɐm³⁵
+聞	man4	mɐn²¹
+驚	geng1	kɛːŋ⁵⁵
+瞓	fan3	fɐn³³
+生	saang1	saːŋ⁵⁵
+死	sei2	sei³⁵
+殺	saat3	saːt³
+爭	zaang1	tsaːŋ⁵⁵
+打獵	daa2 lip6	taː³⁵ liːp²
+打	daa2	taː³⁵
+切	cit3	tsʰiːt³
+分開	fan1 hoi1	fɐn⁵⁵ hɔːy⁵⁵
+插	caap3	tsʰaːp³
+刮	gwaat3	kʷaːt³
+掘	gwat6	kʷɐt²
+游水	jau4 seoi2	jɐu²¹ sɵy³⁵
+飛	fei1	fei⁵⁵
+行	haang4	haːŋ²¹
+嚟	lai4	lɐi²¹
+瞓	fan3	fɐn³³
+坐	co5	tsʰɔː¹³
+企	kei5	kʰei¹³
+轉	zyun3	tsyːn³³
+跌	dit3	tiːt³
+畀	bei2	pei³⁵
+揸	zaa1	tsaː⁵⁵
+挾	gep6	kɛːp²
+擦	caat3	tsʰaːt³
+洗	sai2	sɐi³⁵
+抹	maat3	maːt³
+拉	laai1	laːi⁵⁵
+推	teoi1	tʰɵy⁵⁵
+抌	dam2	tɐm³⁵
+綁	bong2	pɔːŋ³⁵
+聯	lyun4	lyːn²¹
+數	sou2	sou³⁵
+講	gong2	kɔŋ³⁵
+唱	coeng3	tsʰœŋ³³
+玩	waan2	waːn³⁵
+浮	fau4	fɐu²¹
+流	lau4	lɐu²¹
+結冰	git3 bing1	kiːt³ pɪŋ⁵⁵
+脹	zoeng3	tsœŋ³³
+太陽	taai3 joeng4	tʰaːi³³ jœŋ²¹
+月亮	jyut6 loeng6	jyːt² lœŋ²²
+星	sing1	sɪŋ⁵
+水	seoi2	sɵy³⁵
+雨	jyu5	jyː¹³
+河	ho4	hɔː²¹
+湖	wu4	wuː²¹
+海	hoi2	hɔːy³⁵
+鹽	jim4	jiːm²¹
+石	sek6	sɛːk²
+沙	saa1	saː⁵⁵
+塵	can4	tsʰɐn²¹
+泥	nai4	nɐi²¹
+雲	wan4	wɐn²¹
+霧	mou6	mou²²
+天	tin1	tiːn⁵⁵
+風	fung1	fʊŋ⁵⁵
+雪	syut3	syːt³
+冰	bing1	pɪŋ⁵⁵
+煙	jin1	jiːn⁵⁵
+火	fo2	fɔː³⁵
+灰	fui1	fuːi⁵⁵
+燒	siu1	siːu⁵⁵
+路	lou6	lou²²
+山	saan1	saːn⁵⁵
+紅	hung4	hʊŋ²¹
+綠	luk6	lʊk²
+黃	wong4	wɔŋ²¹
+白	baak6	paːk²
+黑	hak1	hɐk⁵
+夜晚	je6 maan5	jɛː²² maːn¹³
+日頭	jat6 tau4-2	jɐt² tʰɐu²¹⁻³⁵
+年	nin4	nin²¹
+暖	nyun5	nyːn¹³
+凍	dung3	tʊŋ³³
+滿	mun5	muːn¹³
+新	san1	sɐn⁵⁵
+老	lou5	lou¹³
+好	hou2	hou³⁵
+壞	waai6	waːi²²
+爛	laan6	laːn²²
+污糟	wu1 zou1	wuː⁵⁵ tsou⁵⁵
+直	zik6	tsɪk²
+圓	jyun4	jyːn²¹
+利	lei6	lei²²
+鈍	deon6	tɵn²²
+滑	waat6	waːt²
+濕	sap1	sɐp⁵
+乾	gon1	kɔːn⁵⁵
+啱	ngaam1	ŋaːm⁵⁵
+近	kan5	kʰɐn¹³
+遠	jyun5	jyːn¹³
+右	jau6	jɐu²²
+左	zo2	tsɔː³⁵
+喺	hai2	hɐi³⁵
+裡便	leoi5 bin6	lɵy¹³ biːn²²
+同	tung4	tʰʊŋ²¹
+同	tung4	tʰʊŋ²¹
+如果	jyu4 gwo2	jyː²¹ kʷɔː³⁵
+因為	jan1 wai6	jɐn⁵⁵ wɐi²²
+名	meng4-2	mɛːŋ²¹⁻³⁵

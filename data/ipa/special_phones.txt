@@ -33,3 +33,9 @@ symbol	replacement
 ṳ	u
 ï	i
 ḭ	i
+ʅ	ɨ
+ɿ	ɯ
+ṵ	u
+ē	e
+ō	o
+ʮ	u

@@ -2,6 +2,7 @@ from typing import List
 
 from data.hmong_mein import HMONG_MEIN
 from data.kra_dai import KRA_DAI
+from data.sino_tibetan import SINO_TIBETAN
 from model.lang import Language
 
 from data.austroasiatic import AUSTROASIATIC
@@ -56,6 +57,7 @@ ASIAN = [
     *KOREANIC,
     *KRA_DAI,
     *MONGOLIC,
+    *SINO_TIBETAN,
     *TUNGUSIC,
     *TURKIC,
 ]
@@ -72,8 +74,8 @@ ALL_LANGS: List[Language] = [
 ALL_LANGS_W_DATA = [lang for lang in ALL_LANGS if lang.get_word_count() >= 10]
 ALL_MODERN_LANGS_W_DATA = [lang for lang in ALL_LANGS_W_DATA if lang.extinct_year is None]
 
-LANGS_TO_USE = [lang for lang in ALL_MODERN_LANGS_W_DATA if lang in [*ASIAN]]
-# LANGS_TO_USE = ASIAN
+LANGS_TO_USE = [lang for lang in ALL_MODERN_LANGS_W_DATA if lang in [*SINO_TIBETAN]]
+# LANGS_TO_USE = ASIAN  ɨ
 
 
 def get_all_langs() -> List[Language]:

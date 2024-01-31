@@ -1,0 +1,207 @@
+我	wǒ	uɔ²¹⁴
+你	nǐ	ni²¹⁴
+他	tā	tʰa⁵⁵
+我們	wǒmen	uɔ²¹ mən⁰
+你們	nǐmen	ni²¹ mən⁰
+他們	tāmen	tʰa⁵⁵ mən⁰
+這	zhè	tʂɤ⁵¹
+那	nà	na⁵¹
+這裡	zhèli	tʂɤ⁵¹ li⁰
+那裡	nàli	na⁵¹ li⁰
+誰	shéi	ʂei³⁵
+什麼	shénme	ʂən³⁵ mə⁰
+哪裡	nǎli	na³⁵ li⁰
+什麼時候	shénmē shíhòu	ʂən³⁵ mə⁵⁵ ʂʐ³⁵ xou⁵¹
+如何	rúhé	ʐu³⁵ xɤ³⁵
+不	bù	pu⁵¹
+全部	quánbù	tɕʰyɛn³⁵ pu⁵¹
+多	duō	tuɔ⁵⁵
+一些	yīxiē	ji⁵³ ɕiɛ⁵⁵
+少	shǎo	ʂɑu²¹⁴
+其他	qítā	tɕʰi³⁵ tʰa⁵⁵
+一	yī	i⁵⁵
+二	èr	ɑɻ⁵¹
+三	sān	san⁵⁵
+四	sì	sɿ⁵¹
+五	wǔ	u²¹⁴
+大	dà	ta⁵¹
+長	cháng	tʂɑŋ³⁵
+寬	kuān	kʰuan⁵⁵
+厚	hòu	xou⁵¹
+重	zhòng	tʂoŋ⁵¹
+小	xiǎo	ɕiɑu²¹⁴
+短	duǎn	tuan²¹⁴
+窄	zhǎi	tʂai²¹⁴
+薄	báo	pɑu³⁵
+女人	nǚrén	ny²¹ ʐən³⁵
+男人	nánrén	nan³⁵ ʐən³⁵
+人	rén	ʐən³⁵
+孩子	háizi	xai³⁵ tsɿ⁰
+妻子	qīzi	tɕi⁵⁵ tsɿ⁰
+丈夫	zhàngfu	tʂɑŋ⁵¹ fu⁰
+母親	mǔqīn	mu²¹ tɕin⁵⁵
+父親	fùqīn	fu⁵¹ tɕin⁵⁵
+動物	dòngwù	toŋ⁵¹ u⁵¹
+魚	yú	y³⁵
+鳥	niǎo	niɑu²¹⁴
+狗	gǒu	kou²¹⁴
+虱	shī	ʂʐɨ⁵⁵
+蛇	shé	ʂɤ³⁵
+蟲	chóng	tʂʰoŋ³⁵
+樹	shù	ʂu⁵¹
+森林	sēnlín	sən⁵⁵ lin³⁵
+樹枝	shùzhī	ʂu⁵¹ tʂʐ⁵⁵
+水果	shǔiguǒ	ʂuei³⁵ kuɔ²¹⁴
+種子	zhǒngzi	tʂoŋ²¹ tsɿ⁰
+葉	yè	iɛ⁵¹
+根	gēn	kən⁵⁵
+樹皮	shùpí	ʂu⁵¹ pʰi³⁵
+花	huā	xua⁵⁵
+草	cǎo	tsɑu²¹⁴
+繩	shéng	ʂɤŋ³⁵
+皮	pí	pʰi³⁵
+肉	ròu	ʐou⁵¹
+血	xiě	ɕiɛ²¹⁴
+骨	gǔ	ku²¹⁴
+脂肪	zhīfáng	tʂʐ⁵⁵ faŋ³⁵
+蛋	dàn	tan⁵¹
+角	jiǎo	tɕiɑu²¹⁴
+尾	wěi	uei²¹⁴
+羽毛	yǔmáo	y²¹ mɑu³⁵
+頭髮	tóufa	tʰou³⁵ fa⁰
+頭	tóu	tʰou³⁵ fa⁰
+耳朵	ěrduo	aɻ²¹ tuɔ⁰
+眼睛	yǎnjing	iɛn²¹ tɕiŋ⁰
+鼻	bí	pi³⁵
+嘴	zuǐ	tsuei²¹⁴
+牙齒	yáchǐ	ia³⁵ tʂʰʐ²¹⁴
+舌	shé	ʂɤ³⁵
+指甲	zhǐjia	tʂʐ³⁵ tɕia²¹
+腳	jiǎo	tɕiɑu²¹⁴
+腿	tuǐ	tʰuei²¹⁴
+膝	xī	ɕi⁵⁵
+手	shǒu	ʂou²¹⁴
+翼	yì	i⁵¹
+肚子	dùzi	tu⁵¹ tsɿ⁰
+腸子	chángzi	tʂaŋ³⁵ tsɿ⁰
+脖子	bózi	pwɔ³⁵ tsɿ⁰
+背	bèi	pei⁵¹
+胸	xiōng	ɕyoŋ⁵⁵
+心臟	xīnzàng	ɕin⁵⁵ tsaŋ⁵¹
+肝	gān	kan⁵⁵
+喝	hē	xɤ⁵⁵
+吃	chī	tʂʐɨ⁵⁵
+咬	yǎo	iɑu²¹⁴
+吸	xī	ɕi⁵⁵
+吐	tǔ	tʰu²¹⁴
+嘔	ǒu	ou²¹⁴
+吹	chuī	tʂʰuei⁵⁵
+呼吸	hūxī	xu⁵⁵ ɕi⁵⁵
+笑	xiào	ɕiau⁵¹
+看	kàn	kʰan⁵¹
+聼	tīng	tʰiŋ⁵⁵
+知道	zhīdào	tʂʐ⁵⁵ tau⁵¹
+想	xiǎng	ɕiɑŋ²¹⁴
+嗅	xiù	ɕiou⁵¹
+怕	pà	pʰa⁵¹
+睡	shuì	ʂuei⁵¹
+活	huó	xuɔ³⁵
+死	sǐ	sɿ²¹⁴
+殺	shā	ʂa⁵⁵
+吵架	chǎojià	tʂɑu²¹ tɕia⁵¹
+打獵	dǎliè	ta²¹ liɛ⁵¹
+打	dǎ	ta²¹
+割	gē	kɤ⁵⁵
+劈開	pīkāi	pʰi⁵⁵ kʰai⁵⁵
+刺	cì	tsɿ⁵¹
+搔	sāo	sɑu⁵⁵
+挖	wā	ua⁵⁵
+游泳	yóuyǒng	iou³⁵ yoŋ²¹⁴
+飛	fēi	fei⁵⁵
+走	zǒu	tsou²¹⁴
+來	lái	lai³⁵
+躺	tǎng	tʰɑŋ²¹⁴
+坐	zuò	tsuɔ⁵¹
+站	zhàn	tʂan⁵¹
+轉	zhuǎn	tʂuan²¹⁴
+落下	luòxià	luɔ⁵¹ ɕia⁵¹
+給	gěi	kei²¹⁴
+握	wò	uɔ⁵³
+擠	jǐ	tɕi²¹⁴
+揉	róu	ʐou³⁵
+洗	xǐ	ɕi²¹⁴
+擦	cā	tsʰa⁵⁵
+拉	lā	la⁵⁵
+推	tuī	tʰuei⁵⁵
+扔	rēng	ʐɤŋ⁵⁵
+綁	bǎng	paŋ²¹³
+縫	féng	fɤŋ³⁵
+數	shǔ	ʂu²¹⁴
+說	shuō	ʂuɔ⁵⁵
+唱	chàng	tʂʰɑŋ⁵¹
+玩	wán	uan³⁵
+浮	fú	fu³⁵
+流	liú	liou³⁵
+結冰	jiébīng	tɕiɛ³⁵ piŋ⁵⁵
+膨脹	péngzhàng	pʰɤŋ tʂɑŋ⁵¹
+太陽	tàiyang	tʰai⁵¹ iaŋ⁰
+月亮	yuèliang	yɛ⁵¹ liɑŋ⁰
+星	xīng	ɕiŋ⁵⁵
+水	shuǐ	ʂuei²¹⁴
+雨	yǔ	y²¹⁴
+河	hé	xɤ³⁵
+湖	hú	xu³⁵
+海	hǎi	xai²¹⁴
+鹽	yán	iɛn³⁵
+石	shí	ʂʐɨ³⁵
+沙	shā	ʂa⁵⁵
+塵土	chéntǔ	tʂən³⁵ tʰu²¹⁴
+土壤	tǔyǎng	tʰu³⁵ ʐɑŋ²¹⁴
+雲	yún	yn³⁵
+霧	wù	u⁵¹
+天	tiān	tʰiɛn⁵⁵
+風	fēng	fɤŋ⁵⁵
+雪	xuě	ɕyɛ²¹⁴
+冰	bīng	piŋ⁵⁵
+煙	yān	iɛn⁵⁵
+火	huǒ	xuɔ²¹⁴
+灰	huī	xuei⁵⁵
+燒	shāo	ʂɑu⁵⁵
+路	lù	lu⁵¹
+山	shān	ʂan⁵⁵
+紅	hóng	xoŋ³⁵
+綠	lǜ	ly⁵¹
+黃	huáng	xuaŋ³⁵
+白	bái	pai³⁵
+黑	hēi	xei⁵⁵
+夜晚	yèwǎn	iɛ⁵¹ uan²¹⁴
+白天	báitiān	pai³⁵ tʰiɛn⁵⁵
+年	nián	niɛn³⁵
+溫暖	wēnnuǎn	uən⁵⁵ nuan²¹⁴
+冷	lěng	lɤŋ²¹⁴
+滿	mǎn	man²¹⁴
+新	xīn	ɕin⁵⁵
+老	lǎo	lɑu²¹⁴
+好	hǎo	xɑu²¹⁴
+壞	huài	xuai⁵¹
+爛	làn	lan⁵¹
+髒	zāng	tsɑŋ⁵⁵
+直	zhí	tʂʐɨ³⁵
+圓	yuán	yɛn³⁵
+尖	jiān	tɕiɛn⁵⁵
+鈍	dùn	tuən⁵¹
+光滑	guānghuá	kuɑŋ⁵⁵ xua³⁵
+濕	shī	ʂʐɨ⁵⁵
+乾	gān	kan⁵⁵
+對	duì	tuei⁵¹
+近	jìn	tɕin⁵¹
+遠	yuǎn	yɛn²¹⁴
+右	yòu	iou⁵¹
+左	zuǒ	tsuɔ²¹⁴
+在	zài	tsai⁵¹
+在… 裡	zài… lǐ	tsai⁵¹ li²¹⁴
+跟	gēn	kən⁵⁵
+和	hé	xɤ³⁵
+如果	rúguǒ	ʐu³⁵ kuɔ²¹⁴
+因爲	yīnwèi	in⁵⁵ uei⁵¹
+名	míng	miŋ³⁵

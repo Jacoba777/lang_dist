@@ -14,7 +14,7 @@ def get_word_ipa(word: str, lang: str):
     if lang_header is None:
         return f'[ERROR] Could not find word "{word}" in lang "{lang}"'
 
-    in_pronunciation_section = False
+    in_pronunciation_section, in_lhasa = False, False
 
     curr_element = lang_header
     while curr_element:
@@ -23,10 +23,17 @@ def get_word_ipa(word: str, lang: str):
         if curr_element.text == 'Pronunciation':
             in_pronunciation_section = True
 
+        # if curr_element.text == 'Lhasa':
+        #     in_lhasa = True
+
         if curr_element is None or curr_element.name == 'h2':
             return f'[ERROR] Missing IPA section for word "{word}" in lang "{lang}"'
 
-        if curr_element.name == 'span' and curr_element.get('class') and 'IPA' in curr_element.get('class') and in_pronunciation_section and not curr_element.text.startswith('⟨'):
+        if curr_element.name == 'span' \
+                and curr_element.get('class') \
+                and 'IPA' in curr_element.get('class') \
+                and in_pronunciation_section \
+                and not curr_element.text.startswith('⟨'):
             return curr_element.text
 
 

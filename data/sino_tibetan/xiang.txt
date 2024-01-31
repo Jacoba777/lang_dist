@@ -1,0 +1,207 @@
+我	ngo3	ŋo⁴¹
+你	nyi3	ȵi⁴¹
+他	ta1	tʰa³³
+我們	ngo3 men	ŋo⁴¹ mən⁰
+你們	nyi3 men	ȵi⁴¹ mən⁰
+他們	ta1 men	tʰa³³ mən⁰
+咯個		kai²⁴ ko⁰
+那個		la⁵⁵
+咯裏	go6 li	ko²⁴ li⁰
+那裡	la4 li	la⁵⁵ li⁰
+哪個	o2 zhr4 go4	la⁴¹
+麼子	mo3 zr	mo⁴¹ tsɿ⁰
+哪裏	la3 li	la⁴¹ li⁰
+麼子時候	mo3 zr shr2 hou	mo⁴¹ tsɿ⁰ ʂʅ¹³ xəu⁰
+何是		o²⁴ ʂʅ⁰
+不	bu6	pu²⁴
+都	dou1	təu³³
+多	do1	to³³
+一些		i²⁴ sia³³
+少		ʂau⁴¹
+別的		pʰie²⁴ ti⁰
+一	i6	i²⁴
+二	e5	ə¹¹
+三	san1	san³³
+四	sr4	sɿ⁵⁵
+五	u3	u⁴¹
+大		tai¹¹
+長	zhan2	tʂan¹³
+寬	 	kʰõ³³
+厚		xəu¹¹
+重		tʂən⁵⁵
+細	siau3	si⁵⁵
+短	donn3	tõ⁴¹
+窄	 	tsə²⁴
+薄	 	po²⁴
+女人	nyy3 di	ȵy⁴¹ ʐən¹³
+男人		lan¹³ ʐən¹³
+人	ren2	ʐən¹³
+細伢人	si4 ren2 zr	si⁵⁵ ŋa¹³ tsɿ⁰
+堂客	dan2 ke6	tan¹³ kʰə²⁴
+男人		lan¹³ ʐən¹³
+媽媽	ma1 ma	ma³³ ma⁰
+爹爹	indirect	tie³³ tie⁰
+動物		tən¹¹ u²⁴
+魚	y2	y¹³
+鳥		tiau⁴¹
+狗	gou3	kəu⁴¹
+虱婆		sə²⁴ po¹³
+蛇		ʂa¹³
+蟲		tʂoŋ¹³
+樹		ɕy¹¹
+樹林		ɕy¹¹ lin¹³
+樹椏子		ɕy¹¹ ŋa³³ tsɿ⁰
+水果	xyei3 go3	ɕyei⁴¹ ko⁴¹
+[[#Xiang|]]		
+樹葉子	xy5 ye6 zr	ɕy¹¹ ie²⁴ tsɿ⁰
+樹根		ɕy¹¹ kən³³
+樹皮		ɕy¹¹ pi¹³
+花	fa1	fa³³
+草	cau3	tsʰau⁴¹
+繩子	so6 zr	ʂən¹³ tsɿ⁰
+皮膚		pi¹³ fu³³
+肉	rou6	ʐəu²⁴
+血	xie6	ɕie²⁴
+骨頭	gu6 tou	ku²⁴ təu⁰
+[[#Xiang|]]		
+蛋	dan5	tan¹¹
+角		ko²⁴
+尾巴	uei3 ba1	uei⁴¹ pa³³
+羽毛	y3 mau2	y⁴¹ mau¹³
+頭髮	tou2 fa6	tʰəu¹³ fa²⁴
+腦殼	lau3 ko6	lau⁴¹ kʰo²⁴
+耳朵	e3 do	ə⁴¹ to⁰
+眼睛		ŋan⁴¹ tsin³³
+鼻子	bi6 zr	pi²⁴ tsɿ⁰
+嘴巴	zei3 ba	tsei⁴¹ pa⁰
+牙齒	nga2 chr3	ŋa¹³ tʂʰʅ⁴¹
+舌子	she6 zr	ʂə²⁴ tsɿ⁰
+指甲子	zhr6 ga6 zr	tʂʅ²⁴ ka²⁴ tsɿ⁰
+腳	jio6	tɕio²⁴
+腳欛子	jio6 ba4 zr	tɕio²⁴ pa⁵⁵ tsɿ⁰
+磕膝骨	si6 tou gu	kʰə²⁴ si²⁴ ku²⁴
+手	shou3	ʂəu⁴¹
+翼胛	ie4 ga	ie⁵⁵ ka⁰
+肚子		təu⁴¹ tsɿ⁰
+腸子	zhan2 zr	tʂan¹³ tsɿ⁰
+頸根	jin3 gen1	tɕin⁴¹ kən³³
+背脊	bei4 zi6	pei⁵⁵ tsi²⁴
+胸門口	chest	ɕioŋ³³ mən¹¹ kʰəu⁴¹
+圞心	lonn2 sin1	lõ¹³ sin³³
+[[#Xiang|]]		
+吃	qia6	tɕʰia²⁴
+吃	qia6	tɕʰia²⁴
+咬		ŋa⁵⁵
+嗍		so³³
+吐		tʰəu⁴¹
+嘔		
+嗍		so³³
+[[#Xiang|]]		
+笑	siau4	siau⁵⁵
+看		kʰan⁵⁵
+聽	tin1	tʰin³³
+曉得	xiau3 de	ɕiau⁴¹ tə⁰
+想	sian3	siæn⁴¹
+聞		uən¹³
+畏怯	uei4 qie6	uei⁵⁵ tɕʰie²⁴
+睏覺	kun4 gau4	kʰuən⁵⁵ kau⁵⁵
+活	ho6	xo²⁴
+死	sr3	sɿ⁴¹
+殺	sa6	sa²⁴
+扯皮	che3 bi2	ʈʂʰə⁴¹ pi¹³
+趕山	gan3 san1	kan⁴¹ san³³
+打	da3	ta⁴¹
+割	 	ke⁵⁵
+劈		pʰi²⁴
+[[#Xiang|]]		
+[[#Xiang|]]		
+挖		ua²⁴
+玩水	uan2 xyei3	uan¹³ ɕyei⁴¹
+[[#Xiang|]]		
+走	zou3	tsəu⁴¹
+來	lai2	lai¹³
+睏	kun4	kʰuən⁵⁵
+坐		tso¹¹
+徛	ji5	tɕi¹¹
+[[#Xiang|]]		
+跌	 	tie²⁴
+把	ba3	pa⁴¹
+拿		la³³
+擠		
+砑		ŋa¹¹
+洗	si3	si⁴¹
+湊	 	tsʰəu⁵⁵
+扯	che3	tʂʰə⁴¹
+推	tei1	tʰei³³
+甩	xyai3	ɕyai⁴¹
+捆	kun3	kʰuən⁴¹
+[[#Xiang|]]		
+算噠		sõ⁵⁵ ta⁰
+講		tɕian⁴¹
+唱	chan4	tʂʰan⁵⁵
+玩	uan2	uan¹³
+[[#Xiang|]]		
+[[#Xiang|]]		
+構凌	gou4 lin5	kəu⁵⁵ lin¹¹
+[[#Xiang|]]		
+日頭	r6 dou	ʐʅ²⁴ təu⁰
+月亮	ye6 lian5	ye²⁴ lian¹¹
+星子	sin1 zr	sin³³ tsɿ⁰
+水	xyei3	ɕyei⁴¹
+雨	y3	y⁴¹
+河	ho2	xo¹³
+湖	fu2	fu¹³
+海	hai3	xai⁴¹
+鹽	ienn2	iẽ¹³
+石頭	shr6 dou	ʂʅ²⁴ təu³
+沙婆	sa1 bo2	sa³³ po¹³
+灰	fei1	fei³³
+泥巴	nyi2 ba1	ȵi¹³ pa³³
+雲	yn2	yn¹³
+罩子	zau4 zr	tsau⁴⁵ tsɿ⁰
+天	tienn1	tʰiẽ³³
+風	hong1	xoŋ³³
+雪	sie6	sie²⁴
+凌		lin¹¹
+煙	ienn1	iẽ³³
+火	ho3	xo⁴¹
+[[#Xiang|]]		
+[[#Xiang|]]		
+路	lou5	ləu¹¹
+山	san1	san³³
+紅	hong2	zoŋ¹³
+綠	lou6	ləu²⁴
+黃		uan¹³
+白	be6	pə²⁴
+黑	he6	xə²⁴
+夜間子		ia¹¹ ka⁰
+白天		pə²⁴ tʰiẽ³³
+年	nyienn2	ȵiẽ¹³
+[[#Xiang|]]		
+冷	len3	lən⁴¹
+滿	monn3	mõ⁴¹
+新	sin1	sin³³
+老	lau3	lau⁴¹
+好	hau3	xau⁴¹
+壞		fai¹¹
+[[#Xiang|]]		
+邋遢	la6 ta6	la²⁴ tʰa²⁴
+直	zhr6	tʂi²⁴
+圞	lonn2	lõ¹³
+快	kuai4	kʰuai⁵⁵
+鈍		tən¹¹
+流光		liəu³³ kuan³³
+濕		ʂʅ²⁴
+乾	 	kan⁴¹
+對	dei4	tei⁵⁵
+近		tɕin¹¹
+遠	yenn3	yẽ⁴¹
+右		iəu¹¹
+左	zo3	tso⁴¹
+在		təu¹¹
+在		təu¹¹
+跟	gen1	kən³³
+跟	gen1	kən³³
+要是		iau⁵⁵ sɿ¹¹
+因為	in1 uei2	in³³ uei¹³
+名	min2	min¹³

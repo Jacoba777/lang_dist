@@ -1,0 +1,207 @@
+我	o3	o²¹²
+你	li3	li²¹²
+他	ta1	tʰa³¹
+我們	o3 men2	o²¹² məŋ⁰
+你們	li3 men2	li²¹² məŋ⁰
+他們	ta1 men2	tʰa²¹² məŋ⁰
+這個	zhe4 go4	tʂe⁴⁴ ko⁴⁴
+那個	la4 go4	laʔ⁵ ko⁴⁴
+這塊	zhe4 kuä4	tʂe⁴⁴ kʰuɛ⁰
+那塊	la4 kuä4	la⁴⁴ kʰuɛ⁰
+哪個	la3 go4	la²¹² ko⁰
+什麼	shen2 mo3	ʂəŋ²⁴ mo⁰
+哪裏	la3 li3	la²¹² li⁰
+多咱	do1 zang3	to³¹ tsã²¹²
+怎麼	zen3 mo3	tsəŋ²¹² mo⁰
+不	bu5	puʔ⁵
+全部	cüän2 bu4	tsyɛn²⁴ pu⁴⁴
+多	do1	to³¹
+幾個	ji1 go4	tɕi³¹ ko⁰
+少	shao3	ʂɔ²¹²
+旁的	pang2 di5	pʰã³¹ tiʔ⁰
+一	i5	iʔ⁵
+二	er4	er⁴⁴
+三	sang1	sã³¹
+四	sy4	sɿ⁴⁴
+五	u3	u²¹²
+大	da4	ta⁴⁴
+長	chang2	tʂʰã²⁴
+寬	kuang1	kʰuã³¹
+厚	hou4	xəɯ⁴⁴
+重	zhong4	tʂoŋ⁴⁴
+小	siao3	siɔ²¹²
+短	duang3	tuã²¹²
+窄	zä5	tsɛʔ⁵
+薄	bo5	poʔ⁵
+女的	lü3 di5	ly²¹² tiʔ⁰
+男的	lang2 di5	lã²⁴ tiʔ⁰
+人	ren2	ʐəŋ²⁴
+小娃兒	siao3 ua1 er2	siɔ²¹² uar²⁴
+家裏	ja1 li3	tɕia³¹ li⁰
+當家的	dang1 ja1 di5	tã³¹ tɕia³¹ ti⁰
+媽	ma1	ma³¹
+爹	die1	tie³¹
+動物	dong4 u5	toŋ⁴⁴ uʔ⁵
+魚	ü2	y²⁴
+鳥	liao3	liɔ²¹²
+狗	gou3	kəɯ²¹²
+蝨子	sä5 zy3	sɛʔ⁵ tsɿ⁰
+蛇兒	she2 er2	ʂər²⁴
+蟲	chong2	tʂʰoŋ²⁴
+樹	shu4	ʂu⁴⁴
+樹林子	shu4 lin2 zy3	ʂu⁴⁴ lin²⁴ tsɿ⁰
+樹枝	shu4 zhr1	ʂu⁴⁴ tʂʅ²¹²
+水果	shuei3 go3	ʂuəi²¹² ko²¹²
+種子	zhong3 zy3	tʂoŋ²¹² tsɿ⁰
+樹葉兒	shu4 ie5 er2	ʂu⁴⁴ ier⁴⁴
+樹根	shu4 gen1	ʂu⁴⁴ kəŋ³¹
+樹皮	shu4 pi2	ʂu⁴⁴ pʰi²⁴
+花	hua1	xua³¹
+草	cao3	tsʰɔ²¹²
+繩子	shen2 zy3	ʂəŋ²⁴ tsɿ⁰
+皮膚	pi2 fu1	pʰi²¹² fu³¹
+肉	rou4	ʐəɯ⁴⁴
+血	xüe5	ɕyeʔ⁵
+骨頭	gu5 tou2	kuʔ⁵ tʰəɯ⁰
+脂肪	zhr1 fang1	tʂʅ³¹ fã³¹
+蛋	dang4	tã⁴⁴
+角	go5	koʔ⁵
+尾巴	uei3 ba1	uəi²¹² pa⁰
+羽毛	ü3 mao2	y²¹² mɔ²⁴
+頭髮	tou2 fa5	tʰəɯ⁴⁴ faʔ⁵
+頭兒	tou2 er2	tʰər²⁴
+耳朵	er3 do3	er²¹² to⁰
+眼睛	iän3 zin1	iɛn²¹² tsin⁰
+鼻子	bi5 zy3	piʔ⁵ tsɿ⁰
+嘴	zuei3	tsuəi²¹²
+牙	ia2	ia²⁴
+舌頭	shä5 tou2	ʂɛʔ⁵ tʰəɯ⁰
+指甲	zhr3 ja5	tʂʅ²¹² tɕiaʔ⁰
+腳	jo5	tɕioʔ⁵
+腿	tuei3	tʰuəi²¹²
+磕膝頭	ko5 ci5 tou2	kʰoʔ⁵ tsʰiʔ⁵ tʰəɯ²⁴
+手	shou3	ʂəɯ²¹²
+翅膀	chr4 bang3	tʂʰʅ⁴⁴ pã²¹²
+肚子	du3 zy3	tu⁴⁴ tsɿ⁰
+腸子	chang2 zy3	tʂʰã²⁴ tsɿ⁰
+頸子	jin3 zy3	tɕin²¹² tsɿ⁰
+脊背	zi5 bei4	tsiʔ⁵ pəi⁴⁴
+胸脯	xong1 pu2	ɕioŋ³¹ pʰu⁰
+心	sin1	sin³¹
+肝	gang1	kã³¹
+吃	chr5	tʂʅʔ⁵
+吃	chr5	tʂʅʔ⁵
+咬	iao3	iɔ²¹²
+吸	xi5	ɕiʔ⁵
+吐	tu3	tʰu²¹²
+吐	tu4	tʰu⁴⁴
+吹	chuei1	tʂʰuəi³¹
+呼吸	hu1 xi5	xu³¹ ɕiʔ⁵
+笑	siao4	siɔ⁴⁴
+看	kang4	kʰã⁴⁴
+聽	tin1	tʰin³¹
+曉得	xao3 dä5	ɕiɔ²¹² tɛʔ⁰
+想	siang3	siã²¹²
+聞	uen2	uəŋ²⁴
+嚇怕	hä5 pa4	xɛʔ⁵ pʰa⁴⁴
+睡	shuei4	ʂuei⁴⁴
+活	ho5	xoʔ⁵
+死	sy3	sɿ²¹²
+殺	sha5	ʂaʔ⁵
+打架	da3 ja4	ta²¹² tɕia⁴⁴
+打獵	da3 lie4	ta²¹² lieʔ⁵
+揍	zou4	tsəɯ⁴⁴
+切	cie5	tsʰieʔ⁵
+劈開	pi5 kä1	pʰiʔ⁵ kʰɛ³¹
+戳	cho5	tʂʰoʔ⁵
+刮	gua5	kuaʔ⁵
+挖	ua5	uaʔ⁵
+划水	hua2 shuei3	xua²⁴ ʂuəi²¹²
+飛	fei1	fəi³¹
+走	zou3	tsəɯ²¹²
+來	lä2	lɛ²⁴
+躺	tang3	tʰã²¹²
+坐	zo4	tso⁴⁴
+站	zhang4	tʂã⁴⁴
+轉	zhuang4	tʂuã⁴⁴
+落	lo5	loʔ⁵
+給	gi3	ki²¹²
+拿	la2	la²⁴
+擠	zi3	tsi²¹²
+柔	rou2	rəɯ²⁴
+洗	si3	si²¹²
+㩢	ma5	maʔ⁵
+拉	la1	la³¹
+推	tuei1	tʰuəi³¹
+掉	diao4	tiɔ⁴⁴
+綁	bang3	pã²¹²
+縫	fen2	fəŋ²⁴
+數	su3	su²¹²
+說	sho5	ʂoʔ⁵
+唱	chang4	tʂʰã⁴⁴
+玩	uang2	uã²⁴
+浮	fu2	fu²⁴
+流	liou2	liəɯ²⁴
+上凍	shang4 dong4	ʂã⁴⁴ toŋ⁴⁴
+脹	zhang4	tʂã⁴⁴
+太陽	tä4 iang2	tʰɛ⁴⁴ iã²⁴
+月亮	üe5 liang4	yeʔ⁵ liã⁴⁴
+星星	sin1 sin1	sin³¹ sin⁰
+水	shuei3	ʂuei²¹²
+雨	ü4	y⁴⁴
+河	ho2	xo²⁴
+湖	hu2	xu²⁴
+海	hä3	xɛ²¹²
+鹽	iän2	iɛn²⁴
+石頭	shr5 tou2	ʂʅʔ⁵ tʰəɯ²⁴
+沙子	sha1 zy3	ʂa³¹ tsɿ⁰
+灰	huei1	xuəi³¹
+土	tu3	tʰu²¹²
+雲	üin2	yn²⁴
+霧	u4	u⁴⁴
+天	tiän1	tʰiɛn³¹
+風	fen4	fəŋ⁴⁴
+雪	süe5	syeʔ⁵
+冰	bin1	pin³¹
+煙	iän1	iɛn³¹
+火	ho3	xo²¹²
+灰	huei1	xuəi³¹
+燒	shao1	ʂɔ³¹
+路	lu4	lu⁴⁴
+山	shang1	ʂã³¹
+紅	hong2	xoŋ²⁴
+綠	lu5	luʔ⁵
+黃	huang2	xuã²⁴
+白	bä5	pɛʔ⁵
+黑	hä5	xɛʔ⁵
+晚上	uang3 shang4	uã²¹² ʂã⁰
+白天	bä5 tiän1	pɛʔ⁵ tʰiɛn³¹
+年	liän2	liɛn²⁴
+暖和	luang3 ho2	luã²¹² xo⁰
+冷	len3	ləŋ²¹²
+滿	mang3	mã²¹²
+新	sin1	sin³¹
+老	lao3	lɔ²¹²
+好	hao3	xɔ²¹²
+壞	huä4	xuɛ⁴⁴
+爛	lang4	lã⁴⁴
+髒	zang1	tsã³¹
+直	zhr5	tʂʅʔ⁵
+圓	üän2	yɛn²⁴
+快	kuä4	kʰuɛ⁴⁴
+鈍	duen4	tuəŋ⁴⁴
+滑	hua5	xuaʔ⁵
+潮	chao2	ʈʂʰɔ²⁴
+乾	gang1	kã³¹
+對	duei4	tuəi⁴⁴
+近	jin4	tɕin⁴⁴
+遠	üän3	yɛn²¹²
+右	iou4	iəɯ⁴⁴
+左	zo3	tso²¹²
+在	zä4	tsɛ⁴⁴
+在	zä4	tsɛ⁴⁴
+告	gao4	kɔ⁴⁴
+告	gao4	kɔ⁴⁴
+假如	ja3 ru2	tɕia²¹² ʐu²⁴
+因爲	in1 uei2	in³¹ uəi²⁴
+名字	min2 zy4	min²⁴ tsɿ⁰

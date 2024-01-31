@@ -1,0 +1,207 @@
+我	ngo3	ŋo⁵³
+你	nyi3	ȵi⁵³
+他	ta1	tʰa⁵⁵
+我們	ngo3 men2-1	ŋo⁵³ mən²¹⁻⁵⁵
+你們	nyi3 men2-1	ȵi⁵³ mən²¹⁻⁵⁵
+他們	ta1 men2-1	tʰa⁵⁵ mən²¹⁻⁵⁵
+這個	ze4 go4	tsɛ²¹³ ko²¹³
+那個	na4 go4	na²¹³ ko²¹³
+這點兒	ze4 dianr3	tsᴇ²¹³ tiɚ⁵³
+那點兒	na4 dianr3	na²¹³ tiɚ⁵³
+誰個	sui2 go4	suei²¹ ko²¹³
+啥子	sa4 zi3	sa²¹³ tsz⁵³
+那跟前	na3 gen1 qian2	na⁵³ kən⁵⁵ tɕʰiɛn²¹
+哪陣	na3 zen4	na⁵³ tsən²¹³
+啷個	nang3 go4	naŋ⁵³ ko²¹³
+不	bu2	pu²¹
+全部	quan2 bu4	tɕʰyan²¹ pu²¹³
+多	do1	to⁵⁵
+些	xi1	ɕi⁵⁵
+少	sao4	sau²¹³
+		
+一	yi2	i²¹
+二	er4	ɚ²¹³
+三	san1	san⁵⁵
+四	si4	sɿ²¹³
+五	wu3	vu⁵³
+大	da4	ta²¹³
+長	cang2	tsʰaŋ²¹
+寬	kuan1	kʰuan⁵⁵
+厚	hou4	xəu²¹³
+重	zong4	tsoŋ²¹³
+小	xiao3	ɕiau⁵³
+短	duan3	tuan⁵³
+窄	ze2	tsɛ²¹
+薄	bo2	po²¹
+女的	nyü3 ni1	ȵy⁵³ ni⁵⁵
+男的	nan2 ni1	nan²¹ ni⁵⁵
+人	ren2	zən²¹
+小娃兒	xiao3 wa2 er2-1	ɕiau⁵³ ua²¹ ɚ²¹⁻⁵⁵
+女的	nyü3 ni1	ȵy⁵³ ni⁵⁵
+男的	nan2 ni1	nan²¹ ni⁵⁵
+媽媽	ma1 ma1	ma⁵⁵ ma⁵⁵
+爸爸	ba2 ba2-1	pa²¹ pa²¹⁻⁵⁵
+動物	dong4 wu2	toŋ²¹³ vu²¹
+魚	yu2	y²¹
+雀雀	qüo2 qüo2-1	tɕʰyo²¹ tɕʰyo²¹⁻⁵⁵
+狗	gou3	kəu⁵³
+蝨子	se2 zi3	sei²⁴ tsɿ²⁴
+蛇	se2	sɛ²¹
+蟲	cong2	tsʰoŋ²¹
+樹子	su4 zi3	su²¹³ tsɿ⁵³
+樹林子	su4 nin2 zi3	su²¹³ nin²¹ tsɿ⁵³
+樹枝枝	su4 zi1 zi1	su²¹³ tsɿ⁵⁵ tsɿ⁵⁵
+水果	sui3 go3	suei⁵³ ko⁵³
+		
+樹子葉葉	su4 zi3 ye2 ye2-1	su²¹³ tsɿ⁵³ iɛ²¹ iɛ²¹⁻⁵⁵
+根根	gen1 gen1	kən⁵⁵ kən⁵⁵
+樹皮	su4 pi2	su²¹³ pʰi²¹
+花花兒	hua1 huar1	xua⁵⁵ xuɚ⁵⁵
+草	cao3	tsʰau⁵³
+索索	so2 so2	so²¹ so²¹
+皮皮	pi2 pi2-1	pi²¹ pi²¹⁻⁵⁵
+肉	rou4	zəu²¹³
+血	xue2	ɕye²¹
+骨頭	gu2 tou2-1	ku²¹ tʰəu²¹⁻⁵⁵
+		
+蛋	dan4	tan²¹³
+角	juo2	tɕyo²¹
+尾巴兒	wei3 bar1	uei⁵³ pɚ⁵⁵
+		
+頭髮	tou2 fa2-1	tʰəu²¹ fa²¹⁻⁵⁵
+腦殼	nao3 ko2	nau⁵³ kʰo²¹
+耳朵	er3 do1	ɚ⁵³ to⁵⁵
+眼睛	yan3 jin1	iɛn⁵³ tɕin⁵⁵
+鼻子	bi2 zi3	pi²¹ tsɿ⁵³
+嘴巴	zui3 ba1	tsuei⁵³ pa⁵⁵
+牙齒	ya2 ci3-1	ia²¹ tsʰɿ⁵³⁻⁵⁵
+舌頭兒	se2 tour2-1	sɛ²¹ tʰɚ²¹⁻⁵⁵
+指甲兒	zi3 jiar2	tsɿ⁵³ tɕiɚ²¹
+腳	juo2	tɕyo²¹
+腿	tui3	tʰuei⁵³
+磕膝頭兒	ke2 xi2-1 tour2	kʰɛ²¹ ɕi²¹⁻⁵⁵ tʰɚ²¹
+手	sou3	səu⁵³
+翅膀兒	zi4 bangr3	tsɿ²¹³ pɚ⁵³
+肚皮	du4 pi2	tu²¹³ pʰi²¹
+		
+頸仔	jin3 zi3-2	tɕin⁵³ tsɿ⁵³⁻²¹
+背	bei4	pei²¹³
+胸脯	xiong1 pu3	ɕyoŋ⁵⁵ pʰu⁵³
+心	xin1	ɕin⁵⁵
+肝	gan1	kan⁵⁵
+喝	ho1	xo⁵⁵
+吃	ci2	tsʰɿ²¹
+咬	ngao3	ŋau⁵³
+		
+吐	tu3	tʰu⁵³
+吐	tu3	tʰu⁵³
+吹	cui1	tsʰuei⁵⁵
+呼吸	fu1 xi1	fu⁵⁵
+笑	xiao4	ɕiau²¹³
+看	kan4	kʰan²¹³
+聽	tin1	tʰin⁵⁵
+知道	zi1 dao4	tsɿ⁵⁵ tau²¹³
+想	xiang3	ɕiaŋ⁵³
+聞	wen2	uən²¹
+怕	pa4	pʰa²¹³
+睡瞌睡	sui4 ko2 sui4	suei²¹³ kʰo²¹ suei²¹³
+活	ho2	xo²¹
+死	si3	sɿ⁵³
+殺	sa2	sa²¹
+吵架	cao3 jia4	tsʰau⁵³ tɕia²¹³
+		
+打	da3	ta⁵³
+		
+		
+		
+摳	kou1	kʰəu⁵⁵
+挖	wa1	ua⁵⁵
+游泳	you2 yun4	iəu²¹ yn²¹³
+飛	fei1	fei⁵⁵
+走	zou3	tsəu⁵³
+來	nai2	nai²¹
+躺	tang3	tʰaŋ⁵³
+坐	zo4	tso²¹³
+站	zan4	tsan²¹³
+拐	guai3	kuai⁵³
+掉	diao4	tiau²¹³
+給	ge1	kɛ⁵⁵
+拿	na2	na²¹
+擠	ji1	tɕi⁵⁵
+挼	rua2	zua²¹
+洗	xi3	ɕi⁵³
+擦	ca2	tsʰa²¹
+扯	ce3	tsʰɛ⁵³
+㩳	song3	soŋ⁵³
+甩	suai3	suai⁵³
+綁	bang1	paŋ⁵⁵
+縫	fong4	foŋ²¹³
+數	su3	su⁵³
+說	so2	so²¹
+唱	cang4	tsʰaŋ²¹³
+耍	sua3	sua⁵³
+浮	fu2	fu²¹
+流	niu2	niəu²¹
+結冰	jie2 bin1	tɕiɛ²¹ pin⁵⁵
+		
+太陽	tai4 yang2	tʰai²¹³ iaŋ²¹
+月亮	yue2 niang4	ye²¹ niaŋ²¹³
+星宿兒	xin1 xiur4	ɕin⁵⁵ ɕiɚ²¹³
+水	sui3	suei⁵³
+雨	yu3	y⁵³
+河	ho2	xo²¹
+湖	fu2	fu²¹
+海	hai3	xai⁵³
+鹽巴	yan2 ba1	iɛn²¹ pa⁵⁵
+石頭	si2 tou2-1	sɿ²¹ tʰəu²¹⁻⁵⁵
+河沙	ho2 sa1	xo²¹ sa⁵⁵
+灰	hui1	xuei⁵⁵
+土	tu3	tʰu⁵³
+雲	yun2	yn²¹
+霧	wu4	vu²¹³
+天	tian1	tʰiɛn⁵⁵
+風	fong1	foŋ⁵⁵
+雪	xue2	ɕye²¹
+冰	bin1	pin⁵⁵
+煙煙	yan1 yan1	iɛn⁵⁵ iɛn⁵⁵
+火	ho3	xo⁵³
+灰	hui1	xuei⁵⁵
+燒	sao1	sau⁵⁵
+路	nu4	nu²¹³
+山	san1	san⁵⁵
+紅	hong2	xoŋ²¹
+綠	nu2	nu²¹
+黃	huang2	xuaŋ²¹
+白	be2	pɛ²¹
+黑	he2	he2
+擦黑	ca2 he2	tsʰa²¹ xɛ²¹
+白天	be2 tian1	pɛ²¹ tʰiɛn⁵⁵
+年	nyian2	ȵiɛn²¹
+		
+冷	nen3	nən⁵³
+滿	man3	man⁵³
+新	xin1	ɕin⁵⁵
+老	nao3	nau⁵³
+好	hao3	xau⁵³
+壞	huai4	xuai²¹³
+		
+髒	zang1	tsaŋ⁵⁵
+立	ni2	ni²¹
+圓	yuan2	yan²¹
+尖	jian1	tɕiɛn⁵⁵
+鈍	den4	tən²¹³
+		
+濕	si2	sɿ²¹
+乾	gan1	kan⁵⁵
+對	dui4	tuei²¹³
+近	jin4	tɕin²¹³
+遠	yuan3	yan⁵³
+右	you4	iəu²¹³
+左	zo3	tso⁵³
+在	zai4	tsai²¹³
+在	zai4	tsai²¹³
+和	ho2	xo²¹
+和	ho2	xo²¹
+假比	jia3 bi3	tɕia⁵³ pi⁵³
+因為	yin1 wei4	in⁵⁵ uei²¹³
+名	min2	min²¹
