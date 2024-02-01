@@ -12,6 +12,7 @@ NIVKH = Language('nivkh', _FAMILY, 198)
 SUMERIAN = Language('sumerian', _FAMILY, extinct_year=100)
 YUKAGHIR_TUNDRA = Language('yukaghir_tundra', _FAMILY, 320)
 YUPIK_CENTRAL_SIBERIAN = Language('yupik_central_siberian', _FAMILY, 1200)
+ZUNI = Language('zuni', _FAMILY, 9600)
 
 ISOLATES = [
     ABINOMN,
@@ -24,4 +25,5 @@ ISOLATES = [
     SUMERIAN,
     YUKAGHIR_TUNDRA,
     YUPIK_CENTRAL_SIBERIAN,
+    ZUNI,
 ]

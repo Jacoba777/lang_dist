@@ -38,6 +38,9 @@ def get_word_ipa(word: str, lang: str):
 
 
 def debug_get_word_ipa(word: str, lang: str):
+    if word == '':
+        return ''
+
     res = get_word_ipa(word, lang)
     print(res)
     if res.startswith('[ERROR]'):

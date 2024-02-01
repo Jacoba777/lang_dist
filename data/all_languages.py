@@ -1,8 +1,16 @@
 from typing import List
 
+from data.algic import ALGIC
+from data.dene_yeniseian import DENE_YENISEIAN
 from data.hmong_mein import HMONG_MEIN
+from data.hokan import HOKAN
+from data.iroquoian import IROQUOIAN
 from data.kra_dai import KRA_DAI
+from data.muskogean import MUSKOGEAN
+from data.north_american_other import NORTH_AMERICAN_OTHER
 from data.sino_tibetan import SINO_TIBETAN
+from data.siouan import SIOUAN
+from data.uto_aztecan import UTO_AZTECAN
 from model.lang import Language
 
 from data.austroasiatic import AUSTROASIATIC
@@ -62,9 +70,21 @@ ASIAN = [
     *TURKIC,
 ]
 
+NORTH_AMERICAN = [
+    *ALGIC,
+    *DENE_YENISEIAN,
+    *HOKAN,
+    *IROQUOIAN,
+    *SIOUAN,
+    *MUSKOGEAN,
+    *NORTH_AMERICAN_OTHER,
+    *UTO_AZTECAN,
+]
+
 ALL_LANGS: List[Language] = [
-    *INDO_EUROPEAN,
     *ASIAN,
+    *INDO_EUROPEAN,
+    *NORTH_AMERICAN,
     *CAUCASIAN,
     *URALIC,
     *AUSTRONESIAN,
@@ -74,8 +94,8 @@ ALL_LANGS: List[Language] = [
 ALL_LANGS_W_DATA = [lang for lang in ALL_LANGS if lang.get_word_count() >= 10]
 ALL_MODERN_LANGS_W_DATA = [lang for lang in ALL_LANGS_W_DATA if lang.extinct_year is None]
 
-LANGS_TO_USE = [lang for lang in ALL_MODERN_LANGS_W_DATA if lang in [*SINO_TIBETAN]]
-# LANGS_TO_USE = ASIAN  ɨ
+LANGS_TO_USE = [lang for lang in ALL_LANGS_W_DATA if lang in [*NORTH_AMERICAN]]
+# LANGS_TO_USE = ALL_LANGS
 
 
 def get_all_langs() -> List[Language]:
