@@ -6,6 +6,7 @@ CHUMASH_CENTRAL = Language('chumash_central', _family, extinct_year=1965)
 KIOWA = Language('kiowa', _family, 20)
 PAWNEE = Language('pawnee', _family, 4160)
 TEWA = Language('tewa', _family, 1600)
+TOTONAC = Language('totonac', _family, 260000)
 
 
 NORTH_AMERICAN_OTHER = [
@@ -13,4 +14,5 @@ NORTH_AMERICAN_OTHER = [
     KIOWA,
     PAWNEE,
     TEWA,
+    TOTONAC,
 ]

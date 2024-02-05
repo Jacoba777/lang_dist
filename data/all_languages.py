@@ -6,8 +6,10 @@ from data.hmong_mein import HMONG_MEIN
 from data.hokan import HOKAN
 from data.iroquoian import IROQUOIAN
 from data.kra_dai import KRA_DAI
+from data.mayan import MAYAN
 from data.muskogean import MUSKOGEAN
 from data.north_american_other import NORTH_AMERICAN_OTHER
+from data.oto_manguean import OTO_MANGUEAN
 from data.sino_tibetan import SINO_TIBETAN
 from data.siouan import SIOUAN
 from data.uto_aztecan import UTO_AZTECAN
@@ -76,8 +78,10 @@ NORTH_AMERICAN = [
     *HOKAN,
     *IROQUOIAN,
     *SIOUAN,
+    *MAYAN,
     *MUSKOGEAN,
     *NORTH_AMERICAN_OTHER,
+    *OTO_MANGUEAN,
     *UTO_AZTECAN,
 ]
 

@@ -11,6 +11,7 @@ MOJAVE = Language('mojave', _family, 200)
 POMO = Language('pomo', _family, 20)
 SALINAN = Language('salinan', _family, extinct_year=1958)
 TIIPAI = Language('tiipai', _family, 100)
+TEQUISTLATECAN = Language('tequistlatecan', _family, 6000)
 YANA = Language('yana', _family, extinct_year=1916)
 
 
@@ -23,6 +24,7 @@ HOKAN = [
     MOJAVE,
     POMO,
     SALINAN,
+    TEQUISTLATECAN,
     TIIPAI,
     YANA,
 ]
