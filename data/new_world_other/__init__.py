@@ -1,11 +1,13 @@
 from model.lang import Language
 
-CHUMASH_CENTRAL = Language('chumash_central', 'chumashan', extinct_year=1965)
-KIOWA = Language('kiowa', 'tanoan', 20)
-PAWNEE = Language('pawnee', 'caddoan', 4160)
-QUECHUA = Language('quechua', 'quechua', 7200000)
-TEWA = Language('tewa', 'tanoan', 1600)
-TOTONAC = Language('totonac', 'totonacan', 260000)
+_family = 'new_world_other'
+
+CHUMASH_CENTRAL = Language('chumash_central', _family, extinct_year=1965)
+KIOWA = Language('kiowa', _family, 20)
+PAWNEE = Language('pawnee', _family, 4160)
+QUECHUA = Language('quechua', _family, 7200000)
+TEWA = Language('tewa', _family, 1600)
+TOTONAC = Language('totonac', _family, 260000)
 
 
 NEW_WORLD_OTHER = [
