@@ -8,10 +8,11 @@ from data.iroquoian import IROQUOIAN
 from data.kra_dai import KRA_DAI
 from data.mayan import MAYAN
 from data.muskogean import MUSKOGEAN
-from data.north_american_other import NORTH_AMERICAN_OTHER
+from data.new_world_other import NEW_WORLD_OTHER
 from data.oto_manguean import OTO_MANGUEAN
 from data.sino_tibetan import SINO_TIBETAN
 from data.siouan import SIOUAN
+from data.tupian import TUPIAN
 from data.uto_aztecan import UTO_AZTECAN
 from model.lang import Language
 
@@ -72,7 +73,7 @@ ASIAN = [
     *TURKIC,
 ]
 
-NORTH_AMERICAN = [
+NEW_WORLD = [
     *ALGIC,
     *DENE_YENISEIAN,
     *HOKAN,
@@ -80,25 +81,26 @@ NORTH_AMERICAN = [
     *SIOUAN,
     *MAYAN,
     *MUSKOGEAN,
-    *NORTH_AMERICAN_OTHER,
+    *NEW_WORLD_OTHER,
     *OTO_MANGUEAN,
+    *TUPIAN,
     *UTO_AZTECAN,
 ]
 
 ALL_LANGS: List[Language] = [
     *ASIAN,
     *INDO_EUROPEAN,
-    *NORTH_AMERICAN,
+    *NEW_WORLD,
+    *AUSTRONESIAN,
     *CAUCASIAN,
     *URALIC,
-    *AUSTRONESIAN,
     *ISOLATES,
 ]
 
 ALL_LANGS_W_DATA = [lang for lang in ALL_LANGS if lang.get_word_count() >= 10]
 ALL_MODERN_LANGS_W_DATA = [lang for lang in ALL_LANGS_W_DATA if lang.extinct_year is None]
 
-LANGS_TO_USE = [lang for lang in ALL_LANGS_W_DATA if lang in [*NORTH_AMERICAN]]
+LANGS_TO_USE = [lang for lang in ALL_LANGS_W_DATA if lang in [*NEW_WORLD]]
 # LANGS_TO_USE = ALL_LANGS
 
 
