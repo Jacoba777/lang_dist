@@ -50,7 +50,7 @@ def get_closest_langs(lang_name: str):
     en_dists.sort()
 
     for dist in en_dists:
-        print(f"{dist[1]}: {(1-dist[0])*100:.1f}%")
+        print(f"{dist[1]}: {(1-dist[0][0])*100:.1f}%")
 
 
 def get_lang_dist_pairs():
@@ -159,7 +159,7 @@ def node_compare():
 if __name__ == '__main__':
     # get_words_by_similarity("Italian", "English")
     # show_relative_distance('English', 'Dutch', 'WestFrisian')
-    # get_closest_langs("Spanish")
+    # get_closest_langs("esperanto")
     get_lang_dist_pairs()
     get_cluster_hierarchy_v2()
     # node_compare()

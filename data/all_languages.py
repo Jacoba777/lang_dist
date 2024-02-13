@@ -1,6 +1,8 @@
 from typing import List
 
+from data.afroasiatic import AFROASIATIC
 from data.algic import ALGIC
+from data.constructed import CONSTRUCTED
 from data.dene_yeniseian import DENE_YENISEIAN
 from data.hmong_mein import HMONG_MEIN
 from data.hokan import HOKAN
@@ -91,17 +93,19 @@ ALL_LANGS: List[Language] = [
     *ASIAN,
     *INDO_EUROPEAN,
     *NEW_WORLD,
+    *AFROASIATIC,
     *AUSTRONESIAN,
     *CAUCASIAN,
     *URALIC,
     *ISOLATES,
+    *CONSTRUCTED,
 ]
 
 ALL_LANGS_W_DATA = [lang for lang in ALL_LANGS if lang.get_word_count() >= 10]
 ALL_MODERN_LANGS_W_DATA = [lang for lang in ALL_LANGS_W_DATA if lang.extinct_year is None]
 
-LANGS_TO_USE = [lang for lang in ALL_LANGS_W_DATA if lang in [*NEW_WORLD]]
-# LANGS_TO_USE = ALL_LANGS
+LANGS_TO_USE = [lang for lang in ALL_LANGS_W_DATA if lang in [*AFROASIATIC]]
+# LANGS_TO_USE = ALL_MODERN_LANGS_W_DATA
 
 
 def get_all_langs() -> List[Language]:
