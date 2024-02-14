@@ -7,10 +7,12 @@ from data.dene_yeniseian import DENE_YENISEIAN
 from data.hmong_mein import HMONG_MEIN
 from data.hokan import HOKAN
 from data.iroquoian import IROQUOIAN
+from data.khoisan import KHOISAN
 from data.kra_dai import KRA_DAI
 from data.mayan import MAYAN
 from data.muskogean import MUSKOGEAN
 from data.new_world_other import NEW_WORLD_OTHER
+from data.niger_congo import NIGER_CONGO
 from data.oto_manguean import OTO_MANGUEAN
 from data.sino_tibetan import SINO_TIBETAN
 from data.siouan import SIOUAN
@@ -89,12 +91,18 @@ NEW_WORLD = [
     *UTO_AZTECAN,
 ]
 
+AFRICAN = [
+    *KHOISAN,
+    *NIGER_CONGO,
+]
+
 ALL_LANGS: List[Language] = [
     *ASIAN,
     *INDO_EUROPEAN,
     *NEW_WORLD,
     *AFROASIATIC,
     *AUSTRONESIAN,
+    *AFRICAN,
     *CAUCASIAN,
     *URALIC,
     *ISOLATES,
@@ -104,7 +112,7 @@ ALL_LANGS: List[Language] = [
 ALL_LANGS_W_DATA = [lang for lang in ALL_LANGS if lang.get_word_count() >= 10]
 ALL_MODERN_LANGS_W_DATA = [lang for lang in ALL_LANGS_W_DATA if lang.extinct_year is None]
 
-LANGS_TO_USE = [lang for lang in ALL_LANGS_W_DATA if lang in [*AFROASIATIC]]
+LANGS_TO_USE = [lang for lang in ALL_LANGS_W_DATA if lang in [*CONSTRUCTED, *INDO_EUROPEAN]]
 # LANGS_TO_USE = ALL_MODERN_LANGS_W_DATA
 
 

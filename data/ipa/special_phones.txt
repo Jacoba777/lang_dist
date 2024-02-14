@@ -38,4 +38,6 @@ symbol	replacement
 ṵ	u
 ē	e
 ō	o
-ʮ	u
+ǒ	o
+ṍ	o
+ȭ	o
