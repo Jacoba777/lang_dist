@@ -41,3 +41,4 @@ symbol	replacement
 ǒ	o
 ṍ	o
 ȭ	o
+ʮ	ɹʷu

@@ -2,7 +2,8 @@ from typing import List
 
 from data.afroasiatic import AFROASIATIC
 from data.algic import ALGIC
-from data.constructed import CONSTRUCTED
+from data.constructed import CONSTRUCTED, ESPERANTO
+from data.creoles import CREOLES
 from data.dene_yeniseian import DENE_YENISEIAN
 from data.hmong_mein import HMONG_MEIN
 from data.hokan import HOKAN
@@ -106,14 +107,17 @@ ALL_LANGS: List[Language] = [
     *CAUCASIAN,
     *URALIC,
     *ISOLATES,
+    *CREOLES,
     *CONSTRUCTED,
 ]
 
-ALL_LANGS_W_DATA = [lang for lang in ALL_LANGS if lang.get_word_count() >= 10]
-ALL_MODERN_LANGS_W_DATA = [lang for lang in ALL_LANGS_W_DATA if lang.extinct_year is None]
+LANGS_SUFFICIENT_DATA = [lang for lang in ALL_LANGS if lang.get_word_count() >= 10]
+LANGS_MODERN_LANGS = [lang for lang in ALL_LANGS if lang.extinct_year is None]
+LANGS_WIDELY_SPOKEN = [lang for lang in ALL_LANGS if lang.total_speakers >= 1000000]
 
-LANGS_TO_USE = [lang for lang in ALL_LANGS_W_DATA if lang in [*CONSTRUCTED, *INDO_EUROPEAN]]
-# LANGS_TO_USE = ALL_MODERN_LANGS_W_DATA
+# LANGS_TO_USE = [lang for lang in ALL_MODERN_LANGS_W_DATA if lang in [*CONSTRUCTED, *CREOLES, *INDO_EUROPEAN]]
+LANGS_TO_USE = [lang for lang in ALL_LANGS if lang in LANGS_WIDELY_SPOKEN and lang in LANGS_SUFFICIENT_DATA or lang in [ESPERANTO]]
+# LANGS_TO_USE = [lang for lang in ALL_LANGS if lang.name in ['english_us', 'german', 'dutch', 'danish', 'swedish', 'norwegian_bokmal', 'west_frisian', 'mandarin_standard', 'luxembourgish', 'icelandic', 'zeelandic', 'faroese']]
 
 
 def get_all_langs() -> List[Language]:

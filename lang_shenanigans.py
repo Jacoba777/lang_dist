@@ -1,4 +1,10 @@
-from data.all_languages import ALL_LANGS
+from data.all_languages import ALL_LANGS, LANGS_TO_USE
+
+
+def list_by_native_speakers():
+    langs_sorted = sorted(LANGS_TO_USE, key=lambda lang: lang.native_speakers)
+    for lang in langs_sorted:
+        print(f'{lang.name} - Speakers: {lang.native_speakers}')
 
 
 def main():
@@ -11,4 +17,5 @@ def main():
 
 
 if __name__ == '__main__':
-    main()
+    # main()
+    list_by_native_speakers()

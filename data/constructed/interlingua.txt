@@ -1,0 +1,207 @@
+io	io	ˈi.o
+tu	tu	tu
+ille	ille	
+nos	nos	
+vos	vos	
+illes	illes	
+iste	iste	
+celle	celle	
+hic	hic	
+illac	illac	ˈil.lak
+qui	qui	ki
+que	que	k(w)e
+ubi	ubi	ˈu.bi
+quando	quando	ˈkwan.do
+como	como	
+non	non	
+tote	tote	
+multe	multe	
+alcun	alcun	
+poc	poc	
+altere	altere	
+un	un	
+duo	duo	
+tres	tres	
+quatro	quatro	
+cinque	cinque	ˈt͡sin.kwe
+grande	grande	
+longe	longe	
+large	large	
+spisse	spisse	
+pesante	pesante	
+parve	parve	
+curte	curte	ˈkur.te
+stricte	stricte	
+tenue	tenue	
+femina	femina	ˈfe.mi.na
+masculo	masculo	ˈmas.ku.lo
+homine	homine	ˈho.mi.ne
+infante	infante	
+marita	marita	ma.ˈri.ta
+marito	marito	maˈri.to
+matre	matre	
+patre	patre	
+animal	animal	a.niˈmal
+pisce	pisce	
+ave	ave	
+can	can	
+pediculo	pediculo	
+serpente	serpente	
+verme	verme	
+arbore	arbore	ˈar.bo.re
+foreste	foreste	
+baston	baston	
+fructo	fructo	ˈfɾuk.to
+semine	semine	
+folio	folio	
+radice	radice	
+cortice	cortice	
+flor	flor	
+herba	herba	
+corda	corda	
+cute	cute	
+carne	carne	
+sanguine	sanguine	ˈsaŋ.ɡwi.ne
+osso	osso	
+grassia	grassia	
+ovo	ovo	
+corno	corno	
+cauda	cauda	
+pluma	pluma	
+pilo	pilo	
+capite	capite	
+aure	aure	
+oculo	oculo	ˈo.ku.lo
+naso	naso	
+bucca	bucca	
+dente	dente	
+lingua	lingua	ˈliŋ.ɡwa
+ungue	ungue	
+pede	pede	
+gamba	gamba	
+genu	genu	
+mano	mano	ˈma.no
+ala	ala	
+ventre	ventre	
+tripas	tripas	
+collo	collo	
+dorso	dorso	
+pectore	pectore	
+corde	corde	
+ficato	ficato	ˈfi.kɑ.to
+biber	biber	
+mangiar	mangiar	
+morder	morder	
+suger	suger	
+sputar	sputar	
+vomitar	vomitar	
+sufflar	sufflar	
+respirar	respirar	
+rider	rider	
+vider	vider	viˈder
+audir	audir	au̯ˈdir
+saper	saper	saˈper
+pensar	pensar	
+olfacer	olfacer	
+timer	timer	
+dormir	dormir	
+viver	viver	
+morir	morir	
+occider	occider	
+luctar	luctar	
+chassar	chassar	
+colpar	colpar	
+secar	secar	
+finder	finder	
+dagar	dagar	
+grattar	grattar	
+foder	foder	
+natar	natar	
+volar	volar	voˈlar
+ambular	ambular	
+venir	venir	
+jacer	jacer	ʒaˈtser
+seder	seder	
+star	star	
+girar	girar	
+cader	cader	
+dar	dar	
+tener	tener	
+premer	premer	
+fricar	fricar	
+lavar	lavar	
+essugar	essugar	
+tirar	tirar	
+pulsar	pulsar	
+jectar	jectar	ʒekˈtaɾ
+ligar	ligar	
+suer	suer	
+contar	contar	
+dicer	dicer	diˈtser
+cantar	cantar	kanˈtar
+jocar	jocar	ʒoˈkar
+flottar	flottar	
+fluer	fluer	
+gelar	gelar	
+tumer	tumer	
+sol	sol	
+luna	luna	
+stella	stella	
+aqua	aqua	
+pluvia	pluvia	ˈpluvja
+fluvio	fluvio	
+laco	laco	ˈla.ko
+mar	mar	
+sal	sal	
+petra	petra	
+arena	arena	
+pulvere	pulvere	
+terra	terra	
+nube	nube	
+nebula	nebula	
+celo	celo	
+vento	vento	
+nive	nive	
+glacie	glacie	
+fumo	fumo	
+foco	foco	
+cinere	cinere	
+arder	arder	
+strata	strata	
+montania	montania	
+rubie	rubie	
+verde	verde	
+jalne	jalne	
+blanc	blanc	blaŋk
+nigre	nigre	
+nocte	nocte	
+die	die	
+anno	anno	
+calide	calide	
+frigide	frigide	ˈfri.ɡi.de
+plen	plen	
+nove	nove	
+vetere	vetere	
+bon	bon	
+mal	mal	
+putride	putride	
+immunde	immunde	
+recte	recte	
+ronde	ronde	
+acute	acute	
+obtuse	obtuse	
+lisie	lisie	
+humide	humide	
+sic	sic	
+correcte	correcte	
+proxime	proxime	ˈpɾo.ksi.me
+distante	distante	
+dextre	dextre	
+sinistre	sinistre	
+a	a	a
+in	in	
+con	con	
+e	e	
+si	si	
+proque	proque	ˈpro.k(w)e
+nomine	nomine	ˈno.mi.ne

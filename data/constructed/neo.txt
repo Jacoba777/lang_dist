@@ -1,0 +1,207 @@
+mi	mi	
+tu	tu	
+il	il	
+nos	nos	
+vu	vu	
+zi	zi	
+et	et	
+yen	yen	
+ik	ik	
+ye	ye	
+ki	ki	
+ko	ko	
+wo	wo	
+van	van	
+kom	kom	
+no	no	
+tot	tot	
+mul	mul	
+som	som	
+pok	pok	
+osa	osa	
+un	un	
+du	du	
+tre	tre	
+qar	qar	
+qin	qin	
+gran	gran	
+longa	longa	
+larga	larga	
+spesa	spesa	
+pesa	pesa	
+let	let	
+		
+strika	strika	
+tenua	tenua	
+fem	fem	
+vir	vir	
+om	om	
+infan	infan	
+spozin	spozin	
+spozo	spozo	
+matro	matro	
+patro	patro	
+animal	animal	
+pesh	pesh	
+ezo	ezo	
+kanyo	kanyo	
+luzo	luzo	
+serpo	serpo	
+vermo	vermo	
+arbo	arbo	
+forest	forest	
+batil	batil	
+frut	frut	
+semen	semen	
+folyo	folyo	
+radik	radik	
+kortik	kortik	
+flor	flor	
+erbo	erbo	
+kordo	kordo	
+kut	kut	
+karno	karno	
+sang	sang	
+ost	ost	
+graso	graso	
+ov	ov	
+korno	korno	
+kodlo	kodlo	
+plum	plum	
+pil	pil	
+cef	cef	
+orel	orel	
+ok	ok	
+nazo	nazo	
+bok	bok	
+dent	dent	
+glos	glos	
+		
+ped	ped	
+gambo	gambo	
+zun	zun	
+man	man	
+alo	alo	
+ventro	ventro	
+		
+kolo	kolo	
+dorso	dorso	
+pekto	pekto	
+kor	kor	
+ep	ep	
+bevi	bevi	
+edi	edi	
+mordi	mordi	
+		
+sputi	sputi	
+vomi	vomi	
+sopli	sopli	
+sopli	sopli	
+ridi	ridi	
+vidi	vidi	
+udi	udi	
+sapi	sapi	
+pensi	pensi	
+olfi	olfi	
+timi	timi	
+dodi	dodi	
+vivi	vivi	
+morti	morti	
+ocidi	ocidi	
+lopi	lopi	
+yagi	yagi	
+kolpi	kolpi	
+koti	koti	
+fenti	fenti	
+		
+grati	grati	
+		
+nagi	nagi	
+flugi	flugi	
+pedi	pedi	
+veni	veni	
+kushi	kushi	
+sidi	sidi	
+stari	stari	
+torni	torni	
+kadi	kadi	
+di	di	
+teni	teni	
+		
+		
+lavi	lavi	
+shugi	shugi	
+		
+presyoni	presyoni	
+jeki	jeki	
+ligi	ligi	
+		
+konti	konti	
+dici	dici	
+kanti	kanti	
+ludi	ludi	
+flosi	flosi	
+		
+		
+		
+solyo	solyo	
+lun	lun	
+stel	stel	
+akuo	akuo	
+pluv	pluv	
+flum	flum	
+lak	lak	
+mar	mar	
+sal	sal	
+petro	petro	
+sablo	sablo	
+polvo	polvo	
+ter	ter	
+nub	nub	
+neblo	neblo	
+		
+vent	vent	
+nev	nev	
+glazo	glazo	
+fum	fum	
+fok	fok	
+		
+bruli	bruli	
+rut	rut	
+mont	mont	
+ruba	ruba	
+verda	verda	
+jala	jala	
+alba	alba	
+nera	nera	
+nox	nox	
+id	id	
+anyo	anyo	
+		
+friga	friga	
+plena	plena	
+nuv	nuv	
+olda	olda	
+bon	bon	
+mala	mala	
+		
+		
+drita	drita	
+ronda	ronda	
+akuta	akuta	
+		
+		
+umida	umida	
+seka	seka	
+korekta	korekta	
+proxa	proxa	
+dusa	dusa	
+dexa	dexa	
+		
+a	a	
+in	in	
+kon	kon	
+e	e	
+		
+per	per	
+nam	nam	
