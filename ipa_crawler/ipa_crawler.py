@@ -1,7 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 
-BASE_URL = 'https://en.wiktionary.org/wiki'
+BASE_URL = 'https://en.wiktionary.org/wiki/Appendix:Novial'
 
 
 def get_word_ipa(word: str, lang: str):
@@ -9,12 +9,14 @@ def get_word_ipa(word: str, lang: str):
     r = requests.get(url)
     soup = BeautifulSoup(r.content, "html.parser")
 
+    # lang_headers = soup.find_all("span", class_="mw-headline", id=True)
+
     lang_header = soup.find("span", class_="mw-headline", id=lang)
 
     if lang_header is None:
         return f'[ERROR] Could not find word "{word}" in lang "{lang}"'
 
-    in_pronunciation_section, in_lhasa = False, False
+    in_pronunciation_section, in_lhasa = False, True
 
     curr_element = lang_header
     while curr_element:
@@ -23,8 +25,8 @@ def get_word_ipa(word: str, lang: str):
         if curr_element.text == 'Pronunciation':
             in_pronunciation_section = True
 
-        # if curr_element.text == 'Lhasa':
-        #     in_lhasa = True
+        if curr_element.text == 'Yemenite Hebrew':
+            in_lhasa = True
 
         if curr_element is None or curr_element.name == 'h2':
             return f'[ERROR] Missing IPA section for word "{word}" in lang "{lang}"'
@@ -33,6 +35,7 @@ def get_word_ipa(word: str, lang: str):
                 and curr_element.get('class') \
                 and 'IPA' in curr_element.get('class') \
                 and in_pronunciation_section \
+                and in_lhasa \
                 and not curr_element.text.startswith('⟨'):
             return curr_element.text
 

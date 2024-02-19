@@ -1,9 +1,10 @@
 from math import inf
+from typing import Tuple
 
-from data.all_languages import *
+from data.lang_swadesh_lists import LANGS_SUFFICIENT_DATA, get_all_langs
 from model.difference_scores import DifferenceScores
 from model.lang import Language
-from model.lang_dist import LanguageDistances, calculate_word_dists
+from model.lang_dist import LanguageDistances, calculate_word_dists, calculate_lang_dist
 from model.node import Node
 
 
@@ -41,16 +42,69 @@ def show_relative_distance(lang_name: str, lang_name_1: str, lang_name_2: str):
     print("Average relative distance:", abs_diff)
 
 
-def get_closest_langs(lang_name: str):
-    langs = get_all_langs()
-    compare_lang = [lang for lang in langs if lang.name == lang_name][0]
-    lang_dists = LanguageDistances(langs)
+def print_est_formatted(lang: Language, other_lang: Language, estimate: float, moe: float):
+    compare_name = f'{lang}-{other_lang}'
+    pad_compare_name = compare_name + ' ' * (55 - len(compare_name)) + ':'
 
-    en_dists = [(lang_dists.get_dist(compare_lang, lang), lang.name) for lang in langs]
-    en_dists.sort()
+    str_to_print = pad_compare_name
 
-    for dist in en_dists:
-        print(f"{dist[1]}: {(1-dist[0][0])*100:.1f}%")
+    x_est = int(estimate * 100)
+    x_moe = int(moe * 100)
+    l_bar = max(x_est - x_moe, 0)
+    r_bar = min(x_est + x_moe, 100)
+
+    l_dashes = '-' * (x_est - l_bar - 2)
+    r_dashes = '-' * (r_bar - x_est - 2)
+
+    if l_bar != x_est:
+        str_to_print += ' ' * l_bar + '|' + l_dashes
+
+    str_to_print += '0'
+
+    if r_bar != x_est:
+        str_to_print += r_dashes + '|'
+
+    str_to_print += f' {estimate * 100:.2f}% (+/-{moe * 100:.2f}%)'
+
+    print(str_to_print)
+
+
+def print_all_ests(ests: List[Tuple[Language, Language, Tuple[float, float]]]):
+    for est in ests:
+        lang, other_lang, dist_scores = est
+        estimate, moe = dist_scores
+        print_est_formatted(lang, other_lang, estimate, moe)
+
+
+def filter_between_distance_range(ests: List[Tuple[Language, Language, Tuple[float, float]]], min_est: float, max_est: float):
+    return [est for est in ests if min_est <= est[2][0] <= max_est]
+
+
+def get_closest_langs(lang: Language):
+    langs = LANGS_SUFFICIENT_DATA
+    ests = [(lang, other_lang, calculate_lang_dist(lang, other_lang)) for other_lang in langs]
+    ests = [ld for ld in ests if ld[2][0] <= 0.63 and ld[2][0] + ld[2][1] <= 0.75]
+    ests.sort(key=lambda dist: dist[2])
+
+    ests_dialects = filter_between_distance_range(ests, 0, 0.1)
+    ests_high = filter_between_distance_range(ests, 0.1, 0.19)
+    ests_moderate = filter_between_distance_range(ests, 0.19, 0.28)
+    ests_low = filter_between_distance_range(ests, 0.28, 0.39)
+    ests_related = filter_between_distance_range(ests, 0.39, 0.55)
+    ests_possible_related = filter_between_distance_range(ests, 0.55, 0.63)
+
+    print('          ********** DIALECTS OR SELF **********          ')
+    print_all_ests(ests_dialects)
+    print('          ********** HIGH INTELLIGIBILITY **********          ')
+    print_all_ests(ests_high)
+    print('          ********** MODERATE INTELLIGIBILITY **********          ')
+    print_all_ests(ests_moderate)
+    print('          ********** LOW INTELLIGIBILITY **********          ')
+    print_all_ests(ests_low)
+    print('          ********** UNINTELLIGIBLE, RELATED **********          ')
+    print_all_ests(ests_related)
+    print('          ********** UNINTELLIGIBLE, POSSIBLY RELATED **********          ')
+    print_all_ests(ests_possible_related)
 
 
 def get_lang_dist_pairs():
@@ -159,7 +213,7 @@ def node_compare():
 if __name__ == '__main__':
     # get_words_by_similarity("Italian", "English")
     # show_relative_distance('English', 'Dutch', 'WestFrisian')
-    # get_closest_langs("esperanto")
-    get_lang_dist_pairs()
-    get_cluster_hierarchy_v2()
+    get_closest_langs(SRANAN_TONGO)
+    # get_lang_dist_pairs()
+    # get_cluster_hierarchy_v2()
     # node_compare()

@@ -12,16 +12,19 @@ DUTCH = Language('dutch', _FAMILY, 25000000, 5000000)
 AFRIKAANS = Language('afrikaans', _FAMILY, 7200000, 10300000)
 SWEDISH = Language('swedish', _FAMILY, 10000000, 3000000)
 DANISH = Language('danish', _FAMILY, 6000000, 0)
-NORWEGIAN_BOKMAL = Language('norwegian_bokmal', _FAMILY, 5000000, 0)
-NORWEGIAN_NYNORSK = Language('norwegian_nynorsk', _FAMILY, 5000000, 0)
+GERMAN_LOW = Language('german_low', _FAMILY, 5900000, 10000000)
+NORWEGIAN_BOKMAL = Language('norwegian_bokmal', _FAMILY, 3670000, 0)
 SCOTS = Language('scots', _FAMILY, 1540000, 0)
+LIMBURGISH = Language('limburgish', _FAMILY, 1300000)
+NORWEGIAN_NYNORSK = Language('norwegian_nynorsk', _FAMILY, 650000, 0)
 YIDDISH = Language('yiddish', _FAMILY, 600000, 0)
 WEST_FRISIAN = Language('west_frisian', _FAMILY, 470000, 0)
 LUXEMBOURGISH = Language('luxembourgish', _FAMILY, 430000, 0)
+FRANCONIAN_CENTRAL = Language('franconian_central', _FAMILY, 360000)  # Using Lorraine Franconian numbers
 ICELANDIC = Language('icelandic', _FAMILY, 340000, 0)
 ZEELANDIC = Language('zeelandic', _FAMILY, 220000, 0)
 FAROESE = Language('faroese', _FAMILY, 69000, 0)
-GOTHIC = Language('gothic', _FAMILY, 0, 0)
+GOTHIC = Language('gothic', _FAMILY, extinct_year=1700)
 
 GERMANIC = [
     ENGLISH_UK,
@@ -41,6 +44,9 @@ GERMANIC = [
     ICELANDIC,
     SWEDISH,
     DANISH,
+    GERMAN_LOW,
+    FRANCONIAN_CENTRAL,
+    LIMBURGISH,
     SCOTS,
     ZEELANDIC,
 ]

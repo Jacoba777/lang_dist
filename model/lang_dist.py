@@ -2,7 +2,7 @@ from math import sqrt
 from statistics import stdev, mean
 from typing import Dict, List, Tuple
 
-from data.swadesh import SWADESH_WORDS
+from data.lang_swadesh_lists import SWADESH_WORDS
 from model.lang import Language
 from model.word import word_distance
 
