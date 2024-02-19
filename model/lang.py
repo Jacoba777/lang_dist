@@ -1,34 +1,25 @@
 import os
-from typing import Dict
 
+from data.swadesh import SWADESH_WORDS
 from model.word import Word
-from config import ROOT
 
 
 class Language:
-    def __init__(self, name: str, family: str | None, native_speakers: int = 0, l2_speakers: int = 0, extinct_year: int | None = None):
+    def __init__(self, name: str, _file: str | None, native_speakers: int = 0, l2_speakers: int = 0, extinct_year: int | None = None):
         self.name = name
-        self.family = family
+        self.family = _file.split('\\')[-2]
         self.extinct_year = extinct_year
-        self._create_dict_from_raw_data()
+        self._create_dict_from_raw_data(_file)
 
         self.native_speakers = native_speakers
         self.l2_speakers = l2_speakers
         self.total_speakers = native_speakers + l2_speakers
 
-    def _create_dict_from_raw_data(self):
+    def _create_dict_from_raw_data(self, _file: str):
         self._dict = {}
 
-        swadesh_loc = os.path.join(ROOT, 'data', 'swadesh.txt')
-        with open(swadesh_loc) as f:
-            swadesh_words = f.read().split('\n')
-
-        filename = f'{self.name}.txt'
-        path = os.path.join(ROOT, 'data', self.family, filename)
-        with open(path, encoding='UTF-8') as f:
-            word_data = f.read().split('\n')
-
-        words_zip = zip(swadesh_words, word_data)
+        word_data = _get_data_loc_from_file(_file, self.name)
+        words_zip = zip(SWADESH_WORDS, word_data)
 
         for word_swadesh, word_lang_data in words_zip:
             word_fields = word_lang_data.split('\t')
@@ -53,3 +44,16 @@ class Language:
 
     def __lt__(self, other):
         return self.name < other.name
+
+
+def _get_data_loc_from_file(_file: str, lang_name: str):
+    relpath = os.path.relpath(_file, os.getcwd())
+    path_parts = relpath.split('\\')[:-1]  # Remove the file name from path
+    dir_loc = '\\'.join(path_parts)
+
+    filename = f'{lang_name}.txt'
+    path = os.path.join(dir_loc, filename)
+    with open(path, encoding='UTF-8') as f:
+        word_data = f.read().split('\n')
+
+    return word_data

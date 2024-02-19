@@ -1,17 +1,15 @@
 from model.lang import Language
 
-_FAMILY = 'austroasiatic'
-
-BAHNAR = Language('bahnar', _FAMILY, 160000)
-BLANG = Language('blang', _FAMILY, 68000)
-KATU = Language('katu', _FAMILY, 23000)
-KHASI = Language('khasi', _FAMILY, 1000000)
-KHMER = Language('khmer', _FAMILY, 17000000, 1000000)
-MON = Language('mon', _FAMILY, 900000)
-SANTALI = Language('santali', _FAMILY, 7600000)
-SEDANG = Language('sedang', _FAMILY, 98000)
-TEMIAR = Language('temiar', _FAMILY, 30000)
-VIETNAMESE = Language('vietnamese', _FAMILY, 85000000)
+BAHNAR = Language('bahnar', __file__, 160000)
+BLANG = Language('blang', __file__, 68000)
+KATU = Language('katu', __file__, 23000)
+KHASI = Language('khasi', __file__, 1000000)
+KHMER = Language('khmer', __file__, 17000000, 1000000)
+MON = Language('mon', __file__, 900000)
+SANTALI = Language('santali', __file__, 7600000)
+SEDANG = Language('sedang', __file__, 98000)
+TEMIAR = Language('temiar', __file__, 30000)
+VIETNAMESE = Language('vietnamese', __file__, 85000000)
 
 AUSTROASIATIC = [
     BAHNAR,

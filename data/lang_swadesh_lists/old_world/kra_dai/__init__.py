@@ -1,17 +1,15 @@
 from model.lang import Language
 
-_FAMILY = 'kra_dai'
-
-BUYANG = Language('buyang', _FAMILY, 1500)
-GELAO = Language('gelao', _FAMILY, 7900)
-HLAI = Language('hlai', _FAMILY, 667000)
-JIZHAO = Language('jizhao', _FAMILY, 75)
-KHAM_SOUTHERN = Language('kham_southern', _FAMILY, 1500000)  # KAM?
-LAO = Language('lao', _FAMILY, 3000000)
-ONG_BE = Language('ong_be', _FAMILY, 600000)
-SHAN = Language('shan', _FAMILY, 4700000)
-THAI = Language('thai', _FAMILY, 21000000, 40000000)
-ZHUANG = Language('zhuang', _FAMILY, 16000000)
+BUYANG = Language('buyang', __file__, 1500)
+GELAO = Language('gelao', __file__, 7900)
+HLAI = Language('hlai', __file__, 667000)
+JIZHAO = Language('jizhao', __file__, 75)
+KHAM_SOUTHERN = Language('kham_southern', __file__, 1500000)  # KAM?
+LAO = Language('lao', __file__, 3000000)
+ONG_BE = Language('ong_be', __file__, 600000)
+SHAN = Language('shan', __file__, 4700000)
+THAI = Language('thai', __file__, 21000000, 40000000)
+ZHUANG = Language('zhuang', __file__, 16000000)
 
 
 KRA_DAI = [

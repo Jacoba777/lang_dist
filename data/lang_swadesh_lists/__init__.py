@@ -1,11 +1,11 @@
 from typing import List
 
-from old_world import *
-from new_world import *
+from .old_world import *
+from .new_world import *
 
-from constructed import *
-from creoles import *
-from isolates import *
+from .constructed import *
+from .creoles import *
+from .isolates import *
 
 ALL_LANGS: List[Language] = [
     *NEW_WORLD,

@@ -1,15 +1,13 @@
 from model.lang import Language
 
-_family = 'penutian'
-
-CHINOOK = Language('chinook', _family, extinct_year=2012)
-KLAMATH = Language('klamath', _family, extinct_year=2003)
-MAIDU = Language('maidu', _family, extinct_year=2007)
-MIWOK = Language('miwok', _family, 3)
-NEZ_PERCE = Language('nez_perce', _family, 20)
-OHLONE = Language('ohlone', _family, extinct_year=1950)
-WINTU = Language('wintu', _family, extinct_year=2003)
-YAKAMA = Language('yakama', _family, 112)
+CHINOOK = Language('chinook', __file__, extinct_year=2012)
+KLAMATH = Language('klamath', __file__, extinct_year=2003)
+MAIDU = Language('maidu', __file__, extinct_year=2007)
+MIWOK = Language('miwok', __file__, 3)
+NEZ_PERCE = Language('nez_perce', __file__, 20)
+OHLONE = Language('ohlone', __file__, extinct_year=1950)
+WINTU = Language('wintu', __file__, extinct_year=2003)
+YAKAMA = Language('yakama', __file__, 112)
 
 
 PENUTIAN = [
@@ -17,7 +15,7 @@ PENUTIAN = [
     KLAMATH,
     MAIDU,
     MIWOK,
-    NEZ_PERCÉ,
+    NEZ_PERCE,
     OHLONE,
     WINTU,
     YAKAMA,

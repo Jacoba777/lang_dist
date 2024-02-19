@@ -1,11 +1,9 @@
 from model.lang import Language
 
-_FAMILY = 'chukotko_kamchatkan'
-
-CHUKCHI = Language('chukchi', _FAMILY, 8500)
-ITELMEN = Language('itelmen', _FAMILY, 80)
-KEREK = Language('kerek', _FAMILY, extinct_year=2005)
-KORYAK = Language('koryak', _FAMILY, 1665)
+CHUKCHI = Language('chukchi', __file__, 8500)
+ITELMEN = Language('itelmen', __file__, 80)
+KEREK = Language('kerek', __file__, extinct_year=2005)
+KORYAK = Language('koryak', __file__, 1665)
 
 CHUKOTKO_KAMCHATKAN = [
     CHUKCHI,

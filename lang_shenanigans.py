@@ -1,8 +1,6 @@
-from typing import List, Tuple
+from typing import Tuple
 
-from data.all_languages import ALL_LANGS
-from data.lang_swadesh_lists import LANGS_TO_USE
-from data.germanic import ENGLISH_US
+from data.lang_swadesh_lists import *
 from model.lang import Language
 from model.lang_dist import calculate_lang_dist
 
@@ -58,7 +56,7 @@ def get_fixed_lang_dist():
 
 
 def main():
-    langs_sorted = list_by_lowest_embarrassment()
+    langs_sorted = list_by_lowest_embarrassment(ALL_LANGS)
     for lang in langs_sorted:
         print(f'{lang.name} - Embarrassment: {lang.get_embarrassment_level()} - words: {lang.get_word_count()}')
     print('-----\n', len(ALL_LANGS), 'languages and dialects total')

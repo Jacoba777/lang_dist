@@ -1,10 +1,8 @@
 from model.lang import Language
 
-_family = 'muskogean'
-
-CHICKASAW = Language('chickasaw', _family, 75)
-CHOCTAW = Language('choctaw', _family, 9600)
-MUSCOGEE = Language('muscogee', _family, 4500)
+CHICKASAW = Language('chickasaw', __file__, 75)
+CHOCTAW = Language('choctaw', __file__, 9600)
+MUSCOGEE = Language('muscogee', __file__, 4500)
 
 
 MUSKOGEAN = [

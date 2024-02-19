@@ -1,8 +1,6 @@
 from model.lang import Language
 
-_FAMILY = 'mongolic'
-
-MONGOLIAN = Language('mongolian', _FAMILY, 6200000)
+MONGOLIAN = Language('mongolian', __file__, 6200000)
 
 MONGOLIC = [
     MONGOLIAN,

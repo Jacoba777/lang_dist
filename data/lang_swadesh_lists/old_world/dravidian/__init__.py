@@ -1,20 +1,18 @@
 from model.lang import Language
 
-_FAMILY = 'dravidian'
-
-TAMIL = Language('tamil', _FAMILY, 78000000, 8000000)
-MALAYALAM = Language('malayalam', _FAMILY, 37000000, 700000)
-KODAVA = Language('kodava', _FAMILY, 113900)
-KANNADA = Language('kannada', _FAMILY, 44000000, 15000000)
-TULU = Language('tulu', _FAMILY, 1850000)
-TELUGU = Language('telugu', _FAMILY, 83000000, 13000000)
-GONDI = Language('gondi', _FAMILY, 2980000)
-KONDA_DARA = Language('konda_dara', _FAMILY, 61000)
-KUI = Language('kui', _FAMILY, 941000)
-KUVI = Language('kuvi', _FAMILY, 156000)
-KOLAMI = Language('kolami', _FAMILY, 128000)
-KURUKH = Language('kurukh', _FAMILY, 2280000)
-BRAHUI = Language('brahui', _FAMILY, 2640000)
+TAMIL = Language('tamil', __file__, 78000000, 8000000)
+MALAYALAM = Language('malayalam', __file__, 37000000, 700000)
+KODAVA = Language('kodava', __file__, 113900)
+KANNADA = Language('kannada', __file__, 44000000, 15000000)
+TULU = Language('tulu', __file__, 1850000)
+TELUGU = Language('telugu', __file__, 83000000, 13000000)
+GONDI = Language('gondi', __file__, 2980000)
+KONDA_DARA = Language('konda_dara', __file__, 61000)
+KUI = Language('kui', __file__, 941000)
+KUVI = Language('kuvi', __file__, 156000)
+KOLAMI = Language('kolami', __file__, 128000)
+KURUKH = Language('kurukh', __file__, 2280000)
+BRAHUI = Language('brahui', __file__, 2640000)
 
 
 DRAVIDIAN = [
